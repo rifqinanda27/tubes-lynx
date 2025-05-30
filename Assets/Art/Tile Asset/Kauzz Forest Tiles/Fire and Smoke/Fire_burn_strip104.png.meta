@@ -1,0 +1,3455 @@
+fileFormatVersion: 2
+guid: 1b829a8084297064a9ff8a487c5d9e3d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6427160746752952030
+    second: Fire_burn_strip104_0
+  - first:
+      213: 896363067528271087
+    second: Fire_burn_strip104_1
+  - first:
+      213: 7315884550469038556
+    second: Fire_burn_strip104_2
+  - first:
+      213: 6152606128422195127
+    second: Fire_burn_strip104_3
+  - first:
+      213: 5562146288739193938
+    second: Fire_burn_strip104_4
+  - first:
+      213: -5744783931622958196
+    second: Fire_burn_strip104_5
+  - first:
+      213: -6915922696538039869
+    second: Fire_burn_strip104_6
+  - first:
+      213: -2029883634918186079
+    second: Fire_burn_strip104_7
+  - first:
+      213: -2849933530741260386
+    second: Fire_burn_strip104_8
+  - first:
+      213: 726021552534815950
+    second: Fire_burn_strip104_9
+  - first:
+      213: -4294145638778929034
+    second: Fire_burn_strip104_10
+  - first:
+      213: -1945977653866021444
+    second: Fire_burn_strip104_11
+  - first:
+      213: -2991375845520563466
+    second: Fire_burn_strip104_12
+  - first:
+      213: -3139250145319667916
+    second: Fire_burn_strip104_13
+  - first:
+      213: 4554849247084739250
+    second: Fire_burn_strip104_14
+  - first:
+      213: 3960924102815137333
+    second: Fire_burn_strip104_15
+  - first:
+      213: -7950230466805594926
+    second: Fire_burn_strip104_16
+  - first:
+      213: 7201436998809494560
+    second: Fire_burn_strip104_17
+  - first:
+      213: -2265304839954323845
+    second: Fire_burn_strip104_18
+  - first:
+      213: -6738694086617658176
+    second: Fire_burn_strip104_19
+  - first:
+      213: -7888827131756664142
+    second: Fire_burn_strip104_20
+  - first:
+      213: -8017379257823160455
+    second: Fire_burn_strip104_21
+  - first:
+      213: -6537456634864256100
+    second: Fire_burn_strip104_22
+  - first:
+      213: 1461429879215000002
+    second: Fire_burn_strip104_23
+  - first:
+      213: -6295932049741757927
+    second: Fire_burn_strip104_24
+  - first:
+      213: -7976641279335797974
+    second: Fire_burn_strip104_25
+  - first:
+      213: 2241468644495982987
+    second: Fire_burn_strip104_26
+  - first:
+      213: 3978311987688559831
+    second: Fire_burn_strip104_27
+  - first:
+      213: -5551363447202345780
+    second: Fire_burn_strip104_28
+  - first:
+      213: 2873799015608888870
+    second: Fire_burn_strip104_29
+  - first:
+      213: -512074017896510631
+    second: Fire_burn_strip104_30
+  - first:
+      213: -8651312424111887653
+    second: Fire_burn_strip104_31
+  - first:
+      213: -7221591796910226761
+    second: Fire_burn_strip104_32
+  - first:
+      213: -1478836206156643416
+    second: Fire_burn_strip104_33
+  - first:
+      213: 5233372871955253391
+    second: Fire_burn_strip104_34
+  - first:
+      213: 3412116855133919248
+    second: Fire_burn_strip104_35
+  - first:
+      213: 4081459260347922675
+    second: Fire_burn_strip104_36
+  - first:
+      213: -1942591630101963660
+    second: Fire_burn_strip104_37
+  - first:
+      213: -3663672831977660727
+    second: Fire_burn_strip104_38
+  - first:
+      213: -2164254144610561188
+    second: Fire_burn_strip104_39
+  - first:
+      213: -6704592121815117478
+    second: Fire_burn_strip104_40
+  - first:
+      213: 3011975267520045983
+    second: Fire_burn_strip104_41
+  - first:
+      213: 2044485843694606247
+    second: Fire_burn_strip104_42
+  - first:
+      213: 5100036284673305809
+    second: Fire_burn_strip104_43
+  - first:
+      213: -3393591332705035493
+    second: Fire_burn_strip104_44
+  - first:
+      213: 7644430274944656477
+    second: Fire_burn_strip104_45
+  - first:
+      213: -8760813144220967431
+    second: Fire_burn_strip104_46
+  - first:
+      213: -809901973854702101
+    second: Fire_burn_strip104_47
+  - first:
+      213: 7100727446197163665
+    second: Fire_burn_strip104_48
+  - first:
+      213: 6757797815921918753
+    second: Fire_burn_strip104_49
+  - first:
+      213: 4210490840702774845
+    second: Fire_burn_strip104_50
+  - first:
+      213: 2946279178217053299
+    second: Fire_burn_strip104_51
+  - first:
+      213: 152875834021914115
+    second: Fire_burn_strip104_52
+  - first:
+      213: -3575119423741273637
+    second: Fire_burn_strip104_53
+  - first:
+      213: -7211685172188378250
+    second: Fire_burn_strip104_54
+  - first:
+      213: 6308083397964224130
+    second: Fire_burn_strip104_55
+  - first:
+      213: 2447351128045847624
+    second: Fire_burn_strip104_56
+  - first:
+      213: 4407804837727049693
+    second: Fire_burn_strip104_57
+  - first:
+      213: -5522534797363980517
+    second: Fire_burn_strip104_58
+  - first:
+      213: 269188595534063622
+    second: Fire_burn_strip104_59
+  - first:
+      213: -4266016417462384797
+    second: Fire_burn_strip104_60
+  - first:
+      213: -3909094583028200541
+    second: Fire_burn_strip104_61
+  - first:
+      213: -4560826109321464373
+    second: Fire_burn_strip104_62
+  - first:
+      213: -6590738949947765238
+    second: Fire_burn_strip104_63
+  - first:
+      213: -140809296186764143
+    second: Fire_burn_strip104_64
+  - first:
+      213: 3390435738106357582
+    second: Fire_burn_strip104_65
+  - first:
+      213: -3396277678474565043
+    second: Fire_burn_strip104_66
+  - first:
+      213: -6440866926352731276
+    second: Fire_burn_strip104_67
+  - first:
+      213: 2500532244510356564
+    second: Fire_burn_strip104_68
+  - first:
+      213: 8767065012192919361
+    second: Fire_burn_strip104_69
+  - first:
+      213: 2311549596995713068
+    second: Fire_burn_strip104_70
+  - first:
+      213: 8205972217214688956
+    second: Fire_burn_strip104_71
+  - first:
+      213: 3307706400477184536
+    second: Fire_burn_strip104_72
+  - first:
+      213: 1662677231282544151
+    second: Fire_burn_strip104_73
+  - first:
+      213: -5399196050085451341
+    second: Fire_burn_strip104_74
+  - first:
+      213: 4508115106385993418
+    second: Fire_burn_strip104_75
+  - first:
+      213: -3533340266219243876
+    second: Fire_burn_strip104_76
+  - first:
+      213: 822070135152834799
+    second: Fire_burn_strip104_77
+  - first:
+      213: -7875310341205167355
+    second: Fire_burn_strip104_78
+  - first:
+      213: -7717826290629056462
+    second: Fire_burn_strip104_79
+  - first:
+      213: -7246288770609882424
+    second: Fire_burn_strip104_80
+  - first:
+      213: 8463311595492683284
+    second: Fire_burn_strip104_81
+  - first:
+      213: 215535605496642452
+    second: Fire_burn_strip104_82
+  - first:
+      213: -2125240731857961537
+    second: Fire_burn_strip104_83
+  - first:
+      213: -4020707690234457606
+    second: Fire_burn_strip104_84
+  - first:
+      213: 5607834596850456272
+    second: Fire_burn_strip104_85
+  - first:
+      213: 4695958587159515629
+    second: Fire_burn_strip104_86
+  - first:
+      213: -7120021609213267864
+    second: Fire_burn_strip104_87
+  - first:
+      213: -3307682613966208612
+    second: Fire_burn_strip104_88
+  - first:
+      213: -5347249498566552460
+    second: Fire_burn_strip104_89
+  - first:
+      213: 5061248151903101403
+    second: Fire_burn_strip104_90
+  - first:
+      213: 4974500838294202551
+    second: Fire_burn_strip104_91
+  - first:
+      213: -134311121935171571
+    second: Fire_burn_strip104_92
+  - first:
+      213: -2796121730338306628
+    second: Fire_burn_strip104_93
+  - first:
+      213: -1717456320743321101
+    second: Fire_burn_strip104_94
+  - first:
+      213: -4653440044042635424
+    second: Fire_burn_strip104_95
+  - first:
+      213: -6126812312680041970
+    second: Fire_burn_strip104_96
+  - first:
+      213: 7268712897390089035
+    second: Fire_burn_strip104_97
+  - first:
+      213: -8405905042916071317
+    second: Fire_burn_strip104_98
+  - first:
+      213: -6916434436602884613
+    second: Fire_burn_strip104_99
+  - first:
+      213: -6177860561129149844
+    second: Fire_burn_strip104_100
+  - first:
+      213: -3308063547625258855
+    second: Fire_burn_strip104_101
+  - first:
+      213: -1330272336729433586
+    second: Fire_burn_strip104_102
+  - first:
+      213: 2866925540156759514
+    second: Fire_burn_strip104_103
+  - first:
+      213: -3384151330097285802
+    second: Fire_burn_strip104_104
+  - first:
+      213: 2231313711747625121
+    second: Fire_burn_strip104_105
+  - first:
+      213: -1918942982796948879
+    second: Fire_burn_strip104_106
+  - first:
+      213: -3164487066920660627
+    second: Fire_burn_strip104_107
+  - first:
+      213: 6368985507443042234
+    second: Fire_burn_strip104_108
+  - first:
+      213: 889793659015659348
+    second: Fire_burn_strip104_109
+  - first:
+      213: 471739021594524013
+    second: Fire_burn_strip104_110
+  - first:
+      213: -3703308723029351031
+    second: Fire_burn_strip104_111
+  - first:
+      213: -9024206557192078622
+    second: Fire_burn_strip104_112
+  - first:
+      213: 3648548912034375447
+    second: Fire_burn_strip104_113
+  - first:
+      213: -4787401055288129127
+    second: Fire_burn_strip104_114
+  - first:
+      213: -5279707070886206444
+    second: Fire_burn_strip104_115
+  - first:
+      213: 1556435151887370809
+    second: Fire_burn_strip104_116
+  - first:
+      213: -7978621882683598807
+    second: Fire_burn_strip104_117
+  - first:
+      213: 704255742643651015
+    second: Fire_burn_strip104_118
+  - first:
+      213: -7813491260008701399
+    second: Fire_burn_strip104_119
+  - first:
+      213: 1075255913634193324
+    second: Fire_burn_strip104_120
+  - first:
+      213: -8656934851157083339
+    second: Fire_burn_strip104_121
+  - first:
+      213: 5281840051913534011
+    second: Fire_burn_strip104_122
+  - first:
+      213: -5023965765308605441
+    second: Fire_burn_strip104_123
+  - first:
+      213: 3086593010583643337
+    second: Fire_burn_strip104_124
+  - first:
+      213: -3249474142926269998
+    second: Fire_burn_strip104_125
+  - first:
+      213: -1687882003262770016
+    second: Fire_burn_strip104_126
+  - first:
+      213: -1158352852998505968
+    second: Fire_burn_strip104_127
+  - first:
+      213: -2178919109053191447
+    second: Fire_burn_strip104_128
+  - first:
+      213: -125682720627801645
+    second: Fire_burn_strip104_129
+  - first:
+      213: 8586453575969719306
+    second: Fire_burn_strip104_130
+  - first:
+      213: -2769889946201955994
+    second: Fire_burn_strip104_131
+  - first:
+      213: -2413403078277703232
+    second: Fire_burn_strip104_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_burn_strip104_0
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 1
+        width: 37
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed64b8885acd13950800000000000000
+      internalID: 6427160746752952030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_1
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1
+        width: 37
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe45dc5f575807c00800000000000000
+      internalID: 896363067528271087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_2
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 58
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1b978cc3e378560800000000000000
+      internalID: 7315884550469038556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_3
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf0f770da2726550800000000000000
+      internalID: 6152606128422195127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_4
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 0
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2549e018496b03d40800000000000000
+      internalID: 5562146288739193938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_5
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 50
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8bdd3c837d6640b0800000000000000
+      internalID: -5744783931622958196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_6
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 51
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9d9ca13f4b500a0800000000000000
+      internalID: -6915922696538039869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_7
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 55
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3a25db69764d3e0800000000000000
+      internalID: -2029883634918186079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_8
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 56
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f31baad800378d0800000000000000
+      internalID: -2849933530741260386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_9
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 57
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec48d1261c8531a00800000000000000
+      internalID: 726021552534815950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_10
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 59
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6700acafa412864c0800000000000000
+      internalID: -4294145638778929034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_11
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 60
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbdb77052af7ef4e0800000000000000
+      internalID: -1945977653866021444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_12
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2201a748f7c76d0800000000000000
+      internalID: -2991375845520563466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_13
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437b02310a42f64d0800000000000000
+      internalID: -3139250145319667916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_14
+      rect:
+        serializedVersion: 2
+        x: 1953
+        y: 1
+        width: 30
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baf0f1f143163f30800000000000000
+      internalID: 4554849247084739250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_15
+      rect:
+        serializedVersion: 2
+        x: 1973
+        y: 64
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e34925c7708f630800000000000000
+      internalID: 3960924102815137333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_16
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 65
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d48097338b1ba190800000000000000
+      internalID: -7950230466805594926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_17
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 0
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024256aabc4a0f360800000000000000
+      internalID: 7201436998809494560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_18
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 0
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76ac8a00450090e0800000000000000
+      internalID: -2265304839954323845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_19
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 1
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cc012d6e695b72a0800000000000000
+      internalID: -6738694086617658176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_20
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 0
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba2e2d3581458290800000000000000
+      internalID: -7888827131756664142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_21
+      rect:
+        serializedVersion: 2
+        x: 2188
+        y: 0
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9779ddbfa0c8cb090800000000000000
+      internalID: -8017379257823160455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_22
+      rect:
+        serializedVersion: 2
+        x: 2226
+        y: 1
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b3568d3d94645a0800000000000000
+      internalID: -6537456634864256100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_23
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 0
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c980ce6bba084410800000000000000
+      internalID: 1461429879215000002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_24
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9124525782b50a8a0800000000000000
+      internalID: -6295932049741757927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_25
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 0
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be87cb4074d4190800000000000000
+      internalID: -7976641279335797974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_26
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 2
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b810c5a3bdb4b1f10800000000000000
+      internalID: 2241468644495982987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_27
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 3
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4dadfbcadc53730800000000000000
+      internalID: 3978311987688559831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_28
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 5
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8a6e6b5895f2b0800000000000000
+      internalID: -5551363447202345780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_29
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 6
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e2c398af8c1e720800000000000000
+      internalID: 2873799015608888870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_30
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 8
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95b4290d46fb4e8f0800000000000000
+      internalID: -512074017896510631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_31
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 19
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda23e7df2d50f780800000000000000
+      internalID: -8651312424111887653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_32
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 20
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b28a48b580c7cb90800000000000000
+      internalID: -7221591796910226761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_33
+      rect:
+        serializedVersion: 2
+        x: 2966
+        y: 21
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a30c034e4e1a7be0800000000000000
+      internalID: -1478836206156643416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_34
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 22
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f880f0246eca0a840800000000000000
+      internalID: 5233372871955253391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_35
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 23
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018516a93364a5f20800000000000000
+      internalID: 3412116855133919248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_36
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 24
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f83442a29144a830800000000000000
+      internalID: 4081459260347922675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_37
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 24
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c102864378a05e0800000000000000
+      internalID: -1942591630101963660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_38
+      rect:
+        serializedVersion: 2
+        x: 3164
+        y: 25
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ced8b468f4082dc0800000000000000
+      internalID: -3663672831977660727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_39
+      rect:
+        serializedVersion: 2
+        x: 3202
+        y: 26
+        width: 33
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5312da725607f1e0800000000000000
+      internalID: -2164254144610561188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_40
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 26
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51d357dcf084f2a0800000000000000
+      internalID: -6704592121815117478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_41
+      rect:
+        serializedVersion: 2
+        x: 3280
+        y: 27
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f936bc43c8facc920800000000000000
+      internalID: 3011975267520045983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_42
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 28
+        width: 35
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a75bbdea097f5c10800000000000000
+      internalID: 2044485843694606247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_43
+      rect:
+        serializedVersion: 2
+        x: 3357
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2e81daf7f6c640800000000000000
+      internalID: 5100036284673305809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_44
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 53
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b9545b9aa87e0d0800000000000000
+      internalID: -3393591332705035493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_45
+      rect:
+        serializedVersion: 2
+        x: 3411
+        y: 54
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54615845d8761a60800000000000000
+      internalID: 7644430274944656477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_46
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 55
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdd223bcd65b6680800000000000000
+      internalID: -8760813144220967431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_47
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5b0812276a2c4f0800000000000000
+      internalID: -809901973854702101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_48
+      rect:
+        serializedVersion: 2
+        x: 3528
+        y: 58
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 196d275bdf9da8260800000000000000
+      internalID: 7100727446197163665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_49
+      rect:
+        serializedVersion: 2
+        x: 3567
+        y: 59
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123cfe92f4588cd50800000000000000
+      internalID: 6757797815921918753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_50
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 61
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3eef1a8c1bae6a30800000000000000
+      internalID: 4210490840702774845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_51
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 55
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cd1c27d4943e820800000000000000
+      internalID: 2946279178217053299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_52
+      rect:
+        serializedVersion: 2
+        x: 3705
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3062e95d2cf1f1200800000000000000
+      internalID: 152875834021914115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_53
+      rect:
+        serializedVersion: 2
+        x: 3743
+        y: 58
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd95d4e63df926ec0800000000000000
+      internalID: -3575119423741273637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_54
+      rect:
+        serializedVersion: 2
+        x: 3749
+        y: 36
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67b82c78b82faeb90800000000000000
+      internalID: -7211685172188378250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_55
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2865235cd60da8750800000000000000
+      internalID: 6308083397964224130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_56
+      rect:
+        serializedVersion: 2
+        x: 3787
+        y: 38
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84403d362ecb6f120800000000000000
+      internalID: 2447351128045847624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_57
+      rect:
+        serializedVersion: 2
+        x: 3826
+        y: 44
+        width: 31
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd718f7752bab2d30800000000000000
+      internalID: 4407804837727049693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_58
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 47
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17d2678cd30c53b0800000000000000
+      internalID: -5522534797363980517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_59
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1
+        width: 30
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608e466f9995cb300800000000000000
+      internalID: 269188595534063622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_60
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 0
+        width: 30
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3678b2faba01cc4c0800000000000000
+      internalID: -4266016417462384797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_61
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab4331203b10c9c0800000000000000
+      internalID: -3909094583028200541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_62
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc5319f51d0b4b0c0800000000000000
+      internalID: -4560826109321464373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_63
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 0
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e480128ddf884a0800000000000000
+      internalID: -6590738949947765238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_64
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 0
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19417bfe0bebb0ef0800000000000000
+      internalID: -140809296186764143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_65
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e476e9b275f3d0f20800000000000000
+      internalID: 3390435738106357582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_66
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a6fe7127ffdd0d0800000000000000
+      internalID: -3396277678474565043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_67
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 0
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473fe29d7a17d96a0800000000000000
+      internalID: -6440866926352731276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_68
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 0
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4543377f3dca3b220800000000000000
+      internalID: 2500532244510356564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_69
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fb38ebd2fdaa970800000000000000
+      internalID: 8767065012192919361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_70
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 1
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2870a18c16441020800000000000000
+      internalID: 2311549596995713068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_71
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1
+        width: 28
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe5ec3214871e170800000000000000
+      internalID: 8205972217214688956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_72
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 1
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8128abd327557ed20800000000000000
+      internalID: 3307706400477184536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_73
+      rect:
+        serializedVersion: 2
+        x: 1719
+        y: 1
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ed9b2f124031710800000000000000
+      internalID: 1662677231282544151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_74
+      rect:
+        serializedVersion: 2
+        x: 1758
+        y: 0
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e6f17cc33215b0800000000000000
+      internalID: -5399196050085451341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_75
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 0
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace95b2edca009e30800000000000000
+      internalID: 4508115106385993418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_76
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 0
+        width: 30
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96fa619fbd07fec0800000000000000
+      internalID: -3533340266219243876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_77
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8fd32be64986b00800000000000000
+      internalID: 822070135152834799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_78
+      rect:
+        serializedVersion: 2
+        x: 1994
+        y: 1
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503718848f645b290800000000000000
+      internalID: -7875310341205167355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_79
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 9
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23862e421e5c4e490800000000000000
+      internalID: -7717826290629056462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_80
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 10
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca55ef61c2007b90800000000000000
+      internalID: -7246288770609882424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_81
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 11
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e29c83e09b37570800000000000000
+      internalID: 8463311595492683284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_82
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 12
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7312cd7cbdf200800000000000000
+      internalID: 215535605496642452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_83
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 13
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd3a6b70d0a182e0800000000000000
+      internalID: -2125240731857961537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_84
+      rect:
+        serializedVersion: 2
+        x: 2772
+        y: 14
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1d4e988a39338c0800000000000000
+      internalID: -4020707690234457606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_85
+      rect:
+        serializedVersion: 2
+        x: 2811
+        y: 17
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d6da60bad703dd40800000000000000
+      internalID: 5607834596850456272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_86
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 18
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1969b64756b2140800000000000000
+      internalID: 4695958587159515629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_87
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 29
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860fcb5e11a903d90800000000000000
+      internalID: -7120021609213267864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_88
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 29
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c910fccff20c812d0800000000000000
+      internalID: -3307682613966208612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_89
+      rect:
+        serializedVersion: 2
+        x: 3435
+        y: 30
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4741e8879e0cac5b0800000000000000
+      internalID: -5347249498566552460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_90
+      rect:
+        serializedVersion: 2
+        x: 3473
+        y: 48
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd16946e06a2d3640800000000000000
+      internalID: 5061248151903101403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_91
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 31
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8a869082af80540800000000000000
+      internalID: 4974500838294202551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_92
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 49
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d008ba70fb4d22ef0800000000000000
+      internalID: -134311121935171571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_93
+      rect:
+        serializedVersion: 2
+        x: 3517
+        y: 31
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb54f6ac91e2239d0800000000000000
+      internalID: -2796121730338306628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_94
+      rect:
+        serializedVersion: 2
+        x: 3551
+        y: 51
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f158d4639e5a28e0800000000000000
+      internalID: -1717456320743321101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_95
+      rect:
+        serializedVersion: 2
+        x: 3555
+        y: 32
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067b2475fe8ab6fb0800000000000000
+      internalID: -4653440044042635424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_96
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e027731b9a039faa0800000000000000
+      internalID: -6126812312680041970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_97
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 33
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b439c3f6ed7afd460800000000000000
+      internalID: 7268712897390089035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_98
+      rect:
+        serializedVersion: 2
+        x: 3628
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68a25d56e9385b80800000000000000
+      internalID: -8405905042916071317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_99
+      rect:
+        serializedVersion: 2
+        x: 3633
+        y: 34
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd81065683e300a0800000000000000
+      internalID: -6916434436602884613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_100
+      rect:
+        serializedVersion: 2
+        x: 3671
+        y: 34
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a60062d84d34aa0800000000000000
+      internalID: -6177860561129149844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_101
+      rect:
+        serializedVersion: 2
+        x: 3710
+        y: 35
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990c065fab56712d0800000000000000
+      internalID: -3308063547625258855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_102
+      rect:
+        serializedVersion: 2
+        x: 3871
+        y: 45
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a96ba9b5ce98de0800000000000000
+      internalID: -1330272336729433586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_103
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 46
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: addd982d69d59c720800000000000000
+      internalID: 2866925540156759514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_104
+      rect:
+        serializedVersion: 2
+        x: 3993
+        y: 52
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655b2679b441901d0800000000000000
+      internalID: -3384151330097285802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_105
+      rect:
+        serializedVersion: 2
+        x: 4032
+        y: 53
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0fc23bff737fe10800000000000000
+      internalID: 2231313711747625121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_106
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ac82e268b8e55e0800000000000000
+      internalID: -1918942982796948879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_107
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6150ef57cb7514d0800000000000000
+      internalID: -3164487066920660627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_108
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7e0ce139e236850800000000000000
+      internalID: 6368985507443042234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_109
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ff5095e9e295c00800000000000000
+      internalID: 889793659015659348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_110
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69f4d80424fb8600800000000000000
+      internalID: 471739021594524013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985ea3e56543b9cc0800000000000000
+      internalID: -3703308723029351031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_112
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eab0d2d2f393c280800000000000000
+      internalID: -9024206557192078622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_113
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717627797ef32a230800000000000000
+      internalID: 3648548912034375447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_114
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 999883eda1cbf8db0800000000000000
+      internalID: -4787401055288129127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_115
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 414a5b16466bab6b0800000000000000
+      internalID: -5279707070886206444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_116
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a8d283681999510800000000000000
+      internalID: 1556435151887370809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_117
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9285c759bad364190800000000000000
+      internalID: -7978621882683598807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_118
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1cd4bddd406c900800000000000000
+      internalID: 704255742643651015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_119
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 0
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922ef8fb817e09390800000000000000
+      internalID: -7813491260008701399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_120
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafddc67e831cee00800000000000000
+      internalID: 1075255913634193324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_121
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 0
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b35198e936cd780800000000000000
+      internalID: -8656934851157083339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_122
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3aacb6fa8ddc4940800000000000000
+      internalID: 5281840051913534011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_123
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb9e0b21c9474ab0800000000000000
+      internalID: -5023965765308605441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_124
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4aa0a5df7c5da20800000000000000
+      internalID: 3086593010583643337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_125
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 0
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d11014cb7c87e2d0800000000000000
+      internalID: -3249474142926269998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_126
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 0
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a47fb4c2407398e0800000000000000
+      internalID: -1687882003262770016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_127
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 0
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ab678a734bcefe0800000000000000
+      internalID: -1158352852998505968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_128
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eae29e5d9ce2c1e0800000000000000
+      internalID: -2178919109053191447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_129
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d143924b3c714ef0800000000000000
+      internalID: -125682720627801645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_130
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 0
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04ce0cc806392770800000000000000
+      internalID: 8586453575969719306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_131
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661e4b9f4cf5f89d0800000000000000
+      internalID: -2769889946201955994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_burn_strip104_132
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 1
+        width: 29
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c95c63efaed18ed0800000000000000
+      internalID: -2413403078277703232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

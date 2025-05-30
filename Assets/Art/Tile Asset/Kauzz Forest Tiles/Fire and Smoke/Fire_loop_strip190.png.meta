@@ -1,0 +1,6780 @@
+fileFormatVersion: 2
+guid: 4b611ab9a791e1045b428aac2cc88769
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5353188119495582589
+    second: Fire_loop_strip190_0
+  - first:
+      213: -8691035491802735737
+    second: Fire_loop_strip190_1
+  - first:
+      213: -6228943095511911973
+    second: Fire_loop_strip190_2
+  - first:
+      213: -6052543346740673068
+    second: Fire_loop_strip190_3
+  - first:
+      213: 69445959320089390
+    second: Fire_loop_strip190_4
+  - first:
+      213: -1674696864217321741
+    second: Fire_loop_strip190_5
+  - first:
+      213: -2101378505719028270
+    second: Fire_loop_strip190_6
+  - first:
+      213: -8833460093270241595
+    second: Fire_loop_strip190_7
+  - first:
+      213: -2011481449998041682
+    second: Fire_loop_strip190_8
+  - first:
+      213: -8941911555960836511
+    second: Fire_loop_strip190_9
+  - first:
+      213: 5896959720907090491
+    second: Fire_loop_strip190_10
+  - first:
+      213: 8141973689671778430
+    second: Fire_loop_strip190_11
+  - first:
+      213: 5989899124065617813
+    second: Fire_loop_strip190_12
+  - first:
+      213: 9118864300474897370
+    second: Fire_loop_strip190_13
+  - first:
+      213: 8913059352647696254
+    second: Fire_loop_strip190_14
+  - first:
+      213: -6621428435890468778
+    second: Fire_loop_strip190_15
+  - first:
+      213: 8955295812274236183
+    second: Fire_loop_strip190_16
+  - first:
+      213: 7204660599311196611
+    second: Fire_loop_strip190_17
+  - first:
+      213: -9067207731257386916
+    second: Fire_loop_strip190_18
+  - first:
+      213: -7878453466623197033
+    second: Fire_loop_strip190_19
+  - first:
+      213: -2689325009220627296
+    second: Fire_loop_strip190_20
+  - first:
+      213: 1096679427034832253
+    second: Fire_loop_strip190_21
+  - first:
+      213: -7220338783181674942
+    second: Fire_loop_strip190_22
+  - first:
+      213: -106388179685477861
+    second: Fire_loop_strip190_23
+  - first:
+      213: 5086652190258217967
+    second: Fire_loop_strip190_24
+  - first:
+      213: 5249569116142103655
+    second: Fire_loop_strip190_25
+  - first:
+      213: 3834648895882209604
+    second: Fire_loop_strip190_26
+  - first:
+      213: -295739844955914708
+    second: Fire_loop_strip190_27
+  - first:
+      213: -3246780593289348112
+    second: Fire_loop_strip190_28
+  - first:
+      213: 5104452305809803213
+    second: Fire_loop_strip190_29
+  - first:
+      213: -6063469555795202591
+    second: Fire_loop_strip190_30
+  - first:
+      213: -5875473301483193981
+    second: Fire_loop_strip190_31
+  - first:
+      213: 5249374931112581372
+    second: Fire_loop_strip190_32
+  - first:
+      213: 4801403773109418504
+    second: Fire_loop_strip190_33
+  - first:
+      213: -2538611454792606552
+    second: Fire_loop_strip190_34
+  - first:
+      213: -4938251879299024114
+    second: Fire_loop_strip190_35
+  - first:
+      213: -5041213366869561825
+    second: Fire_loop_strip190_36
+  - first:
+      213: -1010092932561990308
+    second: Fire_loop_strip190_37
+  - first:
+      213: -5761643837920216304
+    second: Fire_loop_strip190_38
+  - first:
+      213: -8427705268076384225
+    second: Fire_loop_strip190_39
+  - first:
+      213: -8024555530403762926
+    second: Fire_loop_strip190_40
+  - first:
+      213: 688121055158050487
+    second: Fire_loop_strip190_41
+  - first:
+      213: -2070256668207484219
+    second: Fire_loop_strip190_42
+  - first:
+      213: 5062651892995489879
+    second: Fire_loop_strip190_43
+  - first:
+      213: 4301156727872916269
+    second: Fire_loop_strip190_44
+  - first:
+      213: 976933769476468076
+    second: Fire_loop_strip190_45
+  - first:
+      213: -4203866003734411308
+    second: Fire_loop_strip190_46
+  - first:
+      213: -7666156491194463211
+    second: Fire_loop_strip190_47
+  - first:
+      213: 6450965340089431580
+    second: Fire_loop_strip190_48
+  - first:
+      213: 4163968346208370355
+    second: Fire_loop_strip190_49
+  - first:
+      213: -7957337919462146949
+    second: Fire_loop_strip190_50
+  - first:
+      213: 8892856523147099743
+    second: Fire_loop_strip190_51
+  - first:
+      213: 6864025286436502164
+    second: Fire_loop_strip190_52
+  - first:
+      213: -6801935838326733685
+    second: Fire_loop_strip190_53
+  - first:
+      213: -38190969647554312
+    second: Fire_loop_strip190_54
+  - first:
+      213: 9119180816973913590
+    second: Fire_loop_strip190_55
+  - first:
+      213: -7049497267025288814
+    second: Fire_loop_strip190_56
+  - first:
+      213: 4839036792018752355
+    second: Fire_loop_strip190_57
+  - first:
+      213: 4989763115718421031
+    second: Fire_loop_strip190_58
+  - first:
+      213: 722508949543852967
+    second: Fire_loop_strip190_59
+  - first:
+      213: -243329478291965550
+    second: Fire_loop_strip190_60
+  - first:
+      213: -6467401209682501424
+    second: Fire_loop_strip190_61
+  - first:
+      213: -3666819895222900361
+    second: Fire_loop_strip190_62
+  - first:
+      213: 8263600069279854714
+    second: Fire_loop_strip190_63
+  - first:
+      213: 9019797003076017872
+    second: Fire_loop_strip190_64
+  - first:
+      213: 5970529727786826867
+    second: Fire_loop_strip190_65
+  - first:
+      213: 916845239300818472
+    second: Fire_loop_strip190_66
+  - first:
+      213: -2000509204151423917
+    second: Fire_loop_strip190_67
+  - first:
+      213: -6995394985179120172
+    second: Fire_loop_strip190_68
+  - first:
+      213: 8001647690615754695
+    second: Fire_loop_strip190_69
+  - first:
+      213: 2465805678640056084
+    second: Fire_loop_strip190_70
+  - first:
+      213: -4810557809576135736
+    second: Fire_loop_strip190_71
+  - first:
+      213: 3275985259017714990
+    second: Fire_loop_strip190_72
+  - first:
+      213: -881859818910059403
+    second: Fire_loop_strip190_73
+  - first:
+      213: 2650973663490477687
+    second: Fire_loop_strip190_74
+  - first:
+      213: 137252255310510336
+    second: Fire_loop_strip190_75
+  - first:
+      213: -3719641564395188738
+    second: Fire_loop_strip190_76
+  - first:
+      213: 1667110607587630387
+    second: Fire_loop_strip190_77
+  - first:
+      213: 2050052601870611335
+    second: Fire_loop_strip190_78
+  - first:
+      213: 7585547492826682185
+    second: Fire_loop_strip190_79
+  - first:
+      213: -665322233756253339
+    second: Fire_loop_strip190_80
+  - first:
+      213: -6406446560332927022
+    second: Fire_loop_strip190_81
+  - first:
+      213: 3541524645982458650
+    second: Fire_loop_strip190_82
+  - first:
+      213: 3208706978715685245
+    second: Fire_loop_strip190_83
+  - first:
+      213: -7328077182850521869
+    second: Fire_loop_strip190_84
+  - first:
+      213: 1264229811232262018
+    second: Fire_loop_strip190_85
+  - first:
+      213: 5381511987031950396
+    second: Fire_loop_strip190_86
+  - first:
+      213: -8026549347779849998
+    second: Fire_loop_strip190_87
+  - first:
+      213: 1477396678261246430
+    second: Fire_loop_strip190_88
+  - first:
+      213: -5969518949219344130
+    second: Fire_loop_strip190_89
+  - first:
+      213: 7142900733265955722
+    second: Fire_loop_strip190_90
+  - first:
+      213: 4466844617603848025
+    second: Fire_loop_strip190_91
+  - first:
+      213: 4214477787762430229
+    second: Fire_loop_strip190_92
+  - first:
+      213: 5662196661477133296
+    second: Fire_loop_strip190_93
+  - first:
+      213: -1537665040239411495
+    second: Fire_loop_strip190_94
+  - first:
+      213: 4209687990661071198
+    second: Fire_loop_strip190_95
+  - first:
+      213: -293049230199094228
+    second: Fire_loop_strip190_96
+  - first:
+      213: -376500896271355018
+    second: Fire_loop_strip190_97
+  - first:
+      213: -5773784077524305877
+    second: Fire_loop_strip190_98
+  - first:
+      213: 7550144255728375743
+    second: Fire_loop_strip190_99
+  - first:
+      213: 2840345685641634153
+    second: Fire_loop_strip190_100
+  - first:
+      213: 3944531225908198537
+    second: Fire_loop_strip190_101
+  - first:
+      213: 7678658817563858480
+    second: Fire_loop_strip190_102
+  - first:
+      213: -829877212439111302
+    second: Fire_loop_strip190_103
+  - first:
+      213: -8248272565368171749
+    second: Fire_loop_strip190_104
+  - first:
+      213: -5305456214441448159
+    second: Fire_loop_strip190_105
+  - first:
+      213: 4518622869154151412
+    second: Fire_loop_strip190_106
+  - first:
+      213: 6385291600634737121
+    second: Fire_loop_strip190_107
+  - first:
+      213: 4576726425790370022
+    second: Fire_loop_strip190_108
+  - first:
+      213: -859393110368412183
+    second: Fire_loop_strip190_109
+  - first:
+      213: 597037276324950087
+    second: Fire_loop_strip190_110
+  - first:
+      213: 6318211547370699368
+    second: Fire_loop_strip190_111
+  - first:
+      213: -7196697336437469468
+    second: Fire_loop_strip190_112
+  - first:
+      213: 9200374207452440827
+    second: Fire_loop_strip190_113
+  - first:
+      213: -6593430613010260783
+    second: Fire_loop_strip190_114
+  - first:
+      213: -1321839807242771659
+    second: Fire_loop_strip190_115
+  - first:
+      213: -8534540402184209889
+    second: Fire_loop_strip190_116
+  - first:
+      213: -5485830962502088417
+    second: Fire_loop_strip190_117
+  - first:
+      213: 479148150244384278
+    second: Fire_loop_strip190_118
+  - first:
+      213: -4227711208586579906
+    second: Fire_loop_strip190_119
+  - first:
+      213: -9218199873497677189
+    second: Fire_loop_strip190_120
+  - first:
+      213: -9034919753566675469
+    second: Fire_loop_strip190_121
+  - first:
+      213: -988520442641347913
+    second: Fire_loop_strip190_122
+  - first:
+      213: 1565740209906892163
+    second: Fire_loop_strip190_123
+  - first:
+      213: 4358461353108559913
+    second: Fire_loop_strip190_124
+  - first:
+      213: -5694334643596610935
+    second: Fire_loop_strip190_125
+  - first:
+      213: 6675750681857437305
+    second: Fire_loop_strip190_126
+  - first:
+      213: -6388270804506671484
+    second: Fire_loop_strip190_127
+  - first:
+      213: -3833390600664712553
+    second: Fire_loop_strip190_128
+  - first:
+      213: 4081930131443711517
+    second: Fire_loop_strip190_129
+  - first:
+      213: -677450026049497032
+    second: Fire_loop_strip190_130
+  - first:
+      213: 6637513443361708724
+    second: Fire_loop_strip190_131
+  - first:
+      213: 5961767080696382318
+    second: Fire_loop_strip190_132
+  - first:
+      213: 5151049786314033603
+    second: Fire_loop_strip190_133
+  - first:
+      213: -4456623407545455991
+    second: Fire_loop_strip190_134
+  - first:
+      213: -1261071138042415957
+    second: Fire_loop_strip190_135
+  - first:
+      213: 1971223034221597714
+    second: Fire_loop_strip190_136
+  - first:
+      213: 5037090857524295533
+    second: Fire_loop_strip190_137
+  - first:
+      213: 7959938271658519785
+    second: Fire_loop_strip190_138
+  - first:
+      213: -717041441036216067
+    second: Fire_loop_strip190_139
+  - first:
+      213: -102177415279752235
+    second: Fire_loop_strip190_140
+  - first:
+      213: -8451506180129281350
+    second: Fire_loop_strip190_141
+  - first:
+      213: -7367168357688410369
+    second: Fire_loop_strip190_142
+  - first:
+      213: 6546665163291459185
+    second: Fire_loop_strip190_143
+  - first:
+      213: 4673380738814121442
+    second: Fire_loop_strip190_144
+  - first:
+      213: -641053725972648524
+    second: Fire_loop_strip190_145
+  - first:
+      213: 7383030240228168565
+    second: Fire_loop_strip190_146
+  - first:
+      213: -8840377549742844346
+    second: Fire_loop_strip190_147
+  - first:
+      213: 38780432025698705
+    second: Fire_loop_strip190_148
+  - first:
+      213: -1902782203795994109
+    second: Fire_loop_strip190_149
+  - first:
+      213: 1962223233293889393
+    second: Fire_loop_strip190_150
+  - first:
+      213: -4366034317855935739
+    second: Fire_loop_strip190_151
+  - first:
+      213: 6965519323823723354
+    second: Fire_loop_strip190_152
+  - first:
+      213: 508854123904981351
+    second: Fire_loop_strip190_153
+  - first:
+      213: -8648323159553338196
+    second: Fire_loop_strip190_154
+  - first:
+      213: 6849596484188355588
+    second: Fire_loop_strip190_155
+  - first:
+      213: -3246841872884835154
+    second: Fire_loop_strip190_156
+  - first:
+      213: 1796632323452704737
+    second: Fire_loop_strip190_157
+  - first:
+      213: -5049530252039721195
+    second: Fire_loop_strip190_158
+  - first:
+      213: 6642228442675099452
+    second: Fire_loop_strip190_159
+  - first:
+      213: 3542643028050265520
+    second: Fire_loop_strip190_160
+  - first:
+      213: -1690848304425601695
+    second: Fire_loop_strip190_161
+  - first:
+      213: 5795299200493745048
+    second: Fire_loop_strip190_162
+  - first:
+      213: 8455662192492917052
+    second: Fire_loop_strip190_163
+  - first:
+      213: 7017161804447966965
+    second: Fire_loop_strip190_164
+  - first:
+      213: 1123380205291358974
+    second: Fire_loop_strip190_165
+  - first:
+      213: 7082004995331786794
+    second: Fire_loop_strip190_166
+  - first:
+      213: 3642274576392148792
+    second: Fire_loop_strip190_167
+  - first:
+      213: 3955616265918014668
+    second: Fire_loop_strip190_168
+  - first:
+      213: 7330656583040335534
+    second: Fire_loop_strip190_169
+  - first:
+      213: -2907383621503922313
+    second: Fire_loop_strip190_170
+  - first:
+      213: -2585342637778362266
+    second: Fire_loop_strip190_171
+  - first:
+      213: -2420493329302285335
+    second: Fire_loop_strip190_172
+  - first:
+      213: 1234807917931699540
+    second: Fire_loop_strip190_173
+  - first:
+      213: -7187929976570366128
+    second: Fire_loop_strip190_174
+  - first:
+      213: 3062965890330809473
+    second: Fire_loop_strip190_175
+  - first:
+      213: 5737295503693564617
+    second: Fire_loop_strip190_176
+  - first:
+      213: 3835497474988119695
+    second: Fire_loop_strip190_177
+  - first:
+      213: 1734449429555439810
+    second: Fire_loop_strip190_178
+  - first:
+      213: 3676822368079544677
+    second: Fire_loop_strip190_179
+  - first:
+      213: -2155076512008158678
+    second: Fire_loop_strip190_180
+  - first:
+      213: 1266762293686911584
+    second: Fire_loop_strip190_181
+  - first:
+      213: -6478193994346364745
+    second: Fire_loop_strip190_182
+  - first:
+      213: -1450465716065255154
+    second: Fire_loop_strip190_183
+  - first:
+      213: -1012280989948699283
+    second: Fire_loop_strip190_184
+  - first:
+      213: -1528857476957519970
+    second: Fire_loop_strip190_185
+  - first:
+      213: 5321310762723446052
+    second: Fire_loop_strip190_186
+  - first:
+      213: 1838766501880711316
+    second: Fire_loop_strip190_187
+  - first:
+      213: 8150931190486350354
+    second: Fire_loop_strip190_188
+  - first:
+      213: -3233854721118695614
+    second: Fire_loop_strip190_189
+  - first:
+      213: 5386763738249736383
+    second: Fire_loop_strip190_190
+  - first:
+      213: -2165612662389305239
+    second: Fire_loop_strip190_191
+  - first:
+      213: -4559221043780482922
+    second: Fire_loop_strip190_192
+  - first:
+      213: 8305285142172016473
+    second: Fire_loop_strip190_193
+  - first:
+      213: 7876163609987924845
+    second: Fire_loop_strip190_194
+  - first:
+      213: 2265761752014322148
+    second: Fire_loop_strip190_195
+  - first:
+      213: -2274103685018327837
+    second: Fire_loop_strip190_196
+  - first:
+      213: 8171727065139760038
+    second: Fire_loop_strip190_197
+  - first:
+      213: 6602009604914842274
+    second: Fire_loop_strip190_198
+  - first:
+      213: 4481268794650193293
+    second: Fire_loop_strip190_199
+  - first:
+      213: 7437403508088712011
+    second: Fire_loop_strip190_200
+  - first:
+      213: -2968749483684435254
+    second: Fire_loop_strip190_201
+  - first:
+      213: -420013724373094354
+    second: Fire_loop_strip190_202
+  - first:
+      213: 1746282299444580986
+    second: Fire_loop_strip190_203
+  - first:
+      213: 820609407778151834
+    second: Fire_loop_strip190_204
+  - first:
+      213: -8731634098962787667
+    second: Fire_loop_strip190_205
+  - first:
+      213: -2781844243854612137
+    second: Fire_loop_strip190_206
+  - first:
+      213: -2913354814937349982
+    second: Fire_loop_strip190_207
+  - first:
+      213: -7836382231655960744
+    second: Fire_loop_strip190_208
+  - first:
+      213: 919008464831521487
+    second: Fire_loop_strip190_209
+  - first:
+      213: -4251089928935921577
+    second: Fire_loop_strip190_210
+  - first:
+      213: -7422839569672730379
+    second: Fire_loop_strip190_211
+  - first:
+      213: -6414898726636852806
+    second: Fire_loop_strip190_212
+  - first:
+      213: 8523579021035999755
+    second: Fire_loop_strip190_213
+  - first:
+      213: 4476011392014521745
+    second: Fire_loop_strip190_214
+  - first:
+      213: 2689904233425150140
+    second: Fire_loop_strip190_215
+  - first:
+      213: -4183514726218607200
+    second: Fire_loop_strip190_216
+  - first:
+      213: -7955252456431408524
+    second: Fire_loop_strip190_217
+  - first:
+      213: 7324811324636214400
+    second: Fire_loop_strip190_218
+  - first:
+      213: -7536839531535635396
+    second: Fire_loop_strip190_219
+  - first:
+      213: -445550256233510166
+    second: Fire_loop_strip190_220
+  - first:
+      213: -8476966478440178917
+    second: Fire_loop_strip190_221
+  - first:
+      213: -6751034108360359184
+    second: Fire_loop_strip190_222
+  - first:
+      213: -2802536262164948156
+    second: Fire_loop_strip190_223
+  - first:
+      213: 6238234006425445261
+    second: Fire_loop_strip190_224
+  - first:
+      213: -1534908915106812546
+    second: Fire_loop_strip190_225
+  - first:
+      213: 2067092504675602202
+    second: Fire_loop_strip190_226
+  - first:
+      213: 4552825175884389285
+    second: Fire_loop_strip190_227
+  - first:
+      213: -947590030842263327
+    second: Fire_loop_strip190_228
+  - first:
+      213: -1776505151322480310
+    second: Fire_loop_strip190_229
+  - first:
+      213: 6065939270646717911
+    second: Fire_loop_strip190_230
+  - first:
+      213: 382133844266268068
+    second: Fire_loop_strip190_231
+  - first:
+      213: -3771445192657039666
+    second: Fire_loop_strip190_232
+  - first:
+      213: 1221668310527745863
+    second: Fire_loop_strip190_233
+  - first:
+      213: -3103350093918340318
+    second: Fire_loop_strip190_234
+  - first:
+      213: 9103712072906138031
+    second: Fire_loop_strip190_235
+  - first:
+      213: 4116215956273204150
+    second: Fire_loop_strip190_236
+  - first:
+      213: 594671439943123387
+    second: Fire_loop_strip190_237
+  - first:
+      213: -6752963013254058719
+    second: Fire_loop_strip190_238
+  - first:
+      213: 7033539057030394817
+    second: Fire_loop_strip190_239
+  - first:
+      213: 2013943062114517022
+    second: Fire_loop_strip190_240
+  - first:
+      213: 6276102717247912130
+    second: Fire_loop_strip190_241
+  - first:
+      213: -6540539387747599323
+    second: Fire_loop_strip190_242
+  - first:
+      213: 1247254043437666015
+    second: Fire_loop_strip190_243
+  - first:
+      213: 5381802684387338986
+    second: Fire_loop_strip190_244
+  - first:
+      213: -365142979665731460
+    second: Fire_loop_strip190_245
+  - first:
+      213: -2853165872394671102
+    second: Fire_loop_strip190_246
+  - first:
+      213: -3411787814343919787
+    second: Fire_loop_strip190_247
+  - first:
+      213: -2938117586955855215
+    second: Fire_loop_strip190_248
+  - first:
+      213: 4894734360325120695
+    second: Fire_loop_strip190_249
+  - first:
+      213: 6920419195501812411
+    second: Fire_loop_strip190_250
+  - first:
+      213: -7633320237498037064
+    second: Fire_loop_strip190_251
+  - first:
+      213: -908838559498872056
+    second: Fire_loop_strip190_252
+  - first:
+      213: 400281529125590388
+    second: Fire_loop_strip190_253
+  - first:
+      213: 2636646557899728656
+    second: Fire_loop_strip190_254
+  - first:
+      213: 1049157824247366896
+    second: Fire_loop_strip190_255
+  - first:
+      213: -4112097913502281090
+    second: Fire_loop_strip190_256
+  - first:
+      213: -8602040673441429047
+    second: Fire_loop_strip190_257
+  - first:
+      213: 4385653169266717273
+    second: Fire_loop_strip190_258
+  - first:
+      213: -9120346200535026262
+    second: Fire_loop_strip190_259
+  - first:
+      213: 3397691177755266429
+    second: Fire_loop_strip190_260
+  - first:
+      213: 8455177524355997376
+    second: Fire_loop_strip190_261
+  - first:
+      213: -7502084373414359182
+    second: Fire_loop_strip190_262
+  - first:
+      213: 2698589412823465679
+    second: Fire_loop_strip190_263
+  - first:
+      213: -434488308109471861
+    second: Fire_loop_strip190_264
+  - first:
+      213: -5337818071679167992
+    second: Fire_loop_strip190_265
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_loop_strip190_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cdf9984c7a5b5b0800000000000000
+      internalID: -5353188119495582589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 41
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b19cc644d336780800000000000000
+      internalID: -8691035491802735737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_2
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1
+        width: 42
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1f3e9c1495e89a0800000000000000
+      internalID: -6228943095511911973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1
+        width: 42
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d54ed5d4eb010ca0800000000000000
+      internalID: -6052543346740673068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_4
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e233c586bb8b6f000800000000000000
+      internalID: 69445959320089390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feaddd231842c8e0800000000000000
+      internalID: -1674696864217321741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_6
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 32
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5e9f3f16766d2e0800000000000000
+      internalID: -2101378505719028270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1
+        width: 31
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cec90bc8de396580800000000000000
+      internalID: -8833460093270241595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_8
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead349c4748c514e0800000000000000
+      internalID: -2011481449998041682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_9
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1
+        width: 31
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16e6efde0d2f7e380800000000000000
+      internalID: -8941911555960836511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_10
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 0
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a247b6f9536d150800000000000000
+      internalID: 5896959720907090491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_11
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e708677cee91ef070800000000000000
+      internalID: 8141973689671778430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_12
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597ca5a7485602350800000000000000
+      internalID: 5989899124065617813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad31cc874c6bc8e70800000000000000
+      internalID: 9118864300474897370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_14
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ff980024c81bb70800000000000000
+      internalID: 8913059352647696254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_15
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 0
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658041d5be5fb14a0800000000000000
+      internalID: -6621428435890468778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_16
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b2625181a974c70800000000000000
+      internalID: 8955295812274236183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_17
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c16235a4a81cf360800000000000000
+      internalID: 7204660599311196611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_18
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c585ab9cb9eca2280800000000000000
+      internalID: -9067207731257386916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_19
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 0
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790ca7e505c1aa290800000000000000
+      internalID: -7878453466623197033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_20
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 0
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a494db17299daad0800000000000000
+      internalID: -2689325009220627296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dd3e0e020383f00800000000000000
+      internalID: 1096679427034832253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_22
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 0
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246ea76b1243ccb90800000000000000
+      internalID: -7220338783181674942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_23
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12fb85a388068ef0800000000000000
+      internalID: -106388179685477861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_24
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1
+        width: 36
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3cd40873b679640800000000000000
+      internalID: 5086652190258217967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_25
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2
+        width: 36
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ce2873c473ad840800000000000000
+      internalID: 5249569116142103655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_26
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449276d9ad8673530800000000000000
+      internalID: 3834648895882209604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_27
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e397b8d2255ebf0800000000000000
+      internalID: -295739844955914708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_28
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb3b59a04e11f2d0800000000000000
+      internalID: -3246780593289348112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_29
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 0
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc787bcd358a6d640800000000000000
+      internalID: 5104452305809803213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_30
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 0
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed6e6c809a3adba0800000000000000
+      internalID: -6063469555795202591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_31
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3897dc17920267ea0800000000000000
+      internalID: -5875473301483193981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_32
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf85ecdffa689d840800000000000000
+      internalID: 5249374931112581372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_33
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a386fea4302a240800000000000000
+      internalID: 4801403773109418504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_34
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac595ef45a05ccd0800000000000000
+      internalID: -2538611454792606552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_35
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bf9fa641ec77bb0800000000000000
+      internalID: -4938251879299024114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_36
+      rect:
+        serializedVersion: 2
+        x: 1509
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ee9cef6230a0ab0800000000000000
+      internalID: -5041213366869561825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_37
+      rect:
+        serializedVersion: 2
+        x: 1512
+        y: 2
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d828c54dd6bf1f0800000000000000
+      internalID: -1010092932561990308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_38
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 56
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b7276b4778a00b0800000000000000
+      internalID: -5761643837920216304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_39
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f107e98e5b6ca0b80800000000000000
+      internalID: -8427705268076384225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_40
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 57
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d23e1d24d03a090800000000000000
+      internalID: -8024555530403762926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_41
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be992f2472bc8900800000000000000
+      internalID: 688121055158050487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_42
+      rect:
+        serializedVersion: 2
+        x: 1675
+        y: 58
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2fb996788f443e0800000000000000
+      internalID: -2070256668207484219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_43
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 60
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7508477d217224640800000000000000
+      internalID: 5062651892995489879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_44
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 62
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b85286147c0bb30800000000000000
+      internalID: 4301156727872916269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_45
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 64
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d6aba5614ce8d00800000000000000
+      internalID: 976933769476468076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_46
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7c114842ed8a5c0800000000000000
+      internalID: -4203866003734411308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_47
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 0
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c8ccdc9475c9590800000000000000
+      internalID: -7666156491194463211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_48
+      rect:
+        serializedVersion: 2
+        x: 1980
+        y: 0
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1633625cce668950800000000000000
+      internalID: 6450965340089431580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_49
+      rect:
+        serializedVersion: 2
+        x: 2027
+        y: 0
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be78b3362369c930800000000000000
+      internalID: 4163968346208370355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_50
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 1
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c76b0725bd19190800000000000000
+      internalID: -7957337919462146949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_51
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 55
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb2b434e5c96b70800000000000000
+      internalID: 8892856523147099743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_52
+      rect:
+        serializedVersion: 2
+        x: 2123
+        y: 1
+        width: 36
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ab85f71aae14f50800000000000000
+      internalID: 6864025286436502164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_53
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 57
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84498ba46baa91a0800000000000000
+      internalID: -6801935838326733685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_54
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0a784f381587ff0800000000000000
+      internalID: -38190969647554312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_55
+      rect:
+        serializedVersion: 2
+        x: 2189
+        y: 58
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd594633a6dd8e70800000000000000
+      internalID: 9119180816973913590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_56
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 1
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291eed1e5972b2e90800000000000000
+      internalID: -7049497267025288814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_57
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 59
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363d253f256b72340800000000000000
+      internalID: 4839036792018752355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_58
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 0
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a2eb9ed133f3540800000000000000
+      internalID: 4989763115718421031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_59
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 61
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ab1a94cf0ed60a00800000000000000
+      internalID: 722508949543852967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_60
+      rect:
+        serializedVersion: 2
+        x: 2309
+        y: 1
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299b603f0258f9cf0800000000000000
+      internalID: -243329478291965550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_61
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 0
+        width: 39
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d061f49ddc2f36a0800000000000000
+      internalID: -6467401209682501424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_62
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 1
+        width: 33
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77967e1abb6dc1dc0800000000000000
+      internalID: -3666819895222900361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_63
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 63
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b1570b743ea270800000000000000
+      internalID: 8263600069279854714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_64
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 1
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de9a7ad591cc2d70800000000000000
+      internalID: 9019797003076017872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_65
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37cb4a977259bd250800000000000000
+      internalID: 5970529727786826867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_66
+      rect:
+        serializedVersion: 2
+        x: 2547
+        y: 0
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826888233e949bc00800000000000000
+      internalID: 916845239300818472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_67
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ca7ac5a73cc34e0800000000000000
+      internalID: -2000509204151423917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_68
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd79dcf25d5bee90800000000000000
+      internalID: -6995394985179120172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_69
+      rect:
+        serializedVersion: 2
+        x: 2640
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf0af81e209b0f60800000000000000
+      internalID: 8001647690615754695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_70
+      rect:
+        serializedVersion: 2
+        x: 2654
+        y: 61
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4174b78433d483220800000000000000
+      internalID: 2465805678640056084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_71
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3bbbcd8277d3db0800000000000000
+      internalID: -4810557809576135736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_72
+      rect:
+        serializedVersion: 2
+        x: 2701
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dba257c33a67d20800000000000000
+      internalID: 3275985259017714990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_73
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 59
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574fc20ca2103c3f0800000000000000
+      internalID: -881859818910059403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_74
+      rect:
+        serializedVersion: 2
+        x: 2828
+        y: 1
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e044160862ac420800000000000000
+      internalID: 2650973663490477687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_75
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 55
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0097762f23e97e100800000000000000
+      internalID: 137252255310510336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_76
+      rect:
+        serializedVersion: 2
+        x: 2922
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd427664bd216cc0800000000000000
+      internalID: -3719641564395188738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_77
+      rect:
+        serializedVersion: 2
+        x: 3014
+        y: 0
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ddb8ec344c22710800000000000000
+      internalID: 1667110607587630387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_78
+      rect:
+        serializedVersion: 2
+        x: 3111
+        y: 1
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783fc51daff337c10800000000000000
+      internalID: 2050052601870611335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_79
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 2
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9431ac83147454960800000000000000
+      internalID: 7585547492826682185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_80
+      rect:
+        serializedVersion: 2
+        x: 3204
+        y: 1
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5630ac314fc44c6f0800000000000000
+      internalID: -665322233756253339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_81
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 1
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df25d2dbcab717a0800000000000000
+      internalID: -6406446560332927022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_82
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 1
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a135317d6e5062130800000000000000
+      internalID: 3541524645982458650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_83
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 1
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d715aa62ffd978c20800000000000000
+      internalID: 3208706978715685245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_84
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 1
+        width: 36
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4ac85c0a07d4a90800000000000000
+      internalID: -7328077182850521869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_85
+      rect:
+        serializedVersion: 2
+        x: 3437
+        y: 0
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28745fca0527b8110800000000000000
+      internalID: 1264229811232262018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_86
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 1
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c34cb85c3a8feaa40800000000000000
+      internalID: 5381511987031950396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_87
+      rect:
+        serializedVersion: 2
+        x: 3530
+        y: 0
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f0507905e7fb9090800000000000000
+      internalID: -8026549347779849998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_88
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 63
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed98a188374c08410800000000000000
+      internalID: 1477396678261246430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_89
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 1
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef061dfb422082da0800000000000000
+      internalID: -5969518949219344130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_90
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 64
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8bc1384f5ea02360800000000000000
+      internalID: 7142900733265955722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_91
+      rect:
+        serializedVersion: 2
+        x: 3623
+        y: 1
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957942b638b6dfd30800000000000000
+      internalID: 4466844617603848025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_92
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 0
+        width: 40
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5119a5df735dc7a30800000000000000
+      internalID: 4214477787762430229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_93
+      rect:
+        serializedVersion: 2
+        x: 3716
+        y: 0
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb4fbf2dd9249e40800000000000000
+      internalID: 5662196661477133296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_94
+      rect:
+        serializedVersion: 2
+        x: 3765
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de3ef4facd19aae0800000000000000
+      internalID: -1537665040239411495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_95
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 0
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51c4927ce0db6a30800000000000000
+      internalID: 4209687990661071198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_96
+      rect:
+        serializedVersion: 2
+        x: 3812
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24084c1741eeebf0800000000000000
+      internalID: -293049230199094228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_97
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 0
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673312cfd6666caf0800000000000000
+      internalID: -376500896271355018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_98
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 1
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b287b59e8f56fdfa0800000000000000
+      internalID: -5773784077524305877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_99
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 0
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb755adb23087c860800000000000000
+      internalID: 7550144255728375743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_100
+      rect:
+        serializedVersion: 2
+        x: 3957
+        y: 0
+        width: 29
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961abff2a5fea6720800000000000000
+      internalID: 2840345685641634153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_101
+      rect:
+        serializedVersion: 2
+        x: 4003
+        y: 0
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb1bd304acdb630800000000000000
+      internalID: 3944531225908198537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_102
+      rect:
+        serializedVersion: 2
+        x: 4050
+        y: 1
+        width: 30
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0369054e283109a60800000000000000
+      internalID: 7678658817563858480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_103
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1
+        width: 31
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a791069721fab74f0800000000000000
+      internalID: -829877212439111302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_104
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 0
+        width: 32
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1351a29dcf388d80800000000000000
+      internalID: -8248272565368171749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_105
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 59
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12d24d6beab3f56b0800000000000000
+      internalID: -5305456214441448159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_106
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 61
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbb3ed0f8f55be30800000000000000
+      internalID: 4518622869154151412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_107
+      rect:
+        serializedVersion: 2
+        x: 4283
+        y: 2
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e17e1b41ec1d9850800000000000000
+      internalID: 6385291600634737121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_108
+      rect:
+        serializedVersion: 2
+        x: 4292
+        y: 62
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0d06b8f6cc38f30800000000000000
+      internalID: 4576726425790370022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_109
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 1
+        width: 34
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed9216f482d214f0800000000000000
+      internalID: -859393110368412183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_110
+      rect:
+        serializedVersion: 2
+        x: 4376
+        y: 0
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 740f3055d3a194800800000000000000
+      internalID: 597037276324950087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_111
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 1
+        width: 36
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a3dc05debcea750800000000000000
+      internalID: 6318211547370699368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_112
+      rect:
+        serializedVersion: 2
+        x: 4469
+        y: 0
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee05a9f6e1302c90800000000000000
+      internalID: -7196697336437469468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_113
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 0
+        width: 37
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf86ed3989b4eaf70800000000000000
+      internalID: 9200374207452440827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_114
+      rect:
+        serializedVersion: 2
+        x: 4564
+        y: 62
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc565c7acd6f74a0800000000000000
+      internalID: -6593430613010260783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_115
+      rect:
+        serializedVersion: 2
+        x: 4568
+        y: 0
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 533e25fd2b1e7ade0800000000000000
+      internalID: -1321839807242771659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_116
+      rect:
+        serializedVersion: 2
+        x: 4614
+        y: 0
+        width: 32
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a379ed8b83f8980800000000000000
+      internalID: -8534540402184209889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_117
+      rect:
+        serializedVersion: 2
+        x: 4661
+        y: 1
+        width: 30
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1949360ec96ed3b0800000000000000
+      internalID: -5485830962502088417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_118
+      rect:
+        serializedVersion: 2
+        x: 4707
+        y: 1
+        width: 32
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e1a1a34b646a600800000000000000
+      internalID: 479148150244384278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_119
+      rect:
+        serializedVersion: 2
+        x: 4757
+        y: 1
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30724f1e072455c0800000000000000
+      internalID: -4227711208586579906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_120
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 56
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72ce9f1e00621080800000000000000
+      internalID: -9218199873497677189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_121
+      rect:
+        serializedVersion: 2
+        x: 4851
+        y: 57
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd9f7a6a548d9280800000000000000
+      internalID: -9034919753566675469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_122
+      rect:
+        serializedVersion: 2
+        x: 4898
+        y: 59
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba862315e11842f0800000000000000
+      internalID: -988520442641347913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_123
+      rect:
+        serializedVersion: 2
+        x: 4944
+        y: 60
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dbb0edc60aab510800000000000000
+      internalID: 1565740209906892163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_124
+      rect:
+        serializedVersion: 2
+        x: 4989
+        y: 0
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928dd4f228d5c7c30800000000000000
+      internalID: 4358461353108559913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_125
+      rect:
+        serializedVersion: 2
+        x: 5102
+        y: 50
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9823930cfc8a9f0b0800000000000000
+      internalID: -5694334643596610935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_126
+      rect:
+        serializedVersion: 2
+        x: 5129
+        y: 0
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e2f2120e705ac50800000000000000
+      internalID: 6675750681857437305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_127
+      rect:
+        serializedVersion: 2
+        x: 5176
+        y: 0
+        width: 31
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4868160cc8d4857a0800000000000000
+      internalID: -6388270804506671484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_128
+      rect:
+        serializedVersion: 2
+        x: 5201
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79afe021f8f0dcac0800000000000000
+      internalID: -3833390600664712553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_129
+      rect:
+        serializedVersion: 2
+        x: 5222
+        y: 0
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e7aaad3dde5a830800000000000000
+      internalID: 4081930131443711517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_130
+      rect:
+        serializedVersion: 2
+        x: 5248
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8389d346ac63996f0800000000000000
+      internalID: -677450026049497032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_131
+      rect:
+        serializedVersion: 2
+        x: 5269
+        y: 0
+        width: 33
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba54774f4f2d1c50800000000000000
+      internalID: 6637513443361708724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_132
+      rect:
+        serializedVersion: 2
+        x: 5295
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e638686b2937cb250800000000000000
+      internalID: 5961767080696382318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_133
+      rect:
+        serializedVersion: 2
+        x: 5317
+        y: 1
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c9899d3d743c7740800000000000000
+      internalID: 5151049786314033603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_134
+      rect:
+        serializedVersion: 2
+        x: 5342
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98aef8f7f94e622c0800000000000000
+      internalID: -4456623407545455991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_135
+      rect:
+        serializedVersion: 2
+        x: 5364
+        y: 1
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4fb7c3b76cf7ee0800000000000000
+      internalID: -1261071138042415957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_136
+      rect:
+        serializedVersion: 2
+        x: 5410
+        y: 0
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21498d7d7e03b5b10800000000000000
+      internalID: 1971223034221597714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_137
+      rect:
+        serializedVersion: 2
+        x: 5503
+        y: 53
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d677a10827757e540800000000000000
+      internalID: 5037090857524295533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_138
+      rect:
+        serializedVersion: 2
+        x: 5512
+        y: 0
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec2e3c3fa1677e60800000000000000
+      internalID: 7959938271658519785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_139
+      rect:
+        serializedVersion: 2
+        x: 5550
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df85dc1cb9e8c06f0800000000000000
+      internalID: -717041441036216067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_140
+      rect:
+        serializedVersion: 2
+        x: 5559
+        y: 1
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbce22ae2ef49ef0800000000000000
+      internalID: -102177415279752235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_141
+      rect:
+        serializedVersion: 2
+        x: 5596
+        y: 56
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba206c38e736ba80800000000000000
+      internalID: -8451506180129281350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_142
+      rect:
+        serializedVersion: 2
+        x: 5605
+        y: 1
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffefb7f596f82c990800000000000000
+      internalID: -7367168357688410369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_143
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 57
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e7961c74d6ada50800000000000000
+      internalID: 6546665163291459185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_144
+      rect:
+        serializedVersion: 2
+        x: 5652
+        y: 1
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e51b25750f2bd040800000000000000
+      internalID: 4673380738814121442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_145
+      rect:
+        serializedVersion: 2
+        x: 5699
+        y: 1
+        width: 27
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bda57d58058a17f0800000000000000
+      internalID: -641053725972648524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_146
+      rect:
+        serializedVersion: 2
+        x: 5745
+        y: 1
+        width: 28
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57354c2f2eac57660800000000000000
+      internalID: 7383030240228168565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_147
+      rect:
+        serializedVersion: 2
+        x: 5792
+        y: 2
+        width: 29
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6465d33f47ba05580800000000000000
+      internalID: -8840377549742844346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_148
+      rect:
+        serializedVersion: 2
+        x: 5839
+        y: 1
+        width: 29
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191c023f896c98000800000000000000
+      internalID: 38780432025698705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_149
+      rect:
+        serializedVersion: 2
+        x: 5885
+        y: 1
+        width: 30
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a0ec1caa5f795e0800000000000000
+      internalID: -1902782203795994109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_150
+      rect:
+        serializedVersion: 2
+        x: 5938
+        y: 57
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f208662a73b3b10800000000000000
+      internalID: 1962223233293889393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_151
+      rect:
+        serializedVersion: 2
+        x: 5984
+        y: 59
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503380f8beab863c0800000000000000
+      internalID: -4366034317855935739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_152
+      rect:
+        serializedVersion: 2
+        x: 5996
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53d1ac8bee7aa060800000000000000
+      internalID: 6965519323823723354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_153
+      rect:
+        serializedVersion: 2
+        x: 6031
+        y: 60
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76959d13120df0700800000000000000
+      internalID: 508854123904981351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_154
+      rect:
+        serializedVersion: 2
+        x: 6072
+        y: 0
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca41a0c38ebfaf780800000000000000
+      internalID: -8648323159553338196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_155
+      rect:
+        serializedVersion: 2
+        x: 6119
+        y: 1
+        width: 29
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40cbfce26b7ae0f50800000000000000
+      internalID: 6849596484188355588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_156
+      rect:
+        serializedVersion: 2
+        x: 6166
+        y: 1
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacd5d4e486e0f2d0800000000000000
+      internalID: -3246841872884835154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_157
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 0
+        width: 31
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e71267449beee810800000000000000
+      internalID: 1796632323452704737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_158
+      rect:
+        serializedVersion: 2
+        x: 6259
+        y: 1
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f65944df67ce9b0800000000000000
+      internalID: -5049530252039721195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_159
+      rect:
+        serializedVersion: 2
+        x: 6305
+        y: 0
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3735aa939fed2c50800000000000000
+      internalID: 6642228442675099452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_160
+      rect:
+        serializedVersion: 2
+        x: 6352
+        y: 0
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b543f4701ff92130800000000000000
+      internalID: 3542643028050265520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_161
+      rect:
+        serializedVersion: 2
+        x: 6398
+        y: 0
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165f3a5fc66e888e0800000000000000
+      internalID: -1690848304425601695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_162
+      rect:
+        serializedVersion: 2
+        x: 6445
+        y: 1
+        width: 34
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893f8840be90d6050800000000000000
+      internalID: 5795299200493745048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_163
+      rect:
+        serializedVersion: 2
+        x: 6491
+        y: 1
+        width: 35
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31bd3cc6fb885570800000000000000
+      internalID: 8455662192492917052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_164
+      rect:
+        serializedVersion: 2
+        x: 6551
+        y: 51
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f66f8d8b77f16160800000000000000
+      internalID: 7017161804447966965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_165
+      rect:
+        serializedVersion: 2
+        x: 6598
+        y: 52
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efac814485c079f00800000000000000
+      internalID: 1123380205291358974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_166
+      rect:
+        serializedVersion: 2
+        x: 6645
+        y: 54
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a280b4c6506584260800000000000000
+      internalID: 7082004995331786794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_167
+      rect:
+        serializedVersion: 2
+        x: 6692
+        y: 55
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375a4cfd65fb8230800000000000000
+      internalID: 3642274576392148792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_168
+      rect:
+        serializedVersion: 2
+        x: 6739
+        y: 56
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc4eccd390c25e630800000000000000
+      internalID: 3955616265918014668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_169
+      rect:
+        serializedVersion: 2
+        x: 6794
+        y: 58
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae7f72a259bbb560800000000000000
+      internalID: 7330656583040335534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_170
+      rect:
+        serializedVersion: 2
+        x: 6842
+        y: 59
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f487e0006e6a7d0800000000000000
+      internalID: -2907383621503922313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_171
+      rect:
+        serializedVersion: 2
+        x: 6889
+        y: 60
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660ac8491940f1cd0800000000000000
+      internalID: -2585342637778362266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_172
+      rect:
+        serializedVersion: 2
+        x: 6913
+        y: 49
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e31cbd242ea86ed0800000000000000
+      internalID: -2420493329302285335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_173
+      rect:
+        serializedVersion: 2
+        x: 6936
+        y: 62
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d9822524be22110800000000000000
+      internalID: 1234807917931699540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_174
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 50
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057342405c75f3c90800000000000000
+      internalID: -7187929976570366128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_175
+      rect:
+        serializedVersion: 2
+        x: 7006
+        y: 51
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1845e4cbf37d18a20800000000000000
+      internalID: 3062965890330809473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_176
+      rect:
+        serializedVersion: 2
+        x: 7053
+        y: 1
+        width: 40
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cac915fcd7fe9f40800000000000000
+      internalID: 5737295503693564617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_177
+      rect:
+        serializedVersion: 2
+        x: 7102
+        y: 54
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f861395d1ac6a3530800000000000000
+      internalID: 3835497474988119695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_178
+      rect:
+        serializedVersion: 2
+        x: 7149
+        y: 55
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e7811190021810800000000000000
+      internalID: 1734449429555439810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_179
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 56
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561879f8672b60330800000000000000
+      internalID: 3676822368079544677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_180
+      rect:
+        serializedVersion: 2
+        x: 7247
+        y: 1
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2247f59451a712e0800000000000000
+      internalID: -2155076512008158678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_181
+      rect:
+        serializedVersion: 2
+        x: 7316
+        y: 55
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06241123891749110800000000000000
+      internalID: 1266762293686911584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_182
+      rect:
+        serializedVersion: 2
+        x: 7363
+        y: 56
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b08ae492e4d816a0800000000000000
+      internalID: -6478193994346364745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_183
+      rect:
+        serializedVersion: 2
+        x: 7410
+        y: 58
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e014c0bbd19eedbe0800000000000000
+      internalID: -1450465716065255154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_184
+      rect:
+        serializedVersion: 2
+        x: 7433
+        y: 2
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d1a3d8dc7a3f1f0800000000000000
+      internalID: -1012280989948699283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_185
+      rect:
+        serializedVersion: 2
+        x: 7480
+        y: 1
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f3fb5993868cae0800000000000000
+      internalID: -1528857476957519970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_186
+      rect:
+        serializedVersion: 2
+        x: 7528
+        y: 0
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d0897f1f719d940800000000000000
+      internalID: 5321310762723446052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_187
+      rect:
+        serializedVersion: 2
+        x: 7575
+        y: 1
+        width: 31
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 498cc79246c948910800000000000000
+      internalID: 1838766501880711316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_188
+      rect:
+        serializedVersion: 2
+        x: 7621
+        y: 1
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a37957bbced1170800000000000000
+      internalID: 8150931190486350354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_189
+      rect:
+        serializedVersion: 2
+        x: 7668
+        y: 0
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f008cc34a0f13d0800000000000000
+      internalID: -3233854721118695614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_190
+      rect:
+        serializedVersion: 2
+        x: 7714
+        y: 0
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0b4536411a1ca40800000000000000
+      internalID: 5386763738249736383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_191
+      rect:
+        serializedVersion: 2
+        x: 7737
+        y: 53
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9609239e1c232f1e0800000000000000
+      internalID: -2165612662389305239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_192
+      rect:
+        serializedVersion: 2
+        x: 7761
+        y: 0
+        width: 34
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6988af0dd946ab0c0800000000000000
+      internalID: -4559221043780482922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_193
+      rect:
+        serializedVersion: 2
+        x: 7807
+        y: 1
+        width: 35
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f1e7165dc424370800000000000000
+      internalID: 8305285142172016473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_194
+      rect:
+        serializedVersion: 2
+        x: 7854
+        y: 2
+        width: 35
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d634036d211cd4d60800000000000000
+      internalID: 7876163609987924845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_195
+      rect:
+        serializedVersion: 2
+        x: 7900
+        y: 1
+        width: 36
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e9fa761f4a917f10800000000000000
+      internalID: 2265761752014322148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_196
+      rect:
+        serializedVersion: 2
+        x: 7947
+        y: 1
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e463184fb2c070e0800000000000000
+      internalID: -2274103685018327837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_197
+      rect:
+        serializedVersion: 2
+        x: 7993
+        y: 0
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abc917587ec76170800000000000000
+      internalID: 8171727065139760038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_198
+      rect:
+        serializedVersion: 2
+        x: 8040
+        y: 0
+        width: 38
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8aa8b1cc0f9b50800000000000000
+      internalID: 6602009604914842274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_199
+      rect:
+        serializedVersion: 2
+        x: 8086
+        y: 0
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8dea28d93aa03e30800000000000000
+      internalID: 4481268794650193293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_200
+      rect:
+        serializedVersion: 2
+        x: 8133
+        y: 1
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b2fd6e517f63760800000000000000
+      internalID: 7437403508088712011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_201
+      rect:
+        serializedVersion: 2
+        x: 8180
+        y: 1
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca6dddd212ecc6d0800000000000000
+      internalID: -2968749483684435254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_202
+      rect:
+        serializedVersion: 2
+        x: 8227
+        y: 1
+        width: 39
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f3f53ebfcb2af0800000000000000
+      internalID: -420013724373094354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_203
+      rect:
+        serializedVersion: 2
+        x: 8274
+        y: 0
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7252f7cf7a0c3810800000000000000
+      internalID: 1746282299444580986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_204
+      rect:
+        serializedVersion: 2
+        x: 8320
+        y: 1
+        width: 41
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dd5f998e3636b00800000000000000
+      internalID: 820609407778151834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_205
+      rect:
+        serializedVersion: 2
+        x: 8370
+        y: 1
+        width: 38
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da292a69c0103d680800000000000000
+      internalID: -8731634098962787667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_206
+      rect:
+        serializedVersion: 2
+        x: 8417
+        y: 0
+        width: 38
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759a4982667e469d0800000000000000
+      internalID: -2781844243854612137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_207
+      rect:
+        serializedVersion: 2
+        x: 8463
+        y: 0
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a04cfe3b3fa197d0800000000000000
+      internalID: -2913354814937349982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_208
+      rect:
+        serializedVersion: 2
+        x: 8510
+        y: 1
+        width: 37
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fa6f511e39f3390800000000000000
+      internalID: -7836382231655960744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_209
+      rect:
+        serializedVersion: 2
+        x: 8556
+        y: 1
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc22cd36459f0cc00800000000000000
+      internalID: 919008464831521487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_210
+      rect:
+        serializedVersion: 2
+        x: 8603
+        y: 1
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758a88d9b381105c0800000000000000
+      internalID: -4251089928935921577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_211
+      rect:
+        serializedVersion: 2
+        x: 8649
+        y: 0
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f881f04db6ccf890800000000000000
+      internalID: -7422839569672730379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_212
+      rect:
+        serializedVersion: 2
+        x: 8696
+        y: 0
+        width: 40
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab964b08893b9f6a0800000000000000
+      internalID: -6414898726636852806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_213
+      rect:
+        serializedVersion: 2
+        x: 8742
+        y: 1
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0292d3b5f5d94670800000000000000
+      internalID: 8523579021035999755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_214
+      rect:
+        serializedVersion: 2
+        x: 8789
+        y: 1
+        width: 39
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19590a765acfd1e30800000000000000
+      internalID: 4476011392014521745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_215
+      rect:
+        serializedVersion: 2
+        x: 8835
+        y: 1
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0202906a5745520800000000000000
+      internalID: 2689904233425150140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_216
+      rect:
+        serializedVersion: 2
+        x: 8882
+        y: 1
+        width: 41
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5df1f858b21f5c0800000000000000
+      internalID: -4183514726218607200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_217
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 1
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a2ad32a04499190800000000000000
+      internalID: -7955252456431408524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_218
+      rect:
+        serializedVersion: 2
+        x: 1558
+        y: 0
+        width: 37
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08433bb5715f6a560800000000000000
+      internalID: 7324811324636214400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_219
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1
+        width: 37
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c62b1c064c76790800000000000000
+      internalID: -7536839531535635396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_220
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea0e9f076611d9f0800000000000000
+      internalID: -445550256233510166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_221
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bdda796e3cb5a80800000000000000
+      internalID: -8476966478440178917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_222
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 2
+        width: 39
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f282a83f328f42a0800000000000000
+      internalID: -6751034108360359184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_223
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 0
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd1873e146b19d0800000000000000
+      internalID: -2802536262164948156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_224
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 1
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8320caf6c8a29650800000000000000
+      internalID: 6238234006425445261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_225
+      rect:
+        serializedVersion: 2
+        x: 2595
+        y: 0
+        width: 30
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d6a785978e2bae0800000000000000
+      internalID: -1534908915106812546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_226
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 0
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fcf0b5ea9cfac10800000000000000
+      internalID: 2067092504675602202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_227
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab5b052062ee2f30800000000000000
+      internalID: 4552825175884389285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_228
+      rect:
+        serializedVersion: 2
+        x: 2735
+        y: 0
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e802f233eb79d2f0800000000000000
+      internalID: -947590030842263327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_229
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 1
+        width: 32
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a5c92af59857e0800000000000000
+      internalID: -1776505151322480310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_230
+      rect:
+        serializedVersion: 2
+        x: 2874
+        y: 0
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd5dffb0ab8e2450800000000000000
+      internalID: 6065939270646717911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_231
+      rect:
+        serializedVersion: 2
+        x: 2921
+        y: 1
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5352ce4bc9d4500800000000000000
+      internalID: 382133844266268068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_232
+      rect:
+        serializedVersion: 2
+        x: 2967
+        y: 1
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece82d9449229abc0800000000000000
+      internalID: -3771445192657039666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_233
+      rect:
+        serializedVersion: 2
+        x: 3065
+        y: 1
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f9b521bdc34f010800000000000000
+      internalID: 1221668310527745863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_234
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 1
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b7256288faee4d0800000000000000
+      internalID: -3103350093918340318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_235
+      rect:
+        serializedVersion: 2
+        x: 4236
+        y: 1
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1610395e1e65e70800000000000000
+      internalID: 9103712072906138031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_236
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 2
+        width: 30
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb85748a9cbf1930800000000000000
+      internalID: 4116215956273204150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_237
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 1
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb141ef1682b04800800000000000000
+      internalID: 594671439943123387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_238
+      rect:
+        serializedVersion: 2
+        x: 4896
+        y: 0
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12de3ad0be7a842a0800000000000000
+      internalID: -6752963013254058719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_239
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 1
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c3f120d1862c9160800000000000000
+      internalID: 7033539057030394817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_240
+      rect:
+        serializedVersion: 2
+        x: 5036
+        y: 0
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e10c23f6b86f2fb10800000000000000
+      internalID: 2013943062114517022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_241
+      rect:
+        serializedVersion: 2
+        x: 5082
+        y: 1
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8fc6b4b22391750800000000000000
+      internalID: 6276102717247912130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_242
+      rect:
+        serializedVersion: 2
+        x: 5153
+        y: 52
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52c7ad184165b35a0800000000000000
+      internalID: -6540539387747599323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_243
+      rect:
+        serializedVersion: 2
+        x: 5457
+        y: 52
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde85cbb1f22f4110800000000000000
+      internalID: 1247254043437666015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_244
+      rect:
+        serializedVersion: 2
+        x: 5465
+        y: 1
+        width: 25
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaa626070100ba40800000000000000
+      internalID: 5381802684387338986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_245
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 0
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70ebc40560ceeaf0800000000000000
+      internalID: -365142979665731460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_246
+      rect:
+        serializedVersion: 2
+        x: 5979
+        y: 1
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ce5aa71c48768d0800000000000000
+      internalID: -2853165872394671102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_247
+      rect:
+        serializedVersion: 2
+        x: 6025
+        y: 1
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557360d2f05e6a0d0800000000000000
+      internalID: -3411787814343919787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_248
+      rect:
+        serializedVersion: 2
+        x: 6538
+        y: 1
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a1b291f95b937d0800000000000000
+      internalID: -2938117586955855215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_249
+      rect:
+        serializedVersion: 2
+        x: 6584
+        y: 0
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2e311a7f69de340800000000000000
+      internalID: 4894734360325120695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_250
+      rect:
+        serializedVersion: 2
+        x: 6631
+        y: 1
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba1ea4a7944a0060800000000000000
+      internalID: 6920419195501812411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_251
+      rect:
+        serializedVersion: 2
+        x: 6677
+        y: 0
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc0123efaff01690800000000000000
+      internalID: -7633320237498037064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_252
+      rect:
+        serializedVersion: 2
+        x: 6727
+        y: 1
+        width: 35
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b54e635282363f0800000000000000
+      internalID: -908838559498872056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_253
+      rect:
+        serializedVersion: 2
+        x: 6774
+        y: 1
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4755ea11ee51e8500800000000000000
+      internalID: 400281529125590388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_254
+      rect:
+        serializedVersion: 2
+        x: 6820
+        y: 1
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017aed92310479420800000000000000
+      internalID: 2636646557899728656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_255
+      rect:
+        serializedVersion: 2
+        x: 6867
+        y: 1
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f406938b7b5f8e00800000000000000
+      internalID: 1049157824247366896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_256
+      rect:
+        serializedVersion: 2
+        x: 6920
+        y: 0
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7252180cb4eee6c0800000000000000
+      internalID: -4112097913502281090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_257
+      rect:
+        serializedVersion: 2
+        x: 6967
+        y: 0
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9cf0445996f9880800000000000000
+      internalID: -8602040673441429047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_258
+      rect:
+        serializedVersion: 2
+        x: 7013
+        y: 0
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952753e3258fcdc30800000000000000
+      internalID: 4385653169266717273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_259
+      rect:
+        serializedVersion: 2
+        x: 7107
+        y: 1
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5b688c3750e6180800000000000000
+      internalID: -9120346200535026262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_260
+      rect:
+        serializedVersion: 2
+        x: 7153
+        y: 0
+        width: 35
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dc49adf16072f20800000000000000
+      internalID: 3397691177755266429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_261
+      rect:
+        serializedVersion: 2
+        x: 7200
+        y: 1
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce1b143923d65570800000000000000
+      internalID: 8455177524355997376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_262
+      rect:
+        serializedVersion: 2
+        x: 7221
+        y: 52
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27fc0a7920e33e790800000000000000
+      internalID: -7502084373414359182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_263
+      rect:
+        serializedVersion: 2
+        x: 7293
+        y: 1
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcef8f1f5c0537520800000000000000
+      internalID: 2698589412823465679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_264
+      rect:
+        serializedVersion: 2
+        x: 7340
+        y: 1
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8f03109f2368f9f0800000000000000
+      internalID: -434488308109471861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_loop_strip190_265
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 0
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80217e9aeb24ce5b0800000000000000
+      internalID: -5337818071679167992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

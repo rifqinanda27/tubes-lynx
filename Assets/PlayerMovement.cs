@@ -11,7 +11,10 @@ public class PlayerMovement : MonoBehaviour
     private bool isGrounded = false;
 
     private int comboStep = 0;
-    private bool canAcceptInput = true; // untuk mencegah input ganda
+    private bool canAcceptInput = true;
+
+    private float comboTimer = 0f;
+    public float comboResetTime = 0.5f; // durasi maksimum tunggu input combo selanjutnya
 
     void Start()
     {
@@ -22,7 +25,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        // Movement hanya jalan kalau tidak attack
+        // Jangan gerak saat menyerang
         if (comboStep == 0)
         {
             float moveInput = Input.GetAxisRaw("Horizontal");
@@ -35,7 +38,6 @@ public class PlayerMovement : MonoBehaviour
         }
         else
         {
-            // Saat attack, stop gerak horizontal
             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y);
             animator.SetFloat("Speed", 0);
         }
@@ -48,17 +50,34 @@ public class PlayerMovement : MonoBehaviour
             isGrounded = false;
         }
 
-        /// Input attack
-        if (Input.GetKeyDown(KeyCode.J) && canAcceptInput && isGrounded && comboStep == 0)
+        // Input Attack
+        if (Input.GetKeyDown(KeyCode.J) && canAcceptInput && isGrounded)
         {
             comboStep++;
             if (comboStep > 4) comboStep = 1;
 
-            Debug.Log("ComboStep: " + comboStep); 
-
+            Debug.Log("ComboStep: " + comboStep);
             animator.SetInteger("ComboStep", comboStep);
-            canAcceptInput = false; // tolak input selagi animasi belum selesai
+            canAcceptInput = false;
+            comboTimer = 0f; // reset timer saat serangan berikutnya dimulai
         }
+
+        // Combo timeout check
+        if (comboStep > 0)
+        {
+            comboTimer += Time.deltaTime;
+            if (comboTimer > comboResetTime && !canAcceptInput)
+            {
+                Debug.Log("Combo timeout - ResetAttack otomatis");
+                ResetAttack();
+            }
+        }
+
+        // Debug
+        Debug.Log("ComboStep: " + comboStep);
+        Debug.Log("CanAcceptInput: " + canAcceptInput);
+        Debug.Log("IsGrounded: " + isGrounded);
+        Debug.Log("CurrentAnimState: " + animator.GetCurrentAnimatorStateInfo(0).IsName("Attack1"));
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -70,19 +89,21 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // Fungsi ini harus dipanggil oleh Animation Event di akhir setiap animasi attack
-    public void ResetAttack()
-    {
-        comboStep = 0;
-        animator.SetInteger("ComboStep", 0);
-        canAcceptInput = true; // boleh terima input attack baru lagi
-    }
-
-    // Fungsi ini harus dipanggil oleh Animation Event di frame "attack siap terima input berikutnya"
-    // Misal di tengah animasi attack, supaya combo bisa diteruskan
+    // Event dipanggil di tengah animasi attack
     public void EnableNextInput()
     {
+        Debug.Log("EnableNextInput dipanggil pada ComboStep: " + comboStep);
         if (isGrounded)
             canAcceptInput = true;
+    }
+
+    // Event di akhir animasi attack
+    public void ResetAttack()
+    {
+        Debug.Log("ResetAttack dipanggil pada ComboStep: " + comboStep);
+        comboStep = 0;
+        animator.SetInteger("ComboStep", 0);
+        canAcceptInput = true;
+        comboTimer = 0f;
     }
 }

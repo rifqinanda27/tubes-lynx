@@ -1,0 +1,3130 @@
+fileFormatVersion: 2
+guid: e5bdccfc2fe1d754da42f59796acfca4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6022458078272026648
+    second: Tree_strip120_0
+  - first:
+      213: 2789057903076533750
+    second: Tree_strip120_1
+  - first:
+      213: -8232181510370127014
+    second: Tree_strip120_2
+  - first:
+      213: -8602258515271326069
+    second: Tree_strip120_3
+  - first:
+      213: 5625287265132809023
+    second: Tree_strip120_4
+  - first:
+      213: -7360435622784540925
+    second: Tree_strip120_5
+  - first:
+      213: 2859006441761487820
+    second: Tree_strip120_6
+  - first:
+      213: 1109586338319691173
+    second: Tree_strip120_7
+  - first:
+      213: 2451830641062214052
+    second: Tree_strip120_8
+  - first:
+      213: 7504727455498230849
+    second: Tree_strip120_9
+  - first:
+      213: -4684331040291174031
+    second: Tree_strip120_10
+  - first:
+      213: -6353880799435409364
+    second: Tree_strip120_11
+  - first:
+      213: -3646682691504676566
+    second: Tree_strip120_12
+  - first:
+      213: -7987161369673363124
+    second: Tree_strip120_13
+  - first:
+      213: 7879319159423666702
+    second: Tree_strip120_14
+  - first:
+      213: -568344123377824073
+    second: Tree_strip120_15
+  - first:
+      213: 2953751365947240576
+    second: Tree_strip120_16
+  - first:
+      213: -3328867969878739913
+    second: Tree_strip120_17
+  - first:
+      213: -8128452769430793229
+    second: Tree_strip120_18
+  - first:
+      213: 2715142402548527392
+    second: Tree_strip120_19
+  - first:
+      213: -78552717771194903
+    second: Tree_strip120_20
+  - first:
+      213: 561439985574506882
+    second: Tree_strip120_21
+  - first:
+      213: 7882090193891323023
+    second: Tree_strip120_22
+  - first:
+      213: -4754471107796836354
+    second: Tree_strip120_23
+  - first:
+      213: 7001316722371372934
+    second: Tree_strip120_24
+  - first:
+      213: -2022979003259236536
+    second: Tree_strip120_25
+  - first:
+      213: -2103530955794415817
+    second: Tree_strip120_26
+  - first:
+      213: 1493929141501353281
+    second: Tree_strip120_27
+  - first:
+      213: 261617766812629818
+    second: Tree_strip120_28
+  - first:
+      213: -8627912252490966953
+    second: Tree_strip120_29
+  - first:
+      213: -2239820141516299128
+    second: Tree_strip120_30
+  - first:
+      213: 7833403117587476836
+    second: Tree_strip120_31
+  - first:
+      213: -932548982012032288
+    second: Tree_strip120_32
+  - first:
+      213: -5673340600767667057
+    second: Tree_strip120_33
+  - first:
+      213: 2888385751837670837
+    second: Tree_strip120_34
+  - first:
+      213: -1963414627525623711
+    second: Tree_strip120_35
+  - first:
+      213: 7058917514419549974
+    second: Tree_strip120_36
+  - first:
+      213: -7694590916316955145
+    second: Tree_strip120_37
+  - first:
+      213: 8624516180148828974
+    second: Tree_strip120_38
+  - first:
+      213: 3706568442334745066
+    second: Tree_strip120_39
+  - first:
+      213: -4736106905632211578
+    second: Tree_strip120_40
+  - first:
+      213: -8732037677087801167
+    second: Tree_strip120_41
+  - first:
+      213: 2765489590359446288
+    second: Tree_strip120_42
+  - first:
+      213: -3590119340544114154
+    second: Tree_strip120_43
+  - first:
+      213: -7610869682353026284
+    second: Tree_strip120_44
+  - first:
+      213: -4588532315272797794
+    second: Tree_strip120_45
+  - first:
+      213: 1383176275138714990
+    second: Tree_strip120_46
+  - first:
+      213: 2139737314920491210
+    second: Tree_strip120_47
+  - first:
+      213: 3262411431532380848
+    second: Tree_strip120_48
+  - first:
+      213: -4953144563844059207
+    second: Tree_strip120_49
+  - first:
+      213: -8653328773445183316
+    second: Tree_strip120_50
+  - first:
+      213: -4856851117888165028
+    second: Tree_strip120_51
+  - first:
+      213: -1196650353527099649
+    second: Tree_strip120_52
+  - first:
+      213: -244942656177347911
+    second: Tree_strip120_53
+  - first:
+      213: 3995037632363708800
+    second: Tree_strip120_54
+  - first:
+      213: -1351922102626828802
+    second: Tree_strip120_55
+  - first:
+      213: 3913102841767580112
+    second: Tree_strip120_56
+  - first:
+      213: 5669489120364100451
+    second: Tree_strip120_57
+  - first:
+      213: -4608114079329772403
+    second: Tree_strip120_58
+  - first:
+      213: -1729230802194600902
+    second: Tree_strip120_59
+  - first:
+      213: 8088572962278929958
+    second: Tree_strip120_60
+  - first:
+      213: -8193136281527504943
+    second: Tree_strip120_61
+  - first:
+      213: 4606721794273690025
+    second: Tree_strip120_62
+  - first:
+      213: -514811704803066916
+    second: Tree_strip120_63
+  - first:
+      213: -1210638543742986013
+    second: Tree_strip120_64
+  - first:
+      213: 6434784253588877768
+    second: Tree_strip120_65
+  - first:
+      213: 1290698096753910469
+    second: Tree_strip120_66
+  - first:
+      213: -6747880975415680149
+    second: Tree_strip120_67
+  - first:
+      213: -7594023653466641283
+    second: Tree_strip120_68
+  - first:
+      213: 4920655978209117253
+    second: Tree_strip120_69
+  - first:
+      213: -1692298650396295055
+    second: Tree_strip120_70
+  - first:
+      213: -8318955879096268425
+    second: Tree_strip120_71
+  - first:
+      213: -6053065959454471487
+    second: Tree_strip120_72
+  - first:
+      213: -1072223670559040054
+    second: Tree_strip120_73
+  - first:
+      213: -423635094184373097
+    second: Tree_strip120_74
+  - first:
+      213: 5517591121263953003
+    second: Tree_strip120_75
+  - first:
+      213: 5058662785006203386
+    second: Tree_strip120_76
+  - first:
+      213: -2541303295212750060
+    second: Tree_strip120_77
+  - first:
+      213: 7957528523030493390
+    second: Tree_strip120_78
+  - first:
+      213: -5310420665361886402
+    second: Tree_strip120_79
+  - first:
+      213: 6717612985819336197
+    second: Tree_strip120_80
+  - first:
+      213: -1440259396775621279
+    second: Tree_strip120_81
+  - first:
+      213: 257523466623327641
+    second: Tree_strip120_82
+  - first:
+      213: 2071686347752677473
+    second: Tree_strip120_83
+  - first:
+      213: 4923361983089121124
+    second: Tree_strip120_84
+  - first:
+      213: -6742098675281756867
+    second: Tree_strip120_85
+  - first:
+      213: -4803903293736140457
+    second: Tree_strip120_86
+  - first:
+      213: 3059517671045947273
+    second: Tree_strip120_87
+  - first:
+      213: 8438342292166944423
+    second: Tree_strip120_88
+  - first:
+      213: -1584501647199253227
+    second: Tree_strip120_89
+  - first:
+      213: -7513613758370714696
+    second: Tree_strip120_90
+  - first:
+      213: 4003118739728406916
+    second: Tree_strip120_91
+  - first:
+      213: 2317400570021659130
+    second: Tree_strip120_92
+  - first:
+      213: -3951740058291156324
+    second: Tree_strip120_93
+  - first:
+      213: -7203810434157021516
+    second: Tree_strip120_94
+  - first:
+      213: -2679246287055286710
+    second: Tree_strip120_95
+  - first:
+      213: -3457569826229254294
+    second: Tree_strip120_96
+  - first:
+      213: 3919469449396636301
+    second: Tree_strip120_97
+  - first:
+      213: -4598875450873091173
+    second: Tree_strip120_98
+  - first:
+      213: 4931624195846372122
+    second: Tree_strip120_99
+  - first:
+      213: -5718472510732705687
+    second: Tree_strip120_100
+  - first:
+      213: -2373781014826838832
+    second: Tree_strip120_101
+  - first:
+      213: 4812629233679622588
+    second: Tree_strip120_102
+  - first:
+      213: -2960830910076659040
+    second: Tree_strip120_103
+  - first:
+      213: -4565206581769788330
+    second: Tree_strip120_104
+  - first:
+      213: 5902435558219954693
+    second: Tree_strip120_105
+  - first:
+      213: -4105484194753024835
+    second: Tree_strip120_106
+  - first:
+      213: 3587014199176450212
+    second: Tree_strip120_107
+  - first:
+      213: -8299763059574798570
+    second: Tree_strip120_108
+  - first:
+      213: 1552162582171106344
+    second: Tree_strip120_109
+  - first:
+      213: 1308636720079626506
+    second: Tree_strip120_110
+  - first:
+      213: 2570357519702845019
+    second: Tree_strip120_111
+  - first:
+      213: -5864129000778995970
+    second: Tree_strip120_112
+  - first:
+      213: 3739391419114090982
+    second: Tree_strip120_113
+  - first:
+      213: -8961586733968945440
+    second: Tree_strip120_114
+  - first:
+      213: -1998638171328761473
+    second: Tree_strip120_115
+  - first:
+      213: -5415630305485127982
+    second: Tree_strip120_116
+  - first:
+      213: -3372459123340648462
+    second: Tree_strip120_117
+  - first:
+      213: 1815182327257174251
+    second: Tree_strip120_118
+  - first:
+      213: -6382216374701001346
+    second: Tree_strip120_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tree_strip120_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2599
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e70ae1494eeb6ca0800000000000000
+      internalID: -6022458078272026648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2599
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f56fd2c269b4b620800000000000000
+      internalID: 2789057903076533750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_2
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2599
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5399d3488a61cd80800000000000000
+      internalID: -8232181510370127014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_3
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2599
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866c230573ae9880800000000000000
+      internalID: -8602258515271326069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_4
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2599
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b05cda6f8011e40800000000000000
+      internalID: 5625287265132809023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_5
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2599
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fdbcf5cca7ad990800000000000000
+      internalID: -7360435622784540925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_6
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2599
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb3fbb063b3da720800000000000000
+      internalID: 2859006441761487820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_7
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2599
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5adeb2755ea066f00800000000000000
+      internalID: 1109586338319691173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_8
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2599
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a97ee94af6a60220800000000000000
+      internalID: 2451830641062214052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_9
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2599
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd719ebd5262860800000000000000
+      internalID: 7504727455498230849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_10
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2599
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179cb1dccb9edfeb0800000000000000
+      internalID: -4684331040291174031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2343
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c283a74c31b72d7a0800000000000000
+      internalID: -6353880799435409364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2343
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a216c4cb961646dc0800000000000000
+      internalID: -3646682691504676566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_13
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2343
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4195e45d07e72190800000000000000
+      internalID: -7987161369673363124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2343
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a80617707f85d60800000000000000
+      internalID: 7879319159423666702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_15
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2343
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be42efe706dc18f0800000000000000
+      internalID: -568344123377824073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_16
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2343
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0803c1ab735ddf820800000000000000
+      internalID: 2953751365947240576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_17
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2343
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734b33fe73c7dc1d0800000000000000
+      internalID: -3328867969878739913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_18
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2343
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f39988c54fe13f80800000000000000
+      internalID: -8128452769430793229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_19
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 2343
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 021718231af1ea520800000000000000
+      internalID: 2715142402548527392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_20
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 2343
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed3b1928bce8eef0800000000000000
+      internalID: -78552717771194903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_21
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 2343
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2817ed631b2aac700800000000000000
+      internalID: 561439985574506882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 2087
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c6b7e254fc26d60800000000000000
+      internalID: 7882090193891323023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2087
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff59ecb7b9b40eb0800000000000000
+      internalID: -4754471107796836354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_24
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2087
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687a2f4e67ca92160800000000000000
+      internalID: 7001316722371372934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_25
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2087
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fc8a2905fece3e0800000000000000
+      internalID: -2022979003259236536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_26
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 2087
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ff5dd9db1cec2e0800000000000000
+      internalID: -2103530955794415817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_27
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2087
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ddac693a08bb410800000000000000
+      internalID: 1493929141501353281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_28
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 2087
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b3cc909f371a300800000000000000
+      internalID: 261617766812629818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_29
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 2087
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 758190dd48f734880800000000000000
+      internalID: -8627912252490966953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_30
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 2087
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884e728c27f8ae0e0800000000000000
+      internalID: -2239820141516299128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_31
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 2087
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4613d3ed1a6d5bc60800000000000000
+      internalID: 7833403117587476836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_32
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 2087
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea458744abee03f0800000000000000
+      internalID: -932548982012032288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_33
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1831
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84217148ce3441b0800000000000000
+      internalID: -5673340600767667057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_34
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1831
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd7598b98b951820800000000000000
+      internalID: 2888385751837670837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_35
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1831
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16087838ccc80c4e0800000000000000
+      internalID: -1963414627525623711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_36
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1831
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617b2c1641056f160800000000000000
+      internalID: 7058917514419549974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_37
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1831
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdfafc4452573590800000000000000
+      internalID: -7694590916316955145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_38
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1831
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b316d65cf60b770800000000000000
+      internalID: 8624516180148828974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_39
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1831
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1190d2c50607330800000000000000
+      internalID: 3706568442334745066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_40
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1831
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d748fbcd7f54eb0800000000000000
+      internalID: -4736106905632211578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_41
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 1831
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0cadb3ff191d680800000000000000
+      internalID: -8732037677087801167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_42
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1831
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0135a67512ef06620800000000000000
+      internalID: 2765489590359446288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_43
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1831
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612cb952b755d2ec0800000000000000
+      internalID: -3590119340544114154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_44
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1575
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bce871952c06690800000000000000
+      internalID: -7610869682353026284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_45
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1575
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91a3cb9b224250c0800000000000000
+      internalID: -4588532315272797794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_46
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d146d6e77023310800000000000000
+      internalID: 1383176275138714990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_47
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8eb7840cfd1bd10800000000000000
+      internalID: 2139737314920491210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_48
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b249a779e9664d20800000000000000
+      internalID: 3262411431532380848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_49
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfeae61345e24bb0800000000000000
+      internalID: -4953144563844059207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_50
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8122ee35339e780800000000000000
+      internalID: -8653328773445183316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_51
+      rect:
+        serializedVersion: 2
+        x: 1826
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b215714aff89cb0800000000000000
+      internalID: -4856851117888165028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_52
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffeeba5f7d4a46fe0800000000000000
+      internalID: -1196650353527099649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_53
+      rect:
+        serializedVersion: 2
+        x: 2338
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b26534b3f9c99cf0800000000000000
+      internalID: -244942656177347911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_54
+      rect:
+        serializedVersion: 2
+        x: 2594
+        y: 1575
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0814b5d5f89317730800000000000000
+      internalID: 3995037632363708800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_55
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1319
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdbdeca2020d3de0800000000000000
+      internalID: -1351922102626828802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_56
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1319
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1d0255d422e4630800000000000000
+      internalID: 3913102841767580112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_57
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1319
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b7e3511521eae40800000000000000
+      internalID: 5669489120364100451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_58
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1319
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8c9211e8a0bc00c0800000000000000
+      internalID: -4608114079329772403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_59
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 1319
+        width: 192
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ce68c4fb98008e0800000000000000
+      internalID: -1729230802194600902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_60
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 1319
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626f67c0142604070800000000000000
+      internalID: 8088572962278929958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_61
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 1319
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df203706f12c4e80800000000000000
+      internalID: -8193136281527504943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_62
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 1319
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1cbbe701d5eef30800000000000000
+      internalID: 4606721794273690025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_63
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 1319
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbfff86b750bd8f0800000000000000
+      internalID: -514811704803066916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_64
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 1319
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e89dc0a8a2f23fe0800000000000000
+      internalID: -1210638543742986013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_65
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 1319
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c131798f22fc4950800000000000000
+      internalID: 6434784253588877768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_66
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1063
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c22a41a41b79e110800000000000000
+      internalID: 1290698096753910469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_67
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1063
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b636bb13106ba52a0800000000000000
+      internalID: -6747880975415680149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_68
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1063
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ce437d8bb9c9690800000000000000
+      internalID: -7594023653466641283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_69
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1063
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5448e0b9a8ea94440800000000000000
+      internalID: 4920655978209117253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_70
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 1063
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1708149f75fb388e0800000000000000
+      internalID: -1692298650396295055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_71
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 1063
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779c15424b12d8c80800000000000000
+      internalID: -8318955879096268425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_72
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1063
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca05b494903ffba0800000000000000
+      internalID: -6053065959454471487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_73
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1063
+        width: 194
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd1094a042be11f0800000000000000
+      internalID: -1072223670559040054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_74
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 1063
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79450c85022fe1af0800000000000000
+      internalID: -423635094184373097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_75
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 1063
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6489ce24eb629c40800000000000000
+      internalID: 5517591121263953003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_76
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 1063
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af178c2400bf33640800000000000000
+      internalID: 5058662785006203386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 807
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b705e0e1a7bbcd0800000000000000
+      internalID: -2541303295212750060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 807
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec87549e702de6e60800000000000000
+      internalID: 7957528523030493390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_79
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 807
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3316396a889d46b0800000000000000
+      internalID: -5310420665361886402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_80
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 807
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e005e4b61c93d50800000000000000
+      internalID: 6717612985819336197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_81
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 807
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d45ce95bb230ce0800000000000000
+      internalID: -1440259396775621279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_82
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 807
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d196d7a38e29300800000000000000
+      internalID: 257523466623327641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_83
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 807
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16023dbc1cb10cc10800000000000000
+      internalID: 2071686347752677473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_84
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 807
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46790b673ab435440800000000000000
+      internalID: 4923361983089121124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_85
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 807
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3df23bd9f04f62a0800000000000000
+      internalID: -6742098675281756867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_86
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 807
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7514781186b155db0800000000000000
+      internalID: -4803903293736140457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_87
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 807
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f59be9c17957a20800000000000000
+      internalID: 3059517671045947273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 551
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a624c14b930b1570800000000000000
+      internalID: 8438342292166944423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 551
+        width: 193
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dcaac9528b20ae0800000000000000
+      internalID: -1584501647199253227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_90
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 551
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb63d878184ab790800000000000000
+      internalID: -7513613758370714696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_91
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 551
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489983bc84fed8730800000000000000
+      internalID: 4003118739728406916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_92
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 551
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1cd625a8f092020800000000000000
+      internalID: 2317400570021659130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_93
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 551
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9acfdcaa599829c0800000000000000
+      internalID: -3951740058291156324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_94
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 551
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b671dad39ce60c90800000000000000
+      internalID: -7203810434157021516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_95
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 551
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e094a72b761dad0800000000000000
+      internalID: -2679246287055286710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_96
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 551
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a670f71ef8e3400d0800000000000000
+      internalID: -3457569826229254294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_97
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 551
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a484fa2b0c46630800000000000000
+      internalID: 3919469449396636301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_98
+      rect:
+        serializedVersion: 2
+        x: 2593
+        y: 551
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9be170b4238d20c0800000000000000
+      internalID: -4598875450873091173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_99
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 295
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bf427c316a07440800000000000000
+      internalID: 4931624195846372122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_100
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 295
+        width: 192
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960e0fb9c87e3a0b0800000000000000
+      internalID: -5718472510732705687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_101
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 295
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d41eac6eb2ae0fd0800000000000000
+      internalID: -2373781014826838832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_102
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 295
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb162252ac4e9c240800000000000000
+      internalID: 4812629233679622588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_103
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 295
+        width: 193
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa52e479f309e6d0800000000000000
+      internalID: -2960830910076659040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_104
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 295
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65426572dc025a0c0800000000000000
+      internalID: -4565206581769788330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_105
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 295
+        width: 193
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ab5552ed9a9e150800000000000000
+      internalID: 5902435558219954693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_106
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 295
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbce3cc60e36607c0800000000000000
+      internalID: -4105484194753024835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_107
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 295
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0d13ac862a7c130800000000000000
+      internalID: 3587014199176450212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_108
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 295
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617822aa87151dc80800000000000000
+      internalID: -8299763059574798570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_109
+      rect:
+        serializedVersion: 2
+        x: 2592
+        y: 295
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c36ff05a36a8510800000000000000
+      internalID: 1552162582171106344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_110
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01e068d926392210800000000000000
+      internalID: 1308636720079626506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_111
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5664abbb8ebba320800000000000000
+      internalID: 2570357519702845019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_112
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef660874ebd6e9ea0800000000000000
+      internalID: -5864129000778995970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_113
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1707cfeacf4e330800000000000000
+      internalID: 3739391419114090982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_114
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee8de1985c02a380800000000000000
+      internalID: -8961586733968945440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_115
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71b9632c296344e0800000000000000
+      internalID: -1998638171328761473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_116
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2def7be2ee0d7d4b0800000000000000
+      internalID: -5415630305485127982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_117
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff51cd9b4e9231d0800000000000000
+      internalID: -3372459123340648462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_118
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be01bba95b2d03910800000000000000
+      internalID: 1815182327257174251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tree_strip120_119
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 39
+        width: 194
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75f34a8500dd67a0800000000000000
+      internalID: -6382216374701001346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
