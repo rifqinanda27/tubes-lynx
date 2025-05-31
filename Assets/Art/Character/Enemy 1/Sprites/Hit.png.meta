@@ -5,7 +5,7 @@ AssetOrigin:
   productId: 159577
   packageName: Medieval Warrior Pack
   packageVersion: 1.0
-  assetPath: Assets/Medieval Warrior Pack/Sprites/Hit.png
+  assetPath: Assets/Art/Character/Enemy 1/Sprites/Hit.png
   uploadId: 343852
 TextureImporter:
   internalIDToNameTable:
@@ -85,7 +85,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 4
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 4096
+    maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
