@@ -106,4 +106,31 @@ public class PlayerMovement : MonoBehaviour
         canAcceptInput = true;
         comboTimer = 0f;
     }
+
+    // public void AttackEnemy()
+    // {
+    //     Collider2D hit = Physics2D.OverlapCircle(transform.position, 5f, LayerMask.GetMask("Enemy"));
+    //     if (hit != null)
+    //     {
+    //         Animator enemyAnim = hit.GetComponent<Animator>();
+    //         if (enemyAnim != null)
+    //         {
+    //             enemyAnim.SetTrigger("TakeHit");
+    //             Debug.Log("Musuh terkena hit oleh player!");
+    //         }
+    //     }
+    // }
+    public void AttackEnemy()
+    {
+        Collider2D hit = Physics2D.OverlapCircle(transform.position, 5f, LayerMask.GetMask("Enemy"));
+        if (hit != null)
+        {
+            Enemy1Movement enemy = hit.GetComponent<Enemy1Movement>();
+            if (enemy != null)
+            {
+                enemy.TakeDamage();
+            }
+        }
+    }
+
 }
