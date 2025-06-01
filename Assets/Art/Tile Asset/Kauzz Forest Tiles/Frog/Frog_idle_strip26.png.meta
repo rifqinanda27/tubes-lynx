@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Frog_idle_strip26_0: -6477467527267390853
+      Frog_idle_strip26_1: 811574896608812511
+      Frog_idle_strip26_10: -3424982509971864379
+      Frog_idle_strip26_11: 2026352891359472956
+      Frog_idle_strip26_12: -5012570242434547669
+      Frog_idle_strip26_13: 5721476390454444908
+      Frog_idle_strip26_14: 3582450281794082922
+      Frog_idle_strip26_15: 6372182956746438304
+      Frog_idle_strip26_16: 5315935571761346807
+      Frog_idle_strip26_17: -477743432533221224
+      Frog_idle_strip26_18: 1905888861511254504
+      Frog_idle_strip26_19: 205693620403705498
+      Frog_idle_strip26_2: -4431897933391990401
+      Frog_idle_strip26_20: 316010642577578070
+      Frog_idle_strip26_21: -763583053708370083
+      Frog_idle_strip26_22: 2706167219459898889
+      Frog_idle_strip26_23: 6127485403762605744
+      Frog_idle_strip26_3: -2142465253211443851
+      Frog_idle_strip26_4: 7322874688865143736
+      Frog_idle_strip26_5: -4778146578147118893
+      Frog_idle_strip26_6: 583924730124810202
+      Frog_idle_strip26_7: 4494132870315772023
+      Frog_idle_strip26_8: 4217978909685614377
+      Frog_idle_strip26_9: -8091727425145168101
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

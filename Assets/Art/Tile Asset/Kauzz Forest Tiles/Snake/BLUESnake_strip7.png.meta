@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BLUESnake_strip7_0: 4130552186876976346
+      BLUESnake_strip7_1: -6951183671152119497
+      BLUESnake_strip7_2: -8736383926275553541
+      BLUESnake_strip7_3: -4781764652532366337
+      BLUESnake_strip7_4: 6871751422181901721
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      GREENSnake_strip7_0: 4181926328345912380
+      GREENSnake_strip7_1: 6416528531806760812
+      GREENSnake_strip7_2: -4610760083306203463
+      GREENSnake_strip7_3: 7808309235239818086
+      GREENSnake_strip7_4: 3463207853817842668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

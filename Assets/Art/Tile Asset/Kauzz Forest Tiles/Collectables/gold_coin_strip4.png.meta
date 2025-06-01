@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      gold_coin_strip4_0: 3540036776471937163
+      gold_coin_strip4_1: -1573288440157764797
+      gold_coin_strip4_2: 1211011226097523059
+      gold_coin_strip4_3: 4142489554339354503
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

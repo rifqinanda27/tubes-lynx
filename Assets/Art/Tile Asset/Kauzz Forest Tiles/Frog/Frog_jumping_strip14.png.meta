@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Frog_jumping_strip14_0: -4522912993166805243
+      Frog_jumping_strip14_1: 8861415838073407985
+      Frog_jumping_strip14_10: 6866699549873752043
+      Frog_jumping_strip14_11: 5855276580060895174
+      Frog_jumping_strip14_12: 7731050944945330783
+      Frog_jumping_strip14_13: -4006786422621671916
+      Frog_jumping_strip14_2: -9222491873822916417
+      Frog_jumping_strip14_3: 2498854074941759197
+      Frog_jumping_strip14_4: -4489901819609368032
+      Frog_jumping_strip14_5: -8766531227021791401
+      Frog_jumping_strip14_6: 168734154727800038
+      Frog_jumping_strip14_7: -9105973437889440084
+      Frog_jumping_strip14_8: -2043973482033218043
+      Frog_jumping_strip14_9: -1865483502399036306
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      silver_coin_strip4_0: -7744652982397983095
+      silver_coin_strip4_1: 2930226649614187967
+      silver_coin_strip4_2: -4918873928008426734
+      silver_coin_strip4_3: 5737675165722204486
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

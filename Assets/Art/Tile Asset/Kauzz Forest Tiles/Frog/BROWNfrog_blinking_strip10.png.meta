@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BROWNfrog_blinking_strip10_0: -8401322208605454878
+      BROWNfrog_blinking_strip10_1: -4542096498755305873
+      BROWNfrog_blinking_strip10_2: 306579280061224965
+      BROWNfrog_blinking_strip10_3: 7774106071992627297
+      BROWNfrog_blinking_strip10_4: 7192695296544895939
+      BROWNfrog_blinking_strip10_5: -6529107716337822686
+      BROWNfrog_blinking_strip10_6: 5218949680461563531
+      BROWNfrog_blinking_strip10_7: 2664327946519905222
+      BROWNfrog_blinking_strip10_8: 3587928844728723509
+      BROWNfrog_blinking_strip10_9: -329987675476619240
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

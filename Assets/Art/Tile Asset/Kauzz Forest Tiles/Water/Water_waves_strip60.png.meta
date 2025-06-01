@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Water_waves_strip60_0: -7223711027215971417
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

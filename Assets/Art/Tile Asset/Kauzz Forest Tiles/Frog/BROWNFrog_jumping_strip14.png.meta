@@ -472,7 +472,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BROWNFrog_jumping_strip14_0: 8549176896742030344
+      BROWNFrog_jumping_strip14_1: -6812838903804152702
+      BROWNFrog_jumping_strip14_10: 7478468248948445159
+      BROWNFrog_jumping_strip14_11: 5076044421566772977
+      BROWNFrog_jumping_strip14_12: -4627544178505485607
+      BROWNFrog_jumping_strip14_13: 494712487955580485
+      BROWNFrog_jumping_strip14_2: -733187370670673908
+      BROWNFrog_jumping_strip14_3: 4170500060006419956
+      BROWNFrog_jumping_strip14_4: 4022327204955949492
+      BROWNFrog_jumping_strip14_5: 7130236009718165072
+      BROWNFrog_jumping_strip14_6: -648504393994614230
+      BROWNFrog_jumping_strip14_7: 8651352274525592256
+      BROWNFrog_jumping_strip14_8: 3183968016695593817
+      BROWNFrog_jumping_strip14_9: 4671543697162020143
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

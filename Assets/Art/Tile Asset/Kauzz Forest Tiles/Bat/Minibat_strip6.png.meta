@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Minibat_strip6_0: -3847482065538290856
+      Minibat_strip6_1: 2247780330230472086
+      Minibat_strip6_2: -3398677982460236394
+      Minibat_strip6_3: 2599712752508682442
+      Minibat_strip6_4: 5086392960138906147
+      Minibat_strip6_5: -2644374980816862618
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

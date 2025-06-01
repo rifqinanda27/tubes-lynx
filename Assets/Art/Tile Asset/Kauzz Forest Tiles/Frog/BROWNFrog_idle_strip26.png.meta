@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      BROWNFrog_idle_strip26_0: 5785185446044997146
+      BROWNFrog_idle_strip26_1: 3216633033323713412
+      BROWNFrog_idle_strip26_10: -6352009988683918350
+      BROWNFrog_idle_strip26_11: -7553012348864584668
+      BROWNFrog_idle_strip26_12: 5865178672164097674
+      BROWNFrog_idle_strip26_13: 92047623927977602
+      BROWNFrog_idle_strip26_14: -5869449007721987879
+      BROWNFrog_idle_strip26_15: -7611151739609504962
+      BROWNFrog_idle_strip26_16: -2306579565719809428
+      BROWNFrog_idle_strip26_17: 5415294551558084851
+      BROWNFrog_idle_strip26_18: -1389339314051814566
+      BROWNFrog_idle_strip26_19: 3345726572333493875
+      BROWNFrog_idle_strip26_2: 5424028669727243291
+      BROWNFrog_idle_strip26_20: 5310738065310112865
+      BROWNFrog_idle_strip26_21: -5277135830391770517
+      BROWNFrog_idle_strip26_22: 3909385438940979686
+      BROWNFrog_idle_strip26_23: 6418100826359244813
+      BROWNFrog_idle_strip26_3: 2952741437662772829
+      BROWNFrog_idle_strip26_4: -5598392322562128572
+      BROWNFrog_idle_strip26_5: 6237529331711370745
+      BROWNFrog_idle_strip26_6: 7732258499871135074
+      BROWNFrog_idle_strip26_7: -1388703048824680238
+      BROWNFrog_idle_strip26_8: -2870725257008214263
+      BROWNFrog_idle_strip26_9: 7348228181500572117
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

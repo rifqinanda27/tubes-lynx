@@ -247,7 +247,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      REDSnake_strip7_0: 5529263233218784948
+      REDSnake_strip7_1: 5080759681055349130
+      REDSnake_strip7_2: -5779925260486651089
+      REDSnake_strip7_3: 7338265722526294109
+      REDSnake_strip7_4: -5661448415403039452
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

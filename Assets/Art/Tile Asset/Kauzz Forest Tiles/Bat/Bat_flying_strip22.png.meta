@@ -572,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bat_flying_strip22_0: -7495189962743219518
+      Bat_flying_strip22_1: 5107301701826852406
+      Bat_flying_strip22_10: -4039617479512622478
+      Bat_flying_strip22_11: 950823358274122930
+      Bat_flying_strip22_12: 7810233481733865381
+      Bat_flying_strip22_13: 2381688262490019783
+      Bat_flying_strip22_14: 3968419425265496447
+      Bat_flying_strip22_15: 6905183394721830074
+      Bat_flying_strip22_16: 5664487524742295928
+      Bat_flying_strip22_17: 1535785467833509254
+      Bat_flying_strip22_2: -1934677927811845237
+      Bat_flying_strip22_3: -2907110854558134396
+      Bat_flying_strip22_4: 3165031114381888376
+      Bat_flying_strip22_5: 3375836331728997365
+      Bat_flying_strip22_6: 7708876257255044457
+      Bat_flying_strip22_7: -6542870434285846173
+      Bat_flying_strip22_8: 7992208019103801218
+      Bat_flying_strip22_9: 2232560106161507991
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
