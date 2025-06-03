@@ -9,6 +9,7 @@ public class MainMenuManager : MonoBehaviour
     public float delayBeforeScene = 0.3f; // Waktu tunggu sebelum pindah scene
     public GameObject SettingPopup;
     public GameObject ExitPopup;
+    public GameObject CreditPopup;
 
     void Start()
     {
@@ -25,10 +26,10 @@ public class MainMenuManager : MonoBehaviour
 
     public void StartGame()
     {
-        StartCoroutine(DelayedSceneLoad("PilihLevel"));
+        StartCoroutine(DelayedSceneLoad("Start"));
     }
 
-        public void OpenSetting()
+    public void OpenSetting()
     {
         PlaySFX();
         SettingPopup.SetActive(true); 
@@ -36,7 +37,7 @@ public class MainMenuManager : MonoBehaviour
 
     public void OpenCredits()
     {
-        StartCoroutine(DelayedSceneLoad("CreditMenu"));
+        CreditPopup.SetActive(true);
     }
 
     public void ExitGame()

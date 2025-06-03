@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 3
   tags:
   - grounded
+  - Item
   layers:
   - Default
   - TransparentFX
