@@ -79,20 +79,26 @@ public class Boss : MonoBehaviour
     // Dipanggil dari animasi
     public void DealDamage()
     {
+        Debug.Log("DealDamage() DIPANGGIL");
+
         Collider2D hit = Physics2D.OverlapCircle(transform.position, attackRange, LayerMask.GetMask("Player"));
         if (hit != null)
         {
-            Animator playerAnim = hit.GetComponent<Animator>();
-            if (playerAnim != null)
-            {
-                playerAnim.SetTrigger("TakeHit");
-                Debug.Log("Player terkena hit oleh musuh!");
-            }
+            Debug.Log("Player DITEMUKAN DALAM RANGE");
 
-            // Tambahkan damage kalau ada sistem HP player
-            // hit.GetComponent<PlayerHealth>()?.TakeDamage(damageAmount);
+            PlayerMovement player = hit.GetComponent<PlayerMovement>();
+            if (player != null)
+            {
+                Debug.Log("PlayerMovement ditemukan - memanggil TakeDamage()");
+                player.TakeDamage();
+            }
+        }
+        else
+        {
+            Debug.Log("TIDAK ADA player dalam range");
         }
     }
+
 
     public void TakeDamage()
     {
@@ -128,4 +134,5 @@ public class Boss : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
     }
+
 }

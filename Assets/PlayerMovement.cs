@@ -14,17 +14,25 @@ public class PlayerMovement : MonoBehaviour
     private bool canAcceptInput = true;
 
     private float comboTimer = 0f;
-    public float comboResetTime = 0.5f; // durasi maksimum tunggu input combo selanjutnya
+    public float comboResetTime = 0.5f;
+
+    // ==== Health System ====
+    public int maxHealth = 5;
+    private int currentHealth;
+    private bool isDead = false;
 
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        currentHealth = maxHealth;
     }
 
     void Update()
     {
+        if (isDead) return;
+
         // Jangan gerak saat menyerang
         if (comboStep == 0)
         {
@@ -56,28 +64,20 @@ public class PlayerMovement : MonoBehaviour
             comboStep++;
             if (comboStep > 4) comboStep = 1;
 
-            Debug.Log("ComboStep: " + comboStep);
             animator.SetInteger("ComboStep", comboStep);
             canAcceptInput = false;
-            comboTimer = 0f; // reset timer saat serangan berikutnya dimulai
+            comboTimer = 0f;
         }
 
-        // Combo timeout check
+        // Combo timeout
         if (comboStep > 0)
         {
             comboTimer += Time.deltaTime;
             if (comboTimer > comboResetTime && !canAcceptInput)
             {
-                Debug.Log("Combo timeout - ResetAttack otomatis");
                 ResetAttack();
             }
         }
-
-        // Debug
-        Debug.Log("ComboStep: " + comboStep);
-        Debug.Log("CanAcceptInput: " + canAcceptInput);
-        Debug.Log("IsGrounded: " + isGrounded);
-        Debug.Log("CurrentAnimState: " + animator.GetCurrentAnimatorStateInfo(0).IsName("Attack1"));
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -89,40 +89,23 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // Event dipanggil di tengah animasi attack
     public void EnableNextInput()
     {
-        Debug.Log("EnableNextInput dipanggil pada ComboStep: " + comboStep);
         if (isGrounded)
             canAcceptInput = true;
     }
 
-    // Event di akhir animasi attack
     public void ResetAttack()
     {
-        Debug.Log("ResetAttack dipanggil pada ComboStep: " + comboStep);
         comboStep = 0;
         animator.SetInteger("ComboStep", 0);
         canAcceptInput = true;
         comboTimer = 0f;
     }
 
-    // public void AttackEnemy()
-    // {
-    //     Collider2D hit = Physics2D.OverlapCircle(transform.position, 5f, LayerMask.GetMask("Enemy"));
-    //     if (hit != null)
-    //     {
-    //         Animator enemyAnim = hit.GetComponent<Animator>();
-    //         if (enemyAnim != null)
-    //         {
-    //             enemyAnim.SetTrigger("TakeHit");
-    //             Debug.Log("Musuh terkena hit oleh player!");
-    //         }
-    //     }
-    // }
     public void AttackEnemy()
     {
-        Collider2D hit = Physics2D.OverlapCircle(transform.position, 5f, LayerMask.GetMask("Enemy"));
+        Collider2D hit = Physics2D.OverlapCircle(transform.position, 2f, LayerMask.GetMask("Enemy"));
         if (hit != null)
         {
             Enemy1Movement enemy = hit.GetComponent<Enemy1Movement>();
@@ -132,4 +115,32 @@ public class PlayerMovement : MonoBehaviour
             }
         }
     }
+
+    // ==== Dipanggil oleh musuh saat menyerang ====
+    public void TakeDamage()
+    {
+        if (isDead) return;
+
+        currentHealth--;
+        animator.SetTrigger("TakeHit");
+        Debug.Log("Player terkena serangan! Sisa HP: " + currentHealth);
+
+        if (currentHealth <= 0)
+        {
+            Die();
+        }
+    }
+
+
+    void Die()
+    {
+        isDead = true;
+        rb.linearVelocity = Vector2.zero;
+        animator.SetTrigger("Die");
+        Debug.Log("Player mati!");
+
+        // Hapus player setelah animasi selesai
+        Destroy(gameObject, 1.2f); // sesuaikan dengan durasi animasi "Die"
+    }
+
 }
