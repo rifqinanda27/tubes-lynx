@@ -73,10 +73,10 @@ public class InventoryUI : MonoBehaviour
                     image.sprite = item.itemData.icon;  // Set gambar item
                 }
 
-                // Set jumlah item dengan mengurangi 1 untuk UI
+                // Set jumlah item 1 untuk UI
                 if (text != null)
                 {
-                    text.text = Mathf.Max(1, item.quantity).ToString();  // Tampilkan jumlah item -1
+                    text.text = item.quantity.ToString(); // Tampilkan jumlah item
                     Debug.Log($"Updating UI for {item.itemData.itemName} with quantity {item.quantity}");
                 }
             }

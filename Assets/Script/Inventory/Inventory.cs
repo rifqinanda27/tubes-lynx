@@ -28,13 +28,15 @@ public class Inventory : MonoBehaviour
         InventoryItem existingItem = items.Find(i => i.itemData.itemName == newItem.itemName);
         if (existingItem != null)
         {
-            existingItem.quantity += 2;  // Tambahkan 2 item ke inventory
+            // Jika item sudah ada, tambah kuantitasnya
+            existingItem.quantity += 1;
             Debug.Log($"{newItem.itemName} quantity updated to {existingItem.quantity}.");
         }
         else
         {
-            items.Add(new InventoryItem(newItem, 2));  // Jika item baru, tambah ke inventory dengan quantity 2
-            Debug.Log($"{newItem.itemName} added with quantity 2.");
+            // Jika item belum ada, tambahkan item baru dengan kuantitas 1
+            items.Add(new InventoryItem(newItem, 1));  // Pastikan item baru ditambahkan dengan kuantitas 1
+            Debug.Log($"{newItem.itemName} added with quantity 1.");
         }
 
         // Memanggil UI untuk diperbarui
@@ -43,6 +45,7 @@ public class Inventory : MonoBehaviour
             InventoryUI.instance.RefreshUI();  // Update UI
         }
     }
+
 
     // Menggunakan item dari inventory
     public void UseItem(Item.ItemType itemType)
@@ -73,7 +76,6 @@ public class Inventory : MonoBehaviour
         }
     }
 
-
     // Menampilkan semua item di inventaris untuk debugging (Opsional)
     public void PrintInventory()
     {
@@ -97,4 +99,3 @@ public class InventoryItem
         this.quantity = quantity;
     }
 }
-
