@@ -4,11 +4,15 @@ public class PlayerPickup : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Item"))
+        if (collision.CompareTag("Item"))  // Pastikan hanya item yang bisa diambil
         {
             ItemPickup pickup = collision.GetComponent<ItemPickup>();
-            Inventory.instance.AddItem(pickup.item);
-            Destroy(collision.gameObject);
+            if (pickup != null)
+            {
+                Debug.Log("Picking up: " + pickup.item.itemName);
+                Inventory.instance.AddItem(pickup.item);  // Tambahkan item ke inventaris
+                Destroy(collision.gameObject);  // Hancurkan item setelah diambil
+            }
         }
     }
 }

@@ -4,7 +4,9 @@ public class PlayerInventory : MonoBehaviour
 {
     public Inventory inventory;
 
-    void Update()
+    private bool hasPickedUpItem = false;  // Flag untuk mencegah pemanggilan ganda
+
+    private void Update()
     {
         if (inventory == null)
         {
@@ -24,13 +26,13 @@ public class PlayerInventory : MonoBehaviour
             inventory.UseItem(Item.ItemType.EnergyPotion);
         }
 
-        // Gunakan StrengthPotion jika tombol Alpha1 ditekan
+        // Gunakan StrengthPotion jika tombol Alpha3 ditekan
         if (Input.GetKeyDown(KeyCode.Alpha3))
         {
             inventory.UseItem(Item.ItemType.StrenghtPotion);
         }
 
-        // Gunakan ImmunityPotion jika tombol Alpha2 ditekan
+        // Gunakan ImmunityPotion jika tombol Alpha4 ditekan
         if (Input.GetKeyDown(KeyCode.Alpha4))
         {
             inventory.UseItem(Item.ItemType.ImmunityPotion);
@@ -39,22 +41,18 @@ public class PlayerInventory : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.CompareTag("Item"))
+        if (collision.CompareTag("Item") && !hasPickedUpItem)
         {
+            hasPickedUpItem = true;  // Mencegah pemanggilan ganda
+
+            Debug.Log("Item collided: " + collision.gameObject.name);
             ItemPickup itemPickup = collision.GetComponent<ItemPickup>();
             if (itemPickup != null)
             {
+                Debug.Log("Calling AddItem for " + itemPickup.item.itemName);
                 if (inventory != null)
                 {
                     inventory.AddItem(itemPickup.item);  // Tambahkan item ke inventaris
-                    
-                    // Hanya update UI dengan quantity -1
-                    var existingItem = inventory.items.Find(i => i.itemData.itemName == itemPickup.item.itemName);
-                    if (existingItem != null && existingItem.quantity > 0)
-                    {
-                        InventoryUI.instance.RefreshUI();  // Memperbarui UI setelah pengambilan item
-                    }
-                    
                     Destroy(collision.gameObject);       // Hancurkan item setelah diambil
                 }
                 else

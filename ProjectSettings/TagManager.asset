@@ -6,6 +6,7 @@ TagManager:
   tags:
   - grounded
   - Item
+  - Tilemap
   layers:
   - Default
   - TransparentFX
