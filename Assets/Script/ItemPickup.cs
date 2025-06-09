@@ -18,7 +18,7 @@ public class ItemPickup : MonoBehaviour
         if (other.GetComponent<TilemapCollider2D>() != null)  // Menggunakan TilemapCollider2D untuk mendeteksi Tilemap
         {
             // Menghentikan pergerakan item saat bersentuhan dengan Tilemap
-            GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;  // Mengganti velocity dengan linearVelocity
+            // GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;  // Mengganti velocity dengan linearVelocity
             GetComponent<Rigidbody2D>().isKinematic = true;       // Set isKinematic agar item tidak terpengaruh fisika lagi
             Debug.Log("Item berhenti karena terkena Tilemap");
         }

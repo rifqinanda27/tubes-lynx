@@ -6,6 +6,21 @@ public class BossEnemyMovement : Enemy1Movement
     public float comboInterval = 0.3f;
     private bool inCombo = false;
 
+    public BossArenaManager bossArenaManager;
+    public BossHealthUI bossHealthUI;
+
+
+    protected override void Start()
+    {
+        base.Start();
+        if (bossHealthUI != null)
+        {
+            bossHealthUI.SetMaxHealth(maxHealth);
+        }
+    }
+
+
+
     protected override void Update()
     {
         base.Update();
@@ -55,4 +70,42 @@ public class BossEnemyMovement : Enemy1Movement
     {
         base.DealDamage(); // Gunakan damage logic bawaan
     }
+
+    public override void TakeDamage()
+    {
+        if (isDead) return;
+
+        currentHealth--;
+        animator.SetTrigger("TakeHit");
+
+        if (bossHealthUI != null)
+        {
+            bossHealthUI.SetHealth(currentHealth);
+        }
+
+        if (currentHealth <= 0)
+        {
+            isDead = true;
+            movement = Vector2.zero;
+
+            float takeHitDuration = 0.5f;
+            Invoke(nameof(Die), takeHitDuration);
+        }
+    }
+
+
+    protected override void Die()
+    {
+        animator.SetTrigger("Die");
+        Debug.Log("Boss mati!");
+
+        // Panggil bossArenaManager kalau ada
+        if (bossArenaManager != null)
+        {
+            bossArenaManager.OnBossDefeated();
+        }
+
+        Destroy(gameObject, 1.5f); // tunggu animasi death selesai
+    }
+
 }

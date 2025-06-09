@@ -29,7 +29,9 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
-        heartManager = FindObjectOfType<HeartManager>();
+        // heartManager = FindObjectOfType<HeartManager>();
+        heartManager = FindFirstObjectByType<HeartManager>();
+
     }
 
     void Update()

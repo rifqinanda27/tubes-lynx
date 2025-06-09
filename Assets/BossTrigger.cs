@@ -7,6 +7,7 @@ public class BossTrigger : MonoBehaviour
     public CinemachineCamera playerCamera;
 
     public GameObject bossHealthUI;
+    public GameObject bossEnemy;
     public GameObject leftWall;
     public GameObject rightWall;
 
@@ -23,6 +24,7 @@ public class BossTrigger : MonoBehaviour
             rightWall.GetComponent<Collider2D>().enabled = true;
 
             bossHealthUI.gameObject.SetActive(true);
+            bossEnemy.GetComponent<Enemy1Movement>().canChasePlayer = true;
             // Opsional: hancurkan trigger biar cuma sekali
             Destroy(gameObject);
         }
