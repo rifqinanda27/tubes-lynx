@@ -2,6 +2,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    private HeartManager heartManager;
+
     public float runSpeed = 10f;
     public float jumpForce = 15f;
 
@@ -27,6 +29,7 @@ public class PlayerMovement : MonoBehaviour
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
+        heartManager = FindObjectOfType<HeartManager>();
     }
 
     void Update()
@@ -125,11 +128,18 @@ public class PlayerMovement : MonoBehaviour
         animator.SetTrigger("TakeHit");
         Debug.Log("Player terkena serangan! Sisa HP: " + currentHealth);
 
+        // Update heart UI
+        if (heartManager != null)
+        {
+            heartManager.LoseHeart(currentHealth);
+        }
+
         if (currentHealth <= 0)
         {
             Die();
         }
     }
+
 
 
     void Die()

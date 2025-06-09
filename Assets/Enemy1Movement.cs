@@ -4,7 +4,7 @@ public class Enemy1Movement : MonoBehaviour
 {
     public float attackRange = 0.5f;
     public float attackCooldown = 1f;
-    private float lastAttackTime = 0f;
+    protected float lastAttackTime = 0f;
 
     public Transform target;
     public float moveSpeed = 2f;
@@ -12,19 +12,28 @@ public class Enemy1Movement : MonoBehaviour
 
     private Rigidbody2D rb;
     private Vector2 movement;
-    private Animator animator;
+    protected Animator animator;
     private SpriteRenderer spriteRenderer;
 
     public int maxHealth = 2;
     private int currentHealth;
     private bool isDead = false;
 
+    public BossHealthUI bossHealthUI;
+
     void Start()
     {
         currentHealth = maxHealth;
+
+        if (bossHealthUI != null)
+        {
+            bossHealthUI.SetMaxHealth(maxHealth);
+        }
+
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+
     }
 
     private bool IsInActionState()
@@ -33,7 +42,7 @@ public class Enemy1Movement : MonoBehaviour
         return state.IsTag("Attack") || state.IsTag("TakeHit") || isDead;
     }
 
-    void Update()
+    protected virtual void Update()
     {
         if (target != null && !isDead)
         {
@@ -60,9 +69,7 @@ public class Enemy1Movement : MonoBehaviour
 
                 if (Time.time - lastAttackTime > attackCooldown && distance <= attackRange)
                 {
-                    animator.SetTrigger("Attack");
-                    lastAttackTime = Time.time;
-                    Debug.Log("Goblin menyerang!");
+                    PerformAttack();
                 }
             }
         }
@@ -77,7 +84,7 @@ public class Enemy1Movement : MonoBehaviour
     }
 
     // Dipanggil dari animasi
-    public void DealDamage()
+    public virtual void DealDamage()
     {
         Debug.Log("DealDamage() DIPANGGIL");
 
@@ -99,8 +106,6 @@ public class Enemy1Movement : MonoBehaviour
         }
     }
 
-
-
     public void TakeDamage()
     {
         if (isDead) return;
@@ -108,13 +113,17 @@ public class Enemy1Movement : MonoBehaviour
         currentHealth--;
         animator.SetTrigger("TakeHit");
 
+        if (bossHealthUI != null)
+        {
+            bossHealthUI.SetHealth(currentHealth);
+        }
+
         if (currentHealth <= 0)
         {
-            isDead = true; // set dead supaya nggak bisa jalan/nyerang lagi
+            isDead = true;
             movement = Vector2.zero;
 
-            // Tunggu animasi "TakeHit" selesai dulu sebelum mati
-            float takeHitDuration = 0.5f; // sesuaikan durasi animasi TakeHit
+            float takeHitDuration = 0.5f;
             Invoke(nameof(Die), takeHitDuration);
         }
     }
@@ -136,5 +145,11 @@ public class Enemy1Movement : MonoBehaviour
         Gizmos.DrawWireSphere(transform.position, attackRange);
     }
 
+    protected virtual void PerformAttack()
+    {
+        animator.SetTrigger("Attack");
+        lastAttackTime = Time.time;
+        Debug.Log("Enemy menyerang biasa");
+    }
 
 }
