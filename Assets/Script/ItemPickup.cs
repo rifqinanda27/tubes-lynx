@@ -1,9 +1,9 @@
 using UnityEngine;
-using UnityEngine.Tilemaps;  // Tambahkan namespace ini
+using UnityEngine.Tilemaps;
 
 public class ItemPickup : MonoBehaviour
 {
-    public Item item;  // Menambahkan referensi ke item yang akan diambil
+    public Item item;
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -11,15 +11,15 @@ public class ItemPickup : MonoBehaviour
         {
             // Lakukan sesuatu ketika pemain mengambil item
             Debug.Log("Item diambil!");
-            Inventory.instance.AddItem(item);  // Menambahkan item ke inventaris
-            Destroy(gameObject); // Menghapus item dari scene
+            // Hanya menambahkan item ke inventaris, tanpa menghancurkan objek
+            // Penghancuran item dilakukan di PlayerPickup
         }
 
-        if (other.GetComponent<TilemapCollider2D>() != null)  // Menggunakan TilemapCollider2D untuk mendeteksi Tilemap
+        if (other.GetComponent<TilemapCollider2D>() != null)
         {
             // Menghentikan pergerakan item saat bersentuhan dengan Tilemap
-            // GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;  // Mengganti velocity dengan linearVelocity
-            GetComponent<Rigidbody2D>().isKinematic = true;       // Set isKinematic agar item tidak terpengaruh fisika lagi
+            GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
+            GetComponent<Rigidbody2D>().isKinematic = true;
             Debug.Log("Item berhenti karena terkena Tilemap");
         }
     }

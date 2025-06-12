@@ -26,26 +26,27 @@ public class Inventory : MonoBehaviour
 
         // Cari apakah item sudah ada di inventory
         InventoryItem existingItem = items.Find(i => i.itemData.itemName == newItem.itemName);
+
         if (existingItem != null)
         {
-            // Jika item sudah ada, tambah kuantitasnya
+            // Jika item sudah ada, tambah kuantitasnya hanya jika belum ditambah pada frame ini
             existingItem.quantity += 1;
-            Debug.Log($"{newItem.itemName} quantity updated to {existingItem.quantity}.");
+            Debug.Log($"{newItem.itemName} tambah item sudah ada {existingItem.quantity}.");
         }
         else
         {
             // Jika item belum ada, tambahkan item baru dengan kuantitas 1
             items.Add(new InventoryItem(newItem, 1));  // Pastikan item baru ditambahkan dengan kuantitas 1
-            Debug.Log($"{newItem.itemName} added with quantity 1.");
+            Debug.Log($"{newItem.itemName} tambah item baru.");
         }
 
         // Memanggil UI untuk diperbarui
         if (InventoryUI.instance != null)
         {
-            InventoryUI.instance.RefreshUI();  // Update UI
+            // Pastikan hanya memanggil RefreshUI sekali setelah semua item ditambahkan
+            InventoryUI.instance.RefreshUI();
         }
     }
-
 
     // Menggunakan item dari inventory
     public void UseItem(Item.ItemType itemType)
