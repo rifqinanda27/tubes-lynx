@@ -9,23 +9,29 @@ public class BossEnemyMovement : Enemy1Movement
     public BossArenaManager bossArenaManager;
     public BossHealthUI bossHealthUI;
 
+    // 🔊 Sound Effects
+    public AudioClip BossAttackSFX;
+    public AudioClip BossTakeHitSFX;
+    public AudioClip BossDieSFX;
+    public AudioClip BossStepSFX;
+
+    private AudioSource audioSource;
 
     protected override void Start()
     {
         base.Start();
+        audioSource = GetComponent<AudioSource>();
+
         if (bossHealthUI != null)
         {
             bossHealthUI.SetMaxHealth(maxHealth);
         }
     }
 
-
-
     protected override void Update()
     {
         base.Update();
 
-        // Lanjutkan combo jika sedang dalam mode combo
         if (inCombo && Time.time - lastAttackTime > comboInterval)
         {
             NextComboAttack();
@@ -39,12 +45,9 @@ public class BossEnemyMovement : Enemy1Movement
             inCombo = true;
             currentAttackStep = 1;
             TriggerAttackAnimation(currentAttackStep);
-
-            // Atur waktu supaya comboInterval benar-benar jalan di Update berikutnya
             lastAttackTime = Time.time - comboInterval + 0.01f;
         }
     }
-
 
     private void NextComboAttack()
     {
@@ -52,7 +55,7 @@ public class BossEnemyMovement : Enemy1Movement
 
         if (currentAttackStep > 2)
         {
-            inCombo = false; // combo selesai
+            inCombo = false;
             return;
         }
 
@@ -64,11 +67,16 @@ public class BossEnemyMovement : Enemy1Movement
     {
         animator.SetTrigger("Attack" + step);
         Debug.Log("Boss menyerang dengan Attack" + step);
+
+        if (audioSource != null && BossAttackSFX != null)
+        {
+            audioSource.PlayOneShot(BossAttackSFX);
+        }
     }
 
     public override void DealDamage()
     {
-        base.DealDamage(); // Gunakan damage logic bawaan
+        base.DealDamage();
     }
 
     public override void TakeDamage()
@@ -77,6 +85,11 @@ public class BossEnemyMovement : Enemy1Movement
 
         currentHealth--;
         animator.SetTrigger("TakeHit");
+
+        if (audioSource != null && BossTakeHitSFX != null)
+        {
+            audioSource.PlayOneShot(BossTakeHitSFX);
+        }
 
         if (bossHealthUI != null)
         {
@@ -93,19 +106,36 @@ public class BossEnemyMovement : Enemy1Movement
         }
     }
 
-
     protected override void Die()
     {
         animator.SetTrigger("Die");
         Debug.Log("Boss mati!");
 
-        // Panggil bossArenaManager kalau ada
+        if (audioSource != null && BossDieSFX != null)
+        {
+            audioSource.PlayOneShot(BossDieSFX);
+        }
+
         if (bossArenaManager != null)
         {
             bossArenaManager.OnBossDefeated();
         }
 
-        Destroy(gameObject, 1.5f); // tunggu animasi death selesai
+        Destroy(gameObject, 1.5f);
+    }
+
+    // 🎧 Dipanggil dari animasi jalan (melangkah)
+    public void PlayFootstep()
+    {
+        if (!isDead && audioSource != null && BossStepSFX != null)
+        {
+            audioSource.PlayOneShot(BossStepSFX);
+        }
+    }
+
+    protected override bool ShouldStartChasing(float distance)
+    {
+        return false; // Boss selalu bisa mulai ngejar kapan saja
     }
 
 }

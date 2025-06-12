@@ -19,7 +19,19 @@ public class Enemy1Movement : MonoBehaviour
     protected bool isDead = false;
     protected Vector2 movement;
 
-    public bool canChasePlayer = false; // <-- Boss mulai diam
+    public bool canChasePlayer = false;
+
+    // 🔊 Sound Effects
+    [HideInInspector] public AudioClip attackSFX;
+    [HideInInspector] public AudioClip takeHitSFX;
+    [HideInInspector] public AudioClip dieSFX;
+    [HideInInspector] public AudioClip stepSFX;
+
+    private AudioSource audioSource;
+
+    [Header("Chase Settings")]
+    [SerializeField] protected float chaseRadius = 5f; // misal 5 unit
+
 
     protected virtual void Start()
     {
@@ -27,6 +39,7 @@ public class Enemy1Movement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     private bool IsInActionState()
@@ -37,7 +50,17 @@ public class Enemy1Movement : MonoBehaviour
 
     protected virtual void Update()
     {
-        if (!canChasePlayer || target == null || isDead) return;
+        if (isDead || target == null) return;
+
+        float distanceToTarget = Vector2.Distance(transform.position, target.position);
+
+        // 🔍 Cek apakah player masuk area kejar
+        if (!canChasePlayer && ShouldStartChasing(distanceToTarget))
+        {
+            canChasePlayer = true;
+        }
+
+        if (!canChasePlayer) return;
 
         Vector2 direction = new Vector2(target.position.x - transform.position.x, 0);
         float distance = direction.magnitude;
@@ -66,6 +89,7 @@ public class Enemy1Movement : MonoBehaviour
             }
         }
     }
+
 
     void FixedUpdate()
     {
@@ -104,6 +128,11 @@ public class Enemy1Movement : MonoBehaviour
         currentHealth--;
         animator.SetTrigger("TakeHit");
 
+        if (audioSource != null && takeHitSFX != null)
+        {
+            audioSource.PlayOneShot(takeHitSFX);
+        }
+
         if (currentHealth <= 0)
         {
             isDead = true;
@@ -118,19 +147,47 @@ public class Enemy1Movement : MonoBehaviour
     {
         animator.SetTrigger("Die");
         Debug.Log("Goblin mati!");
-        Destroy(gameObject, 1.2f); // sesuaikan durasi animasi death
-    }
 
-    void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, attackRange);
+        if (audioSource != null && dieSFX != null)
+        {
+            audioSource.PlayOneShot(dieSFX);
+        }
+
+        Destroy(gameObject, 1.2f);
     }
 
     protected virtual void PerformAttack()
     {
         animator.SetTrigger("Attack");
         lastAttackTime = Time.time;
+
+        if (audioSource != null && attackSFX != null)
+        {
+            audioSource.PlayOneShot(attackSFX);
+        }
+
         Debug.Log("Enemy menyerang biasa");
+    }
+
+    // 🎧 Dipanggil dari animasi jalan
+    public void PlayFootstep()
+    {
+        if (!isDead && audioSource != null && stepSFX != null)
+        {
+            audioSource.PlayOneShot(stepSFX);
+        }
+    }
+
+    // Fungsi penentu mulai mengejar
+    protected virtual bool ShouldStartChasing(float distance)
+    {
+        return distance <= chaseRadius;
+    }
+
+
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(transform.position, attackRange);
     }
 }

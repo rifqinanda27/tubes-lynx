@@ -23,22 +23,30 @@ public class PlayerMovement : MonoBehaviour
     private int currentHealth;
     private bool isDead = false;
 
+    // ==== Sound Effects ====
+    public AudioClip attackSFX;
+    public AudioClip jumpSFX;
+    public AudioClip stepSFX;
+    public AudioClip hitSFX;
+    public AudioClip dieSFX;
+
+    private AudioSource audioSource;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
-        // heartManager = FindObjectOfType<HeartManager>();
         heartManager = FindFirstObjectByType<HeartManager>();
 
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
     {
         if (isDead) return;
 
-        // Jangan gerak saat menyerang
         if (comboStep == 0)
         {
             float moveInput = Input.GetAxisRaw("Horizontal");
@@ -55,15 +63,16 @@ public class PlayerMovement : MonoBehaviour
             animator.SetFloat("Speed", 0);
         }
 
-        // Lompat
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded && comboStep == 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             animator.SetBool("IsJumping", true);
             isGrounded = false;
+
+            if (audioSource != null && jumpSFX != null)
+                audioSource.PlayOneShot(jumpSFX);
         }
 
-        // Input Attack
         if (Input.GetKeyDown(KeyCode.J) && canAcceptInput && isGrounded)
         {
             comboStep++;
@@ -72,9 +81,11 @@ public class PlayerMovement : MonoBehaviour
             animator.SetInteger("ComboStep", comboStep);
             canAcceptInput = false;
             comboTimer = 0f;
+
+            if (audioSource != null && attackSFX != null)
+                audioSource.PlayOneShot(attackSFX);
         }
 
-        // Combo timeout
         if (comboStep > 0)
         {
             comboTimer += Time.deltaTime;
@@ -121,16 +132,18 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-    // ==== Dipanggil oleh musuh saat menyerang ====
     public void TakeDamage()
     {
         if (isDead) return;
 
         currentHealth--;
         animator.SetTrigger("TakeHit");
+
+        if (audioSource != null && hitSFX != null)
+            audioSource.PlayOneShot(hitSFX);
+
         Debug.Log("Player terkena serangan! Sisa HP: " + currentHealth);
 
-        // Update heart UI
         if (heartManager != null)
         {
             heartManager.LoseHeart(currentHealth);
@@ -142,17 +155,24 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
-
-
     void Die()
     {
         isDead = true;
         rb.linearVelocity = Vector2.zero;
         animator.SetTrigger("Die");
-        Debug.Log("Player mati!");
 
-        // Hapus player setelah animasi selesai
-        Destroy(gameObject, 1.2f); // sesuaikan dengan durasi animasi "Die"
+        if (audioSource != null && dieSFX != null)
+            audioSource.PlayOneShot(dieSFX);
+
+        Debug.Log("Player mati!");
+        Destroy(gameObject, 1.2f);
     }
 
+    public void PlayStepSound()
+    {
+        if (isGrounded && audioSource != null && stepSFX != null)
+        {
+            audioSource.PlayOneShot(stepSFX);
+        }
+    }
 }
