@@ -23,6 +23,10 @@ public class PlayerMovement : MonoBehaviour
     private int currentHealth;
     private bool isDead = false;
 
+    // ==== Jumping System ====
+    public int maxJumps = 2;
+    private int jumpCount = 0;
+
     // ==== Sound Effects ====
     public AudioClip attackSFX;
     public AudioClip jumpSFX;
@@ -39,7 +43,6 @@ public class PlayerMovement : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         currentHealth = maxHealth;
         heartManager = FindFirstObjectByType<HeartManager>();
-
         audioSource = GetComponent<AudioSource>();
     }
 
@@ -63,11 +66,12 @@ public class PlayerMovement : MonoBehaviour
             animator.SetFloat("Speed", 0);
         }
 
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded && comboStep == 0)
+        if (Input.GetKeyDown(KeyCode.Space) && jumpCount < maxJumps && comboStep == 0)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
             animator.SetBool("IsJumping", true);
             isGrounded = false;
+            jumpCount++;
 
             if (audioSource != null && jumpSFX != null)
                 audioSource.PlayOneShot(jumpSFX);
@@ -102,6 +106,7 @@ public class PlayerMovement : MonoBehaviour
         {
             isGrounded = true;
             animator.SetBool("IsJumping", false);
+            jumpCount = 0; // reset lompatan saat mendarat
         }
     }
 
