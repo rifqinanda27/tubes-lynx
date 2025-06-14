@@ -291,7 +291,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   attackRange: 5
   attackCooldown: 3
-  target: {fileID: 0}
+  target: {fileID: 524586816494389706, guid: 7744ff6a1cf932f41a58302fb72f2d76, type: 3}
   moveSpeed: 4
   stoppingDistance: 5
   maxHealth: 3
@@ -302,6 +302,7 @@ MonoBehaviour:
   stepSFX: {fileID: 8300000, guid: a241692bc2773af47af3e672bb580b29, type: 3}
   chaseRadius: 10
   healthBarUIPrefab: {fileID: 6070726419387177712}
+  patrolRadius: 10
   bulletPrefab: {fileID: 79228284750077405, guid: fd8de95ce28d2b74bbb983307f694e27, type: 3}
   shootPoint: {fileID: 703910590063388518}
 --- !u!1 &3583101337347386670

@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class EnemyBullet : MonoBehaviour
 {
+    protected Animator animator;
     public float speed = 5f;
     public float lifetime = 3f;
     public int damage = 1;
@@ -12,6 +13,11 @@ public class EnemyBullet : MonoBehaviour
     {
         direction = dir.normalized;
         Destroy(gameObject, lifetime);
+    }
+
+    void Start()
+    {
+        animator = GetComponent<Animator>();
     }
 
     void Update()
@@ -29,13 +35,29 @@ public class EnemyBullet : MonoBehaviour
                 player.TakeDamage();
             }
 
-            Destroy(gameObject); // 💥 Hancurkan setelah kena
+            if (animator != null)
+            {
+                animator.SetTrigger("TakeHit");
+            }
+
+            StartCoroutine(DestroyAfterAnimation()); // ⏳ Delay destroy
         }
 
-        // Opsional: Tambahkan deteksi tembok
         if (other.CompareTag("Ground") || other.CompareTag("Wall"))
         {
             Destroy(gameObject);
         }
     }
+
+    private System.Collections.IEnumerator DestroyAfterAnimation()
+    {
+        // Optional: matikan gerakan agar peluru berhenti
+        speed = 0;
+
+        // Tunggu durasi animasi "TakeHit", misalnya 0.3 detik
+        yield return new WaitForSeconds(0.3f);
+
+        Destroy(gameObject);
+    }
+
 }

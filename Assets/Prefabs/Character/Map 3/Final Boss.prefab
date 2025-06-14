@@ -211,6 +211,7 @@ MonoBehaviour:
   dieSFX: {fileID: 8300000, guid: fb79c96d7864aca4896304f686fb7d96, type: 3}
   stepSFX: {fileID: 8300000, guid: a241692bc2773af47af3e672bb580b29, type: 3}
   chaseRadius: 5
+  healthBarUIPrefab: {fileID: 0}
   comboInterval: 0.6
   bossArenaManager: {fileID: 0}
   bossHealthUI: {fileID: 0}
@@ -218,6 +219,8 @@ MonoBehaviour:
   BossTakeHitSFX: {fileID: 8300000, guid: 9a5ec96d5e124554c96372ff47609058, type: 3}
   BossDieSFX: {fileID: 8300000, guid: fb79c96d7864aca4896304f686fb7d96, type: 3}
   BossStepSFX: {fileID: 8300000, guid: b5dbdc8e54322da4f9ff15cb1bd9afd0, type: 3}
+  hitsToTriggerInvincible: 4
+  invincibilityDuration: 1
 --- !u!82 &317788583156707660
 AudioSource:
   m_ObjectHideFlags: 0

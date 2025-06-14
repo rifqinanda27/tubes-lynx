@@ -17,6 +17,14 @@ public class BossEnemyMovement : Enemy1Movement
 
     private AudioSource audioSource;
 
+    [Header("Counter Settings")]
+    public int hitsToTriggerInvincible = 3;
+    private int hitCounter = 0;
+    public float invincibilityDuration = 1f;
+    private bool isInvincible = false;
+
+
+
     protected override void Start()
     {
         base.Start();
@@ -81,7 +89,7 @@ public class BossEnemyMovement : Enemy1Movement
 
     public override void TakeDamage()
     {
-        if (isDead) return;
+        if (isDead || isInvincible) return;
 
         currentHealth--;
         animator.SetTrigger("TakeHit");
@@ -100,11 +108,20 @@ public class BossEnemyMovement : Enemy1Movement
         {
             isDead = true;
             movement = Vector2.zero;
+            Invoke(nameof(Die), 0.5f);
+        }
+        else
+        {
+            hitCounter++;
 
-            float takeHitDuration = 0.5f;
-            Invoke(nameof(Die), takeHitDuration);
+            if (hitCounter >= hitsToTriggerInvincible)
+            {
+                StartCoroutine(HandleInvincibilityAndCounter());
+            }
         }
     }
+
+
 
     protected override void Die()
     {
@@ -138,4 +155,20 @@ public class BossEnemyMovement : Enemy1Movement
         return false; // Boss selalu bisa mulai ngejar kapan saja
     }
 
+    private System.Collections.IEnumerator HandleInvincibilityAndCounter()
+    {
+        isInvincible = true;
+        hitCounter = 0; // reset counter
+
+        // Efek visual (opsional)
+        spriteRenderer.color = new Color(1f, 0.5f, 0.5f, 1f);
+
+        // Langsung counter attack
+        PerformAttack();
+
+        yield return new WaitForSeconds(invincibilityDuration);
+
+        isInvincible = false;
+        spriteRenderer.color = new Color(1f, 1f, 1f, 1f);
+    }
 }
