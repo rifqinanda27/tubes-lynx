@@ -1,7 +1,10 @@
 using UnityEngine;
-
+using UnityEngine.UI; 
 public class Enemy1Movement : MonoBehaviour
 {
+    protected Animator baseAnimator => animator;
+    public SpriteRenderer spriteRendererPublic => spriteRenderer;
+
     public float attackRange = 0.5f;
     public float attackCooldown = 1f;
     protected float lastAttackTime = 0f;
@@ -12,7 +15,7 @@ public class Enemy1Movement : MonoBehaviour
 
     private Rigidbody2D rb;
     protected Animator animator;
-    private SpriteRenderer spriteRenderer;
+    protected SpriteRenderer spriteRenderer;
 
     public int maxHealth = 2;
     protected int currentHealth;
@@ -22,15 +25,27 @@ public class Enemy1Movement : MonoBehaviour
     public bool canChasePlayer = false;
 
     // 🔊 Sound Effects
-    [HideInInspector] public AudioClip attackSFX;
-    [HideInInspector] public AudioClip takeHitSFX;
-    [HideInInspector] public AudioClip dieSFX;
-    [HideInInspector] public AudioClip stepSFX;
+    // [HideInInspector] public AudioClip attackSFX;
+    // [HideInInspector] public AudioClip takeHitSFX;
+    // [HideInInspector] public AudioClip dieSFX;
+    // [HideInInspector] public AudioClip stepSFX;
 
-    private AudioSource audioSource;
+    public AudioClip attackSFX;
+    public AudioClip takeHitSFX;
+    public AudioClip dieSFX;
+    public AudioClip stepSFX;
+
+    protected AudioSource audioSource;
 
     [Header("Chase Settings")]
     [SerializeField] protected float chaseRadius = 5f; // misal 5 unit
+
+    [Header("Health UI")]
+    public GameObject healthBarUIPrefab;
+
+    private Slider healthSlider;
+    private GameObject healthBarUIInstance;
+
 
 
     protected virtual void Start()
@@ -40,9 +55,26 @@ public class Enemy1Movement : MonoBehaviour
         animator = GetComponent<Animator>();
         spriteRenderer = GetComponent<SpriteRenderer>();
         audioSource = GetComponent<AudioSource>();
+
+        // Setelah audioSource = GetComponent<AudioSource>();
+        if (healthBarUIPrefab != null)
+        {
+            Canvas canvas = FindObjectOfType<Canvas>(); // cari canvas utama
+            healthBarUIInstance = Instantiate(healthBarUIPrefab, canvas.transform);
+            healthSlider = healthBarUIInstance.GetComponentInChildren<Slider>();
+
+            // Set target follow
+            var follow = healthBarUIInstance.GetComponent<EnemyHealthBarFollow>();
+            if (follow != null) follow.target = this.transform;
+
+            // Set nilai awal
+            healthSlider.maxValue = maxHealth;
+            healthSlider.value = currentHealth;
+        }
+
     }
 
-    private bool IsInActionState()
+    protected bool IsInActionState()
     {
         AnimatorStateInfo state = animator.GetCurrentAnimatorStateInfo(0);
         return state.IsTag("Attack") || state.IsTag("TakeHit") || isDead;
@@ -88,6 +120,8 @@ public class Enemy1Movement : MonoBehaviour
                 PerformAttack();
             }
         }
+        Debug.Log("Can chase: " + canChasePlayer + " | Distance: " + distanceToTarget);
+
     }
 
 
@@ -133,6 +167,11 @@ public class Enemy1Movement : MonoBehaviour
             audioSource.PlayOneShot(takeHitSFX);
         }
 
+        if (healthSlider != null)
+        {
+            healthSlider.value = currentHealth;
+        }
+
         if (currentHealth <= 0)
         {
             isDead = true;
@@ -151,6 +190,11 @@ public class Enemy1Movement : MonoBehaviour
         if (audioSource != null && dieSFX != null)
         {
             audioSource.PlayOneShot(dieSFX);
+        }
+
+        if (healthBarUIInstance != null)
+        {
+            Destroy(healthBarUIInstance);
         }
 
         Destroy(gameObject, 1.2f);

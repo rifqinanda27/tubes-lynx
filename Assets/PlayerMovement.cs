@@ -1,7 +1,9 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public Slider healthSlider;
     private HeartManager heartManager;
 
     public float runSpeed = 10f;
@@ -44,6 +46,12 @@ public class PlayerMovement : MonoBehaviour
         currentHealth = maxHealth;
         heartManager = FindFirstObjectByType<HeartManager>();
         audioSource = GetComponent<AudioSource>();
+
+        if (healthSlider != null)
+        {
+            healthSlider.maxValue = maxHealth;
+            healthSlider.value = currentHealth;
+        }
     }
 
     void Update()
@@ -98,6 +106,11 @@ public class PlayerMovement : MonoBehaviour
                 ResetAttack();
             }
         }
+
+        if (isGrounded == false && Mathf.Abs(rb.linearVelocity.y) < 0.1f)
+        {
+            rb.linearVelocity += new Vector2(spriteRenderer.flipX ? 0.1f : -0.1f, 0f);
+        }
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -149,9 +162,14 @@ public class PlayerMovement : MonoBehaviour
 
         Debug.Log("Player terkena serangan! Sisa HP: " + currentHealth);
 
-        if (heartManager != null)
+        // if (heartManager != null)
+        // {
+        //     heartManager.LoseHeart(currentHealth);
+        // }
+
+        if (healthSlider != null)
         {
-            heartManager.LoseHeart(currentHealth);
+            healthSlider.value = currentHealth;
         }
 
         if (currentHealth <= 0)
@@ -180,4 +198,16 @@ public class PlayerMovement : MonoBehaviour
             audioSource.PlayOneShot(stepSFX);
         }
     }
+    void OnCollisionStay2D(Collision2D collision)
+    {
+        foreach (ContactPoint2D contact in collision.contacts)
+        {
+            // Jika nabrak dari samping
+            if (Mathf.Abs(contact.normal.x) > 0.5f)
+            {
+                rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // hentikan horizontal
+            }
+        }
+    }
+
 }
