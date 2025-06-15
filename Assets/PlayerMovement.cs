@@ -6,6 +6,8 @@ public class PlayerMovement : MonoBehaviour
     public Slider healthSlider;
     private HeartManager heartManager;
 
+    public bool inCutscene = false;
+
     public float runSpeed = 10f;
     public float jumpForce = 15f;
 
@@ -56,7 +58,15 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
+        if (GameManager.isDialogActive) return;
         if (isDead) return;
+
+        if (inCutscene)
+        {
+            animator.SetFloat("Speed", 0f);
+            return;
+        }
+
 
         if (comboStep == 0)
         {
@@ -180,6 +190,15 @@ public class PlayerMovement : MonoBehaviour
 
     void Die()
     {
+        GameObject musicObj = GameObject.FindGameObjectWithTag("BossBGM");
+        if (musicObj != null)
+        {
+            AudioSource music = musicObj.GetComponent<AudioSource>();
+            if (music != null)
+            {
+                music.Stop();
+            }
+        }
         isDead = true;
         rb.linearVelocity = Vector2.zero;
         animator.SetTrigger("Die");

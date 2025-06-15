@@ -7,6 +7,7 @@ TagManager:
   - grounded
   - Item
   - Tilemap
+  - BossBGM
   layers:
   - Default
   - TransparentFX

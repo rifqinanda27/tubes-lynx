@@ -1,9 +1,15 @@
 using UnityEngine;
-using UnityEngine.UI; 
+using UnityEngine.UI;
+using System.Collections;
+
 public class Enemy1Movement : MonoBehaviour
 {
     protected Animator baseAnimator => animator;
     public SpriteRenderer spriteRendererPublic => spriteRenderer;
+    protected AudioSource bgmSource; // referensi ke sumber BGM
+
+
+    public bool inCutscene = false;
 
     public float attackRange = 0.5f;
     public float attackCooldown = 1f;
@@ -72,6 +78,13 @@ public class Enemy1Movement : MonoBehaviour
             healthSlider.value = currentHealth;
         }
 
+        // Coba cari AudioSource dengan tag "BossBGM"
+        GameObject bgmObject = GameObject.FindWithTag("BossBGM");
+        if (bgmObject != null)
+        {
+            bgmSource = bgmObject.GetComponent<AudioSource>();
+        }
+
     }
 
     protected bool IsInActionState()
@@ -82,7 +95,7 @@ public class Enemy1Movement : MonoBehaviour
 
     protected virtual void Update()
     {
-        if (isDead || target == null) return;
+        if (isDead || target == null || inCutscene) return;
 
         float distanceToTarget = Vector2.Distance(transform.position, target.position);
 
@@ -127,7 +140,7 @@ public class Enemy1Movement : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (!isDead && canChasePlayer)
+        if (!isDead && canChasePlayer && !inCutscene)
         {
             rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
         }
@@ -197,7 +210,14 @@ public class Enemy1Movement : MonoBehaviour
             Destroy(healthBarUIInstance);
         }
 
-        Destroy(gameObject, 1.2f);
+        if (bgmSource != null)
+        {
+            StartCoroutine(FadeOutMusicAndDestroy());
+        }
+        else
+        {
+            Destroy(gameObject, 1.2f);
+        }
     }
 
     protected virtual void PerformAttack()
@@ -234,4 +254,25 @@ public class Enemy1Movement : MonoBehaviour
         Gizmos.color = Color.red;
         Gizmos.DrawWireSphere(transform.position, attackRange);
     }
+
+
+    private IEnumerator FadeOutMusicAndDestroy()
+    {
+        float startVolume = bgmSource.volume;
+        float duration = 1.2f; // sama dengan waktu destroy
+
+        float t = 0;
+        while (t < 1f)
+        {
+            t += Time.deltaTime / duration;
+            bgmSource.volume = Mathf.Lerp(startVolume, 0, t);
+            yield return null;
+        }
+
+        bgmSource.Stop();
+        bgmSource.volume = startVolume; // reset
+
+        Destroy(gameObject); // sekarang destroy setelah fade selesai
+    }
+
 }

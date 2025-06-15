@@ -125,6 +125,7 @@ public class BossEnemyMovement : Enemy1Movement
 
     protected override void Die()
     {
+        base.Die();
         animator.SetTrigger("Die");
         Debug.Log("Boss mati!");
 
