@@ -6,13 +6,16 @@ public class EnemyBullet : MonoBehaviour
     public float speed = 5f;
     public float lifetime = 3f;
     public int damage = 1;
+    public float maxDistance = 10f;
 
     private Vector2 direction;
+    private Vector2 startPos;
 
     public void SetDirection(Vector2 dir)
     {
         direction = dir.normalized;
         Destroy(gameObject, lifetime);
+        startPos = transform.position;
     }
 
     void Start()
@@ -23,6 +26,24 @@ public class EnemyBullet : MonoBehaviour
     void Update()
     {
         transform.Translate(direction * speed * Time.deltaTime);
+
+        float distanceTravelled = Vector2.Distance(startPos, transform.position);
+        if (distanceTravelled >= maxDistance)
+        {
+            if (animator != null)
+            {
+                animator.SetTrigger("TakeHit");
+                StartCoroutine(DestroyAfterAnimation());
+            }
+            else
+            {
+                Destroy(gameObject);
+            }
+
+            // Pastikan peluru tidak bergerak saat animasi jalan
+            speed = 0f;
+            enabled = false; // opsional, matikan Update agar tidak terus jalan
+        }
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -41,11 +62,6 @@ public class EnemyBullet : MonoBehaviour
             }
 
             StartCoroutine(DestroyAfterAnimation()); // ⏳ Delay destroy
-        }
-
-        if (other.CompareTag("Ground") || other.CompareTag("Wall"))
-        {
-            Destroy(gameObject);
         }
     }
 
