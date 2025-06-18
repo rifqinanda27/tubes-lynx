@@ -3224,6 +3224,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1453290265532065727, guid: 623bdb61075476e4989f1fab365ea52b, type: 3}
+      propertyPath: itemsToDrop.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1453290265532065727, guid: 623bdb61075476e4989f1fab365ea52b, type: 3}
+      propertyPath: 'itemsToDrop.Array.data[1]'
+      value: 
+      objectReference: {fileID: 5166558160678094783, guid: 5530ce90b586aad4fa53898f6c50e76c, type: 3}
+    - target: {fileID: 1453290265532065727, guid: 623bdb61075476e4989f1fab365ea52b, type: 3}
+      propertyPath: 'itemsToDrop.Array.data[2]'
+      value: 
+      objectReference: {fileID: 5166558160678094783, guid: 5530ce90b586aad4fa53898f6c50e76c, type: 3}
     - target: {fileID: 6930122694965717508, guid: 623bdb61075476e4989f1fab365ea52b, type: 3}
       propertyPath: m_Name
       value: PF Village Props - Chest Golden

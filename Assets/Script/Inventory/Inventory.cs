@@ -30,7 +30,7 @@ public class Inventory : MonoBehaviour
         if (existingItem != null)
         {
             // Jika item sudah ada, tambah kuantitasnya hanya jika belum ditambah pada frame ini
-            existingItem.quantity += 1;
+            existingItem.quantity = existingItem.quantity;
             Debug.Log($"{newItem.itemName} tambah item sudah ada {existingItem.quantity}.");
         }
         else
