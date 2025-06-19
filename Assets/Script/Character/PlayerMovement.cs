@@ -31,12 +31,28 @@ public class PlayerMovement : MonoBehaviour
     public int maxJumps = 2;
     private int jumpCount = 0;
 
+    //=== Effect Potion SpeedBoost===
+    private bool isSpeedBoostActive = false;
+    public bool IsSpeedBoostActive => isSpeedBoostActive;
+    private float speedBoostRemainingDuration = 0f;
+
+    //=== Effect Potion JumpBoost ===
+    private bool isJumpBoostActive = false;
+    private float jumpBoostRemainingDuration = 0f;
+
+    //=== Pesan Noifikasi Icon UI===
+    public TMPro.TextMeshProUGUI potionMessageText;
+    public GameObject iconSpeedBoost;
+    public GameObject iconJumpBoost;  // Kalau mau tambahkan UI icon-nya
+
+
     // ==== Sound Effects ====
     public AudioClip attackSFX;
     public AudioClip jumpSFX;
     public AudioClip stepSFX;
     public AudioClip hitSFX;
     public AudioClip dieSFX;
+    public AudioClip errorSFX;
 
     private AudioSource audioSource;
 
@@ -229,4 +245,143 @@ public class PlayerMovement : MonoBehaviour
         }
     }
 
+    public void Heal(int amount)
+    {
+        if (isDead) return;
+
+        currentHealth += amount;
+        if (currentHealth > maxHealth)
+            currentHealth = maxHealth;
+
+        if (healthSlider != null)
+            healthSlider.value = currentHealth;
+
+        Debug.Log("Player memulihkan HP: " + currentHealth);
+    }
+
+    public void IncreaseMaxHealth(int amount)
+    {
+        maxHealth += amount;
+        currentHealth += amount;  // Optional: langsung nambah current HP juga
+
+        if (healthSlider != null)
+        {
+            healthSlider.maxValue = maxHealth;
+            healthSlider.value = currentHealth;
+        }
+
+        Debug.Log($"Max Health bertambah {amount}. Max sekarang: {maxHealth}, Current: {currentHealth}");
+    }
+
+    public void ApplySpeedBoost(float multiplier, float duration)
+    {
+        if (isSpeedBoostActive)
+        {
+            // Tambahkan durasi ke sisa waktu boost yang sedang aktif
+            speedBoostRemainingDuration += duration;
+            Debug.Log($"Speed boost diperpanjang! Sisa durasi: {speedBoostRemainingDuration} detik");
+        }
+        else
+        {
+            // Kalau belum aktif, mulai boost baru
+            StartCoroutine(SpeedBoostRoutine(multiplier, duration));
+        }
+    }
+
+
+    private System.Collections.IEnumerator SpeedBoostRoutine(float multiplier, float duration)
+    {
+        isSpeedBoostActive = true;
+        float originalSpeed = runSpeed;
+        runSpeed *= multiplier;
+
+        speedBoostRemainingDuration = duration;
+        Debug.Log($"Speed boosted! runSpeed jadi {runSpeed}");
+
+        // Tampilkan icon speed boost
+        if (iconSpeedBoost != null)
+            iconSpeedBoost.SetActive(true);
+
+        while (speedBoostRemainingDuration > 0f)
+        {
+            speedBoostRemainingDuration -= Time.deltaTime;
+            yield return null;
+        }
+
+        // Saat durasi habis
+        runSpeed = originalSpeed;
+        isSpeedBoostActive = false;
+        Debug.Log("Speed boost selesai. runSpeed kembali ke normal");
+
+        // Sembunyikan icon speed boost
+        if (iconSpeedBoost != null)
+            iconSpeedBoost.SetActive(false);
+    }
+
+    public void ApplyJumpBoost(float bonusAmount, float duration)
+    {
+        if (isJumpBoostActive)
+        {
+            // Tambahkan durasi jika masih aktif
+            jumpBoostRemainingDuration += duration;
+            Debug.Log($"Jump Boost diperpanjang! Sisa durasi: {jumpBoostRemainingDuration} detik");
+        }
+        else
+        {
+            StartCoroutine(JumpBoostRoutine(bonusAmount, duration));
+        }
+    }
+
+    private System.Collections.IEnumerator JumpBoostRoutine(float bonusAmount, float duration)
+    {
+        isJumpBoostActive = true;
+        float originalJumpForce = jumpForce;
+        jumpForce += bonusAmount;
+
+        jumpBoostRemainingDuration = duration;
+        Debug.Log($"Jump Boost aktif! jumpForce jadi {jumpForce}");
+
+        // Tampilkan icon boost kalau ada
+        if (iconJumpBoost != null)
+            iconJumpBoost.SetActive(true);
+
+        while (jumpBoostRemainingDuration > 0f)
+        {
+            jumpBoostRemainingDuration -= Time.deltaTime;
+            yield return null;
+        }
+
+        jumpForce -= bonusAmount;
+        isJumpBoostActive = false;
+        Debug.Log("Jump Boost selesai. jumpForce kembali ke normal");
+
+        // Sembunyikan icon boost kalau ada
+        if (iconJumpBoost != null)
+            iconJumpBoost.SetActive(false);
+    }
+
+    public void PlayErrorSound()
+    {
+        if (audioSource != null && errorSFX != null)
+        {
+            audioSource.PlayOneShot(errorSFX);
+        }
+    }
+
+    public void ShowPotionMessage(string message, float duration)
+    {
+        StartCoroutine(ShowPotionMessageRoutine(message, duration));
+    }
+
+    private System.Collections.IEnumerator ShowPotionMessageRoutine(string message, float duration)
+    {
+        if (potionMessageText != null)
+        {
+            potionMessageText.text = message;
+            potionMessageText.gameObject.SetActive(true);
+            yield return new WaitForSeconds(duration);
+            potionMessageText.text = "";
+            potionMessageText.gameObject.SetActive(false);
+        }
+    }
 }

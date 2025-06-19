@@ -5,7 +5,7 @@ public class PlayerUseItem : MonoBehaviour
     private bool isUsingHealthPotion = false; // Untuk mencegah penggunaan ganda HealthPotion
     private bool isUsingEnergyPotion = false; // Untuk mencegah penggunaan ganda EnergyPotion
     private bool isUsingStrengthPotion = false; // Untuk mencegah penggunaan ganda StrengthPotion
-    private bool isUsingImmunityPotion = false; // Untuk mencegah penggunaan ganda ImmunityPotion
+    private bool isUsingJumpPotion = false; // Untuk mencegah penggunaan ganda JumpPotion
 
     private void Update()
     {
@@ -27,14 +27,14 @@ public class PlayerUseItem : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Alpha3) && !isUsingStrengthPotion)
         {
             isUsingStrengthPotion = true;
-            Inventory.instance.UseItem(Item.ItemType.StrenghtPotion); // Panggil UseItem untuk StrengthPotion
+            Inventory.instance.UseItem(Item.ItemType.StrengthPotion); // Panggil UseItem untuk StrengthPotion
         }
 
-        // Gunakan ImmunityPotion jika tombol Alpha4 ditekan dan belum digunakan
-        if (Input.GetKeyDown(KeyCode.Alpha4) && !isUsingImmunityPotion)
+        // Gunakan JumpPotion jika tombol Alpha4 ditekan dan belum digunakan
+        if (Input.GetKeyDown(KeyCode.Alpha4) && !isUsingJumpPotion)
         {
-            isUsingImmunityPotion = true;
-            Inventory.instance.UseItem(Item.ItemType.ImmunityPotion); // Panggil UseItem untuk ImmunityPotion
+            isUsingJumpPotion = true;
+            Inventory.instance.UseItem(Item.ItemType.JumpPotion); // Panggil UseItem untuk JumpPotion
         }
 
         // Reset status penggunaan item saat tombol dilepas
@@ -55,7 +55,7 @@ public class PlayerUseItem : MonoBehaviour
 
         if (Input.GetKeyUp(KeyCode.Alpha4))
         {
-            isUsingImmunityPotion = false; // Reset ketika tombol dilepas
+            isUsingJumpPotion = false; // Reset ketika tombol dilepas
         }
     }
 }
