@@ -11,7 +11,7 @@ public class Item : ScriptableObject
     {
         HealthPotion,
         EnergyPotion,
-        StrenghtPotion,
-        ImmunityPotion
+        StrengthPotion,
+        JumpPotion
     }
 }

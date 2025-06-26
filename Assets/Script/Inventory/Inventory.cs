@@ -15,6 +15,19 @@ public class Inventory : MonoBehaviour
             Destroy(gameObject);  // Hancurkan objek jika instance sudah ada
     }
 
+    /*
+    private void Update()
+    {
+        // Tekan 1 untuk gunakan Health Potion
+        if (Input.GetKeyDown(KeyCode.Alpha1))
+        {
+            UseItem(Item.ItemType.HealthPotion);
+        }
+
+        // Tambahkan tombol lain sesuai kebutuhan
+    }
+    */
+
     // Menambahkan item ke dalam inventory
     public void AddItem(Item newItem)
     {
@@ -30,7 +43,7 @@ public class Inventory : MonoBehaviour
         if (existingItem != null)
         {
             // Jika item sudah ada, tambah kuantitasnya hanya jika belum ditambah pada frame ini
-            existingItem.quantity += 1;
+            existingItem.quantity = existingItem.quantity + 1;
             Debug.Log($"{newItem.itemName} tambah item sudah ada {existingItem.quantity}.");
         }
         else
@@ -58,6 +71,10 @@ public class Inventory : MonoBehaviour
             item.quantity--; // Kurangi quantity item
             Debug.Log($"Used {item.itemData.itemName}");
 
+            // Panggil efeknya di sini
+            ApplyItemEffect(item.itemData);
+
+
             // Hapus item jika quantity <= 0
             if (item.quantity <= 0)
             {
@@ -74,6 +91,37 @@ public class Inventory : MonoBehaviour
         else
         {
             Debug.LogWarning("Item not found or quantity is 0.");
+        }
+    }
+
+    void ApplyItemEffect(Item item)
+    {
+        // Dapatkan PlayerMovement di scene
+        PlayerMovement player = FindObjectOfType<PlayerMovement>();
+        if (player == null)
+        {
+            Debug.LogWarning("PlayerMovement not found.");
+            return;
+        }
+
+        // Contoh efek Potion
+        switch (item.itemType)
+        {
+            case Item.ItemType.HealthPotion:
+                player.Heal(1); // misal +1 HP
+                break;
+
+            case Item.ItemType.EnergyPotion:
+                player.ApplySpeedBoost(2f, 5f);
+                break;
+
+            case Item.ItemType.StrengthPotion:
+                player.IncreaseMaxHealth(1); // contoh nambah 1 max HP
+                break;
+
+            case Item.ItemType.JumpPotion:
+                player.ApplyJumpBoost(5f, 5f); // 2x jump force selama 5 detik
+                break;
         }
     }
 

@@ -29,13 +29,13 @@ public class PlayerInventory : MonoBehaviour
         // Gunakan StrengthPotion jika tombol Alpha3 ditekan
         if (Input.GetKeyDown(KeyCode.Alpha3))
         {
-            inventory.UseItem(Item.ItemType.StrenghtPotion);
+            inventory.UseItem(Item.ItemType.StrengthPotion);
         }
 
-        // Gunakan ImmunityPotion jika tombol Alpha4 ditekan
+        // Gunakan JumpPotion jika tombol Alpha4 ditekan
         if (Input.GetKeyDown(KeyCode.Alpha4))
         {
-            inventory.UseItem(Item.ItemType.ImmunityPotion);
+            inventory.UseItem(Item.ItemType.JumpPotion);
         }
     }
 
