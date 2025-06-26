@@ -18,7 +18,7 @@ public class ParallaxBackground : MonoBehaviour
     void LateUpdate()
     {
         Vector3 deltaMovement = player.position - lastPlayerPos;
-        transform.position += new Vector3(deltaMovement.x * parallaxMultiplier, deltaMovement.y * parallaxMultiplier, 0);
+        transform.position += new Vector3(deltaMovement.x * parallaxMultiplier, 0, 0);
         lastPlayerPos = player.position;
     }
 }
