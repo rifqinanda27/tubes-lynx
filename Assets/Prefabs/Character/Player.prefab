@@ -509,6 +509,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 012644ce287cf2f4ebf5dec041ee3910, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  healthSlider: {fileID: 0}
+  inCutscene: 0
   runSpeed: 10
   jumpForce: 20
   comboResetTime: 0.5
