@@ -29,10 +29,15 @@ public class MainMenuManager : MonoBehaviour
         StartCoroutine(DelayedSceneLoad("Start"));
     }
 
+    public void OpenEnding()
+    {
+        StartCoroutine(DelayedSceneLoad("Ending"));
+    }
+
     public void OpenSetting()
     {
         PlaySFX();
-        SettingPopup.SetActive(true); 
+        SettingPopup.SetActive(true);
     }
 
     public void OpenCredits()

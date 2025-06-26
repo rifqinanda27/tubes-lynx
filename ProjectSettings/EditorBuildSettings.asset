@@ -9,14 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu/MainMenu.unity
     guid: 195627a4fe8dcd34dbbd1e7202fac3a8
   - enabled: 1
-    path: Assets/Scenes/Main Menu/PilihLevel.unity
-    guid: 04af7d997dc0d984293673f1aa476f3d
-  - enabled: 1
-    path: Assets/Scenes/Main Menu/CreditMenu.unity
-    guid: a14b4f3dc3e6ef8418ee5caa5d17e94a
-  - enabled: 1
     path: Assets/Scenes/Gameplay.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 408acdbcc222b3141bb817c2432dab84
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
