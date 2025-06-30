@@ -139633,7 +139633,7 @@ PrefabInstance:
     - target: {fileID: 633306825631367274, guid: 512e84bcedb5d044b8c00b3886605898, type: 3}
       propertyPath: playerCamera
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1902782110}
     - target: {fileID: 3936770540375925916, guid: 512e84bcedb5d044b8c00b3886605898, type: 3}
       propertyPath: m_LocalPosition.x
       value: -9.33
