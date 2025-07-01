@@ -11,9 +11,17 @@ public class ShooterEnemy : Enemy1Movement
 
         float distanceToTarget = Vector2.Distance(transform.position, target.position);
 
+        // Start chasing jika dalam radius
         if (!canChasePlayer && ShouldStartChasing(distanceToTarget))
         {
             canChasePlayer = true;
+        }
+        // Stop chasing jika keluar radius
+        else if (canChasePlayer && ShouldStopChasing(distanceToTarget))
+        {
+            canChasePlayer = false;
+            movement = Vector2.zero;
+            baseAnimator.SetFloat("Speed", 0f);
         }
 
         if (!canChasePlayer) return;
@@ -60,12 +68,13 @@ public class ShooterEnemy : Enemy1Movement
         }
     }
 
+
     protected override void PerformAttack()
     {
         baseAnimator.SetTrigger("Attack");
         lastAttackTime = Time.time;
 
-       
+
 
         // Peluru akan keluar dari Animation Event -> Shoot()
     }
@@ -86,11 +95,16 @@ public class ShooterEnemy : Enemy1Movement
                 bullet.transform.localScale.y,
                 bullet.transform.localScale.z
             );
-             if (attackSFX != null && audioSource != null)
+            if (attackSFX != null && audioSource != null)
             {
                 audioSource.PlayOneShot(attackSFX);
             }
         }
+    }
+
+    protected override bool ShouldStopChasing(float distance)
+    {
+        return distance > chaseRadius + 1f; // misal kasih tambahan jarak aman
     }
 
 }

@@ -99,10 +99,17 @@ public class Enemy1Movement : MonoBehaviour
 
         float distanceToTarget = Vector2.Distance(transform.position, target.position);
 
-        // 🔍 Cek apakah player masuk area kejar
+        // Cek apakah player masuk area kejar
         if (!canChasePlayer && ShouldStartChasing(distanceToTarget))
         {
             canChasePlayer = true;
+        }
+        // Cek apakah player keluar dari area kejar
+        else if (canChasePlayer && ShouldStopChasing(distanceToTarget))
+        {
+            canChasePlayer = false;
+            movement = Vector2.zero;
+            animator.SetFloat("Speed", 0f);
         }
 
         if (!canChasePlayer) return;
@@ -133,9 +140,10 @@ public class Enemy1Movement : MonoBehaviour
                 PerformAttack();
             }
         }
-        Debug.Log("Can chase: " + canChasePlayer + " | Distance: " + distanceToTarget);
 
+        Debug.Log("Can chase: " + canChasePlayer + " | Distance: " + distanceToTarget);
     }
+
 
 
     void FixedUpdate()
@@ -275,4 +283,8 @@ public class Enemy1Movement : MonoBehaviour
         Destroy(gameObject); // sekarang destroy setelah fade selesai
     }
 
+    protected virtual bool ShouldStopChasing(float distance)
+    {
+        return distance > chaseRadius + 1f; // sedikit toleransi
+    }
 }

@@ -153,8 +153,14 @@ public class BossEnemyMovement : Enemy1Movement
 
     protected override bool ShouldStartChasing(float distance)
     {
-        return false; // Boss selalu bisa mulai ngejar kapan saja
+        return false; // selalu boleh ngejar
     }
+
+    protected override bool ShouldStopChasing(float distance)
+    {
+        return false; // tidak pernah berhenti
+    }
+
 
     private System.Collections.IEnumerator HandleInvincibilityAndCounter()
     {
