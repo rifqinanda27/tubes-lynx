@@ -516,11 +516,15 @@ MonoBehaviour:
   comboResetTime: 0.5
   maxHealth: 10
   maxJumps: 2
+  potionMessageText: {fileID: 0}
+  iconSpeedBoost: {fileID: 0}
+  iconJumpBoost: {fileID: 0}
   attackSFX: {fileID: 8300000, guid: 3db8ad3ce765ab34880a18bbb0bc1152, type: 3}
   jumpSFX: {fileID: 8300000, guid: 7531c9476d7e3d74ba8aab70eb86b067, type: 3}
   stepSFX: {fileID: 8300000, guid: a241692bc2773af47af3e672bb580b29, type: 3}
   hitSFX: {fileID: 8300000, guid: 9a5ec96d5e124554c96372ff47609058, type: 3}
   dieSFX: {fileID: 8300000, guid: fb79c96d7864aca4896304f686fb7d96, type: 3}
+  errorSFX: {fileID: 0}
 --- !u!82 &-2178884239726509429
 AudioSource:
   m_ObjectHideFlags: 0

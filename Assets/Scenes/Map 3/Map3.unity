@@ -141699,7 +141699,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5318931140163650259, guid: 7744ff6a1cf932f41a58302fb72f2d76, type: 3}
       propertyPath: maxHealth
-      value: 1
+      value: 10
       objectReference: {fileID: 0}
     - target: {fileID: 5318931140163650259, guid: 7744ff6a1cf932f41a58302fb72f2d76, type: 3}
       propertyPath: healthSlider
@@ -141873,6 +141873,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneBGM: {fileID: 8300000, guid: e799c2a250933ab458c1803a5f2fa7f8, type: 3}
+  localBossClip: {fileID: 8300000, guid: d6c758eac08e4a94ba161b0c6ffba27a, type: 3}
 --- !u!4 &1967496169
 Transform:
   m_ObjectHideFlags: 0
