@@ -66,6 +66,8 @@ public class ShooterEnemy : Enemy1Movement
                 PerformAttack();
             }
         }
+        Debug.Log($"[ShooterEnemy] Distance: {distanceToTarget:F2}, CanChase: {canChasePlayer}");
+
     }
 
 

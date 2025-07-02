@@ -140,6 +140,9 @@ public class BossEnemyMovement : Enemy1Movement
         }
 
         Destroy(gameObject, 1.5f);
+        // MusicManager.Instance.PlayMusic(MusicManager.Instance.normalBGM);
+        MusicManager.Instance.PlayNormalBGM();
+
     }
 
     // 🎧 Dipanggil dari animasi jalan (melangkah)

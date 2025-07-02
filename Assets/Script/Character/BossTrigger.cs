@@ -114,12 +114,18 @@ public class BossTrigger : MonoBehaviour
         // Aktifkan kembali player
         player.GetComponent<PlayerMovement>().inCutscene = false;
 
-        if (bgmSource != null && bossBGM != null)
-        {
-            bgmSource.clip = bossBGM;
-            bgmSource.loop = true;
-            bgmSource.Play();
-        }
+        // if (bgmSource != null && bossBGM != null)
+        // {
+        //     bgmSource.clip = bossBGM;
+        //     bgmSource.loop = true;
+        //     bgmSource.Play();
+        // }
+
+        // if (bossBGM != null)
+        // {
+        //     MusicManager.Instance.PlayMusic(bossBGM);
+        // }    
+        MusicManager.Instance.PlayBossBGM();
 
         // Hapus trigger
         Destroy(gameObject);
