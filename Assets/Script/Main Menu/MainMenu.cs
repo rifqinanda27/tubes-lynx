@@ -26,7 +26,7 @@ public class MainMenuManager : MonoBehaviour
 
     public void StartGame()
     {
-        StartCoroutine(DelayedSceneLoad("Start"));
+        StartCoroutine(DelayedSceneLoad("Cutscene 1"));
     }
 
     public void OpenEnding()

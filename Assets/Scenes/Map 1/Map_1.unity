@@ -69072,7 +69072,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6509541315129053211, guid: 91b9e5097750999409dfef611ad638e9, type: 3}
       propertyPath: 'dialogLines.Array.data[0]'
-      value: 'Knight : WOYY ANJINGGG!!!!!'
+      value: 'Knight : WOY MINGGIRRR!!!!!'
       objectReference: {fileID: 0}
     - target: {fileID: 6509541315129053211, guid: 91b9e5097750999409dfef611ad638e9, type: 3}
       propertyPath: 'dialogLines.Array.data[1]'
@@ -69088,7 +69088,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6509541315129053211, guid: 91b9e5097750999409dfef611ad638e9, type: 3}
       propertyPath: 'dialogLines.Array.data[4]'
-      value: 'Knight : GW BANTAI SINI LO ANJENG!!!!!!'
+      value: 'Knight : GW BANTAI SINI LO BEDEBAH!!!!!!'
       objectReference: {fileID: 0}
     - target: {fileID: 9110472066054316600, guid: 91b9e5097750999409dfef611ad638e9, type: 3}
       propertyPath: m_IsTrigger
@@ -90646,6 +90646,104 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8bb0a60cf360da64394c58e6e645e5f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1423110331
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1423110334}
+  - component: {fileID: 1423110333}
+  - component: {fileID: 1423110332}
+  m_Layer: 0
+  m_Name: ChangeScene
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1423110332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423110331}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6c24f09dd03d06439c509f49aed3053, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneToLoad: Cutscene2
+  dialogLines:
+  - 'Knight : Gua ini gelap sekali'
+  - 'Knight : Pasti ini jalannya'
+  - 'Knight : Tunggu kau pencuri sialan!!!'
+  dialogManager: {fileID: 2136982469}
+  bossObject: {fileID: 1572487568}
+--- !u!61 &1423110333
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423110331}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_CompositeOperation: 0
+  m_CompositeOrder: 0
+  m_Offset: {x: -0.009536743, y: -0.019074917}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 2.0872498, y: 3.441558}
+  m_EdgeRadius: 0
+--- !u!4 &1423110334
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1423110331}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 305.25, y: -11.51, z: 13.307282}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1452450286 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 5161421402274378516, guid: 2b38a50b653306d488379c88a0f4a98d, type: 3}
@@ -136577,3 +136675,4 @@ SceneRoots:
   - {fileID: 1573880905}
   - {fileID: 1235615096}
   - {fileID: 1099486532}
+  - {fileID: 1423110334}
