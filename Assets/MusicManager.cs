@@ -18,7 +18,7 @@ public class MusicManager : MonoBehaviour
     {
         if (Instance != null && Instance != this)
         {
-            Destroy(gameObject); // Hanya satu instance
+            Destroy(gameObject);
             return;
         }
 
@@ -32,6 +32,10 @@ public class MusicManager : MonoBehaviour
         audioSource.loop = true;
         audioSource.playOnAwake = false;
         audioSource.volume = musicVolume;
+
+        // 👉 Preload audio data di awal
+        if (normalBGM != null) normalBGM.LoadAudioData();
+        if (bossBGM != null) bossBGM.LoadAudioData();
     }
 
     private void Start()
@@ -49,18 +53,12 @@ public class MusicManager : MonoBehaviour
 
     public void PlayNormalBGM(float fadeDuration = 1.5f)
     {
-        if (normalBGM != null)
-        {
-            PlayMusic(normalBGM, fadeDuration);
-        }
+        PlayMusic(normalBGM, fadeDuration);
     }
 
     public void PlayBossBGM(float fadeDuration = 1.5f)
     {
-        if (bossBGM != null)
-        {
-            PlayMusic(bossBGM, fadeDuration);
-        }
+        PlayMusic(bossBGM, fadeDuration);
     }
 
     public void PlayMusic(AudioClip clip, float fadeDuration = 1.5f)
@@ -105,9 +103,15 @@ public class MusicManager : MonoBehaviour
 
         audioSource.Stop();
 
-        // Pastikan audio sudah siap
-        newClip.LoadAudioData();
-        yield return new WaitForSecondsRealtime(0.05f);
+        // Pastikan audio sudah di-load
+        if (!newClip.loadState.Equals(AudioDataLoadState.Loaded))
+        {
+            newClip.LoadAudioData();
+            while (newClip.loadState == AudioDataLoadState.Loading)
+                yield return null;
+        }
+
+        yield return new WaitForSecondsRealtime(0.05f); // Buffer kecil
 
         audioSource.clip = newClip;
         audioSource.Play();
@@ -134,4 +138,19 @@ public class MusicManager : MonoBehaviour
 
         audioSource.Stop();
     }
+
+    public IEnumerator StopMusicCoroutine(float fadeDuration = 1.5f)
+    {
+        float startVolume = audioSource.volume;
+
+        for (float t = 0; t < fadeDuration; t += Time.unscaledDeltaTime)
+        {
+            audioSource.volume = Mathf.Lerp(startVolume, 0f, t / fadeDuration);
+            yield return null;
+        }
+
+        audioSource.Stop();
+        audioSource.volume = startVolume; // reset volume kalau mau musik baru normal
+    }
+
 }

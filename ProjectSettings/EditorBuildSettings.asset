@@ -12,14 +12,17 @@ EditorBuildSettings:
     path: Assets/Scenes/Gameplay.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/Ending.unity
-    guid: 408acdbcc222b3141bb817c2432dab84
+    path: Assets/Scenes/Map 2/map 2.unity
+    guid: d31bb246e88c199498b124552486cc3d
   - enabled: 1
     path: Assets/Scenes/Map 3/Map3.unity
     guid: eaf3bd54a4756474da855cf7d9e65de4
   - enabled: 1
     path: Assets/Scenes/Map 3/CutsceneMap3.unity
     guid: ded17d09dc3012c4f9ae9f8937a8fd4e
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 408acdbcc222b3141bb817c2432dab84
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

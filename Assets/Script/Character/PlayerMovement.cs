@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.UI;
-
+using System.Collections; 
 public class PlayerMovement : MonoBehaviour
 {
     public Slider healthSlider;
@@ -215,6 +215,7 @@ public class PlayerMovement : MonoBehaviour
                 music.Stop();
             }
         }
+
         isDead = true;
         rb.linearVelocity = Vector2.zero;
         animator.SetTrigger("Die");
@@ -223,8 +224,31 @@ public class PlayerMovement : MonoBehaviour
             audioSource.PlayOneShot(dieSFX);
 
         Debug.Log("Player mati!");
-        Destroy(gameObject, 1.2f);
+
+        // Delay sebentar biar animasi & sfx jalan
+        StartCoroutine(DieSequence());
     }
+
+    private IEnumerator DieSequence()
+    {
+        yield return new WaitForSeconds(3f); // tunggu animasi mati selesai
+
+        // 🔊 Fade out music kalau ada MusicManager
+        if (MusicManager.Instance != null)
+            MusicManager.Instance.StopMusic(3f);
+
+        // 🎬 Fade to GameOver Scene
+        if (SceneTransitionManager1.Instance != null)
+        {
+            SceneTransitionManager1.Instance.FadeToScene("MainMenu");
+        }
+        else
+        {
+            UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
+        }
+    }
+
+
 
     public void PlayStepSound()
     {

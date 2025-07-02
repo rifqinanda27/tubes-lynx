@@ -129,6 +129,8 @@ public class BossEnemyMovement : Enemy1Movement
         animator.SetTrigger("Die");
         Debug.Log("Boss mati!");
 
+        GameManager.isBossDead = true;
+
         if (audioSource != null && BossDieSFX != null)
         {
             audioSource.PlayOneShot(BossDieSFX);
@@ -138,7 +140,7 @@ public class BossEnemyMovement : Enemy1Movement
         {
             bossArenaManager.OnBossDefeated();
         }
-
+        
         Destroy(gameObject, 1.5f);
         // MusicManager.Instance.PlayMusic(MusicManager.Instance.normalBGM);
         MusicManager.Instance.PlayNormalBGM();
