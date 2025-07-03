@@ -257,17 +257,40 @@ public class PlayerMovement : MonoBehaviour
             audioSource.PlayOneShot(stepSFX);
         }
     }
+    // void OnCollisionStay2D(Collision2D collision)
+    // {
+    //     foreach (ContactPoint2D contact in collision.contacts)
+    //     {
+    //         // Jika nabrak dari samping
+    //         if (Mathf.Abs(contact.normal.x) > 0.5f)
+    //         {
+    //             rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // hentikan horizontal
+    //         }
+    //     }
+    // }
+
     void OnCollisionStay2D(Collision2D collision)
     {
         foreach (ContactPoint2D contact in collision.contacts)
         {
-            // Jika nabrak dari samping
-            if (Mathf.Abs(contact.normal.x) > 0.5f)
+            Vector2 normal = contact.normal;
+
+            // Jika kena tembok dari samping
+            if (Mathf.Abs(normal.x) > 0.5f && !isGrounded)
             {
-                rb.linearVelocity = new Vector2(0, rb.linearVelocity.y); // hentikan horizontal
+                // Anti nempel dinding saat di udara
+                rb.linearVelocity = new Vector2(0f, rb.linearVelocity.y);
+            }
+
+            // Jika kena langit-langit dari bawah
+            if (normal.y < -0.5f)
+            {
+                // Anti nempel langit-langit
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Min(0, rb.linearVelocity.y));
             }
         }
     }
+
 
     public void Heal(int amount)
     {

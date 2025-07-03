@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -9,5 +11,11 @@ public class GameManager : MonoBehaviour
     {
         isDialogActive = false;
         isBossDead = false;
+    }
+
+    public void SkipCredit()
+    {
+        Debug.Log("Skip Credit ditekan!");
+        SceneManager.LoadScene("MainMenu");
     }
 }

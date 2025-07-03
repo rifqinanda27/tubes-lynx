@@ -999,7 +999,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 407}
+  m_AnchoredPosition: {x: 0, y: 704}
   m_SizeDelta: {x: 824.96, y: 273.49}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1512331264
@@ -1080,8 +1080,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: -1103}
-  m_SizeDelta: {x: 911.2, y: 535.43}
+  m_AnchoredPosition: {x: 0, y: -1331.9}
+  m_SizeDelta: {x: 911.2, y: 1106.51}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1608608365
 MonoBehaviour:
@@ -1124,17 +1124,30 @@ MonoBehaviour:
     m_BestFit: 0
     m_MinSize: 2
     m_MaxSize: 40
-    m_Alignment: 1
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "CREDITS\r\n\r\nLead Developer : Ilham Aji Irawan  \r\nProgrammer     :
-    Rina Nur Aisyah  \r\nArtist         : Arif Rahman  \r\nSound Designer : Kevin
-    Hartono  \r\n\r\nBackground Music: bensound.com  \r\nSound Effects  : freesound.org 
-    \r\n\r\nSpecial Thanks:  \r\n- Unity Indonesia Community  \r\n- Open Source Contributors 
-    \r\n\r\nThank you for playing!\r\n"
+  m_Text: "GAME CREDITS\r\n\r\nDibuat oleh:\r\nKelompok Proyek:\r\n- Dewa\r\n- Januar\r\n-
+    Aly\r\n- Ilham\r\n- Dzaky\r\n\r\nTerima kasih telah memainkan game kami!\r\n\r\n-------------------------\r\n\U0001F3A8
+    Asset Game:\r\n\r\n\U0001F464 Karakter:\r\n- Knight (Player) \u2014 Medieval
+    Warrior Pack 2 by Luiz Melo\r\n- Mulyono (Kucing) \u2014 Pet Cats Pixel Art Pack
+    by Luiz Melo\r\n- Lynx (Raja) \u2014 Medieval King Pack 2 by Luiz Melo\r\n- Boss
+    1 \u2014 Hero Knight by Luiz Melo\r\n- Enemy Skeleton \u2014 Monsters_Creatures_Fantasy
+    by Luiz Melo\r\n- Enemy Goblin \u2014 Monsters_Creatures_Fantasy by Luiz Melo\r\n-
+    Boss 2 \u2014 Martial Hero by Luiz Melo\r\n- Enemy Martial \u2014 Martial Hero
+    2 by Luiz Melo\r\n- Enemy Ninja \u2014 Ninja Enemy Pack by KBPixelArt\r\n- Enemy
+    Worm \u2014 Fore Worm by Luiz Melo\r\n- Enemy Huntress \u2014 Huntress by Luiz
+    Melo\r\n\r\n\U0001F5FA\uFE0F Map:\r\n- Map 1 \u2014 Pixel Valley by Kauzz\r\n-
+    Map 2 \u2014 Pixel Fantasy Caves by Szadi Art\r\n- Map 3 \u2014 Platformer Set
+    by Szadi Art\r\n\r\n\U0001F9F0 UI dan Item:\r\n- UI \u2014 Fantasy Wooden GUI
+    : Free by Black Hammer\r\n- Item \u2014 2D Pixel Item Asset Pack by Starled Pixels\r\n-
+    Chest \u2014 Pixel Art Platformer - Village Props by Cainos\r\n- Buff Effect
+    \u2014 Swordsman Skills Free Icons Pixel Art by CraftPix\r\n\r\n\U0001F50A Sound
+    Effect:\r\n- RPG Essensial Free SFX Pack by leohpaz\r\n\r\n-------------------------\r\nPowered
+    by Unity Engine\r\n\xA9 2025 Kelompok Game Dev. All rights reserved.\r\n"
 --- !u!222 &1608608367
 CanvasRenderer:
   m_ObjectHideFlags: 0
