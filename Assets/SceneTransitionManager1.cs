@@ -13,7 +13,6 @@ public class SceneTransitionManager1 : MonoBehaviour
 
     private void Awake()
     {
-        // Singleton
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
@@ -23,9 +22,14 @@ public class SceneTransitionManager1 : MonoBehaviour
         Instance = this;
         DontDestroyOnLoad(gameObject);
 
+        // Cari ulang fadeImage jika hilang (cadangan)
+        if (fadeImage == null)
+            fadeImage = GameObject.Find("FadeImage")?.GetComponent<Image>();
+
         if (fadeImage != null)
             fadeImage.gameObject.SetActive(true);
     }
+
 
     private void Start()
     {
@@ -48,29 +52,33 @@ public class SceneTransitionManager1 : MonoBehaviour
     {
         if (fadeImage == null)
         {
+            Debug.LogWarning("❗ fadeImage null, langsung LoadScene");
             SceneManager.LoadScene(sceneName);
             yield break;
         }
 
-        // Fade out
+        Debug.Log("🌓 Fade out...");
         yield return Fade(0f, 1f);
 
-        // ⏳ Tambahkan delay sebentar agar fade hitam terlihat
         yield return new WaitForSecondsRealtime(0.5f);
 
-        // Load scene
+        Debug.Log($"⏭️ Loading scene: {sceneName}");
         SceneManager.LoadScene(sceneName);
 
-        // Tunggu 1 frame
-        yield return null;
+        // Tunggu sampai fadeImage tersedia
+        yield return new WaitUntil(() => GameObject.Find("FadeImage") != null);
+        fadeImage = GameObject.Find("FadeImage").GetComponent<Image>();
 
-        // Cari ulang fadeImage jika perlu
-        if (fadeImage == null)
-            fadeImage = GameObject.Find("FadeImage")?.GetComponent<Image>();
+        if (GameObject.Find("FadeImage") == null)
+        {
+            Debug.LogError("FadeImage tidak ditemukan setelah LoadScene!");
+            yield break;
+        }
 
-        // Fade in
+        Debug.Log("🌕 Fade in...");
         yield return Fade(1f, 0f);
     }
+
 
 
     private IEnumerator Fade(float from, float to)

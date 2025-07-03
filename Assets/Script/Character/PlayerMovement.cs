@@ -240,11 +240,11 @@ public class PlayerMovement : MonoBehaviour
         // 🎬 Fade to GameOver Scene
         if (SceneTransitionManager1.Instance != null)
         {
-            SceneTransitionManager1.Instance.FadeToScene("MainMenu");
+            SceneTransitionManager1.Instance.FadeToScene("Gameover");
         }
         else
         {
-            UnityEngine.SceneManagement.SceneManager.LoadScene("MainMenu");
+            UnityEngine.SceneManagement.SceneManager.LoadScene("Gameover");
         }
     }
 
